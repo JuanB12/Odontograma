@@ -5,7 +5,7 @@ from config.db import bd, app, ma
 # Model sera esa transacción de la BD, es decir, guardar, eliminar, modificar, etc
 class Pacientes(bd.Model):
     # Nombre de la base de datos
-    __tablename__ = "tblPaciente"
+    __tablename__ = "tblPacientes"
 
     # Declaración de atributos
     Id_Paciente = bd.Column(bd.Integer, primary_key=True)

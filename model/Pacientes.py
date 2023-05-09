@@ -9,12 +9,11 @@ class Pacientes(bd.Model):
 
     # Declaración de atributos
     Id_Paciente = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
-    Id_Dentista_FK = bd.Column(bd.Integer, bd.ForeignKey("tblDentista.Id_Dentista"))
     # unique = variable unica
     Nombre = bd.Column(bd.String(50), unique=True, nullable=False)
     Correo = bd.Column(bd.String(50), unique=True, nullable=False)
     Telefono = bd.Column(bd.String(50))
-    Edad = bd.Column(bd.Integer(5))
+    Edad = bd.Column(bd.Integer())
     Tipo_Documento = bd.Column(bd.String(50), unique=True, nullable=False)
     Historial_Procedimiento = bd.Column(bd.String(100))
 

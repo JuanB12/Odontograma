@@ -2,11 +2,17 @@ from datetime import datetime
 from config.bd import bd, app, ma
 
 
-class Consultas(bd.Model):
-    __tablename__ = "tblConsultas"
+class Odontograma(bd.Model):
+    __tablename__ = "tblOdontograma"
 
-    Id_Consultas = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
+    Id_Odontograma = bd.Column(
+        bd.Integer, primary_key=True, unique=True, nullable=False
+    )
     Id_Paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblPacientes.Id_Paciente"))
+    Id_Dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tblDentista.Id_Dentista"))
+    Id_Facturacion_fk = bd.Column(
+        bd.Integer, bd.ForeignKey("tblFacturacion.Id_Facturacion")
+    )
     Fecha_Consulta = bd.Column(bd.DateTime)
     Antecedes_Medicos = bd.Column(bd.String(200))
     Medicamentos = bd.Column(bd.String(100))
@@ -19,6 +25,8 @@ class Consultas(bd.Model):
     def __init__(
         self,
         Id_Paciente_fk,
+        Id_Dentista_fk,
+        Id_Facturacion_fk,
         Fecha_Consulta,
         Antecedentes_Medicos,
         Medicamentos,
@@ -29,6 +37,8 @@ class Consultas(bd.Model):
         Resultados,
     ):
         self.Id_Paciente_fk = Id_Paciente_fk
+        self.Id_Dentista_fk = Id_Dentista_fk
+        self.Id_Facturacion_fk = Id_Facturacion_fk
         self.Fecha_Consulta = Fecha_Consulta
         self.Antecedes_Medicos = Antecedentes_Medicos
         self.Medicamentos = Medicamentos
@@ -44,11 +54,13 @@ with app.app_context():
 
 
 # Capturara todos los campos que quiero mostrarle al Usuario
-class Consultas_Schema(ma.Schema):
+class Odontograma_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Consultas",
+            "Id_Odontograma",
             "Id_Paciente_fk",
+            "Id_Dentista_fk",
+            "Id_Facturacion_fk",
             "Fecha_Consulta",
             "Antecedes_Medicos",
             "Medicamentos",

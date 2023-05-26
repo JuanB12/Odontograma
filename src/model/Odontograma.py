@@ -10,9 +10,9 @@ class Odontograma(bd.Model):
     )
     Id_Paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblPacientes.Id_Paciente"))
     Id_Dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tblDentista.Id_Dentista"))
-    Id_Facturacion_fk = bd.Column(
-        bd.Integer, bd.ForeignKey("tblFacturacion.Id_Facturacion")
-    )
+    # Id_Facturacion_fk = bd.Column(
+    #     bd.Integer, bd.ForeignKey("tblFacturacion.Id_Facturacion")
+    # )
     Fecha_Consulta = bd.Column(bd.DateTime)
     Antecedes_Medicos = bd.Column(bd.String(200))
     Medicamentos = bd.Column(bd.String(100))
@@ -26,7 +26,7 @@ class Odontograma(bd.Model):
         self,
         Id_Paciente_fk,
         Id_Dentista_fk,
-        Id_Facturacion_fk,
+        # Id_Facturacion_fk,
         Fecha_Consulta,
         Antecedentes_Medicos,
         Medicamentos,
@@ -38,7 +38,7 @@ class Odontograma(bd.Model):
     ):
         self.Id_Paciente_fk = Id_Paciente_fk
         self.Id_Dentista_fk = Id_Dentista_fk
-        self.Id_Facturacion_fk = Id_Facturacion_fk
+        # self.Id_Facturacion_fk = Id_Facturacion_fk
         self.Fecha_Consulta = Fecha_Consulta
         self.Antecedes_Medicos = Antecedentes_Medicos
         self.Medicamentos = Medicamentos
@@ -60,7 +60,7 @@ class Odontograma_Schema(ma.Schema):
             "Id_Odontograma",
             "Id_Paciente_fk",
             "Id_Dentista_fk",
-            "Id_Facturacion_fk",
+            # "Id_Facturacion_fk",
             "Fecha_Consulta",
             "Antecedes_Medicos",
             "Medicamentos",

@@ -4,11 +4,11 @@ from config.bd import bd, ma, app
 
 # ------------------------------------------------------------------------------
 from model.Pacientes import Pacientes, Pacientes_Schema
-from model.Facturacion import Facturacion, Facturacion_Schema
 from model.Dentista import Dentista, Dentista_Schema
 
 # ------------------------------------------------------------------------------
 from model.Odontograma import Odontograma, Odontograma_Schema
+from model.Facturacion import Facturacion, Facturacion_Schema
 from model.Agenda import Agenda, Agenda_Schema
 from model.Dientes import Dientes, Dientes_Schema
 from model.HistoriaClinica import Historia_Clinica, HistoriaC_Schema

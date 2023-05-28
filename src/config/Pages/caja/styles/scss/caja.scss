@@ -1,0 +1,911 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.caja-hTB {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #dddee0;
+  box-sizing: border-box;
+  padding-right: 2.8rem;
+  width: 100%;
+  overflow: hidden;
+
+  .auto-group-saay-dbj {
+    box-sizing: border-box;
+    width: 38.9rem;
+    background-color: #d9f0fd;
+    flex-direction: column;
+    box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
+    border-radius: 0.5rem;
+    margin-right: 0.5rem;
+    padding: 4.4rem 5rem 3.6rem 4.6rem;
+    height: 102.4rem;
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+
+    .luxurtooth-tnZ {
+      font-size: 4.8rem;
+      font-weight: 400;
+      color: #000000;
+      font-family: Hammersmith One, 'Source Sans Pro';
+      white-space: nowrap;
+      align-items: baseline;
+      flex-shrink: 0;
+      margin-bottom: 8.8rem;
+      display: flex;
+      line-height: 1.25;
+
+      .luxurtooth-tnZ-sub-0 {
+        font-family: Hammersmith One, 'Source Sans Pro';
+        font-size: 4.8rem;
+        font-weight: 400;
+        line-height: 1.25;
+        color: #30596d;
+      }
+      .luxurtooth-tnZ-sub-1 {
+        color: #c5c820;
+        font-family: Hammersmith One, 'Source Sans Pro';
+        font-size: 4.8rem;
+        font-weight: 400;
+        line-height: 1.25;
+      }
+    }
+    .inicio-Adb {
+      flex-shrink: 0;
+      margin: 0rem 11.5rem 5.4rem 0rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #30596d;
+      font-family: Hammersmith One, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .auto-group-x6hj-5Em {
+      width: calc(100% - 6.6rem);
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+      margin: 0rem 2.5rem 5.4rem 4.1rem;
+
+      .pacientes-CKP {
+        flex-shrink: 0;
+        margin-right: 5rem;
+        font-size: 3.2rem;
+        font-weight: 400;
+        line-height: 1.25;
+        color: #c5c820;
+        font-family: Hammersmith One, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .polygon-2-wGy {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-top: 0.2rem;
+        width: 2.5rem;
+        height: 2.9rem;
+      }
+    }
+    .auto-group-kptd-Gq3 {
+      margin: 0rem 2.5rem 5.5rem 4.1rem;
+      width: calc(100% - 6.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .consultas-bMX {
+        color: #c5c820;
+        font-family: Hammersmith One, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.1rem;
+        font-size: 3.2rem;
+        font-weight: 400;
+        line-height: 1.25;
+      }
+      .polygon-3-8sF {
+        margin-bottom: 0.5rem;
+        width: 2.5rem;
+        height: 2.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .auto-group-jxzq-rYM {
+      width: calc(100% - 6.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 2.5rem 5.3rem 4.1rem;
+
+      .dentistas-m9X {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 4.4rem;
+        font-size: 3.2rem;
+        font-weight: 400;
+        line-height: 1.25;
+        color: #c5c820;
+        font-family: Hammersmith One, 'Source Sans Pro';
+      }
+      .polygon-4-6xV {
+        margin-bottom: 0.3rem;
+        width: 2.5rem;
+        height: 2.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .auto-group-ahxr-qQH {
+      margin: 0rem 2.5rem 5.4rem 4.1rem;
+      width: calc(100% - 6.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .agenda-a6y {
+        font-family: Hammersmith One, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 8.4rem;
+        font-size: 3.2rem;
+        font-weight: 400;
+        line-height: 1.25;
+        color: #c5c820;
+      }
+      .polygon-5-Hn5 {
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-bottom: 0.5rem;
+        width: 2.5rem;
+        height: 2.9rem;
+        object-fit: contain;
+      }
+    }
+    .facturacion-RdP {
+      line-height: 1.25;
+      color: #30596d;
+      font-family: Hammersmith One, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 0.8rem 5.2rem 0rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+    }
+    .configuracion-kQm {
+      font-family: Hammersmith One, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 0rem 2.6rem 2.4rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #30596d;
+    }
+    .auto-group-uecm-Ta5 {
+      display: flex;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      padding: 5.6rem 2rem 5.72rem 1rem;
+      height: 16.8rem;
+      border-radius: 2rem;
+      flex-shrink: 0;
+      width: 100%;
+      align-items: center;
+      box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25), 0 1rem 1rem rgba(0, 0, 0, 0.25);
+
+      .icon-user-PCq {
+        margin-right: 0.5953rem;
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:168:260');
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.9rem 0.805rem 1.08rem 0.7rem;
+
+        .vector-Jah {
+          height: 3.5rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.5rem;
+        }
+      }
+      .doc-sebastian-p3F {
+        margin-top: 0.3197rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 1.25;
+        color: #30596d;
+        font-family: Hammersmith One, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .auto-group-bvwu-R33 {
+    flex-shrink: 0;
+    margin-bottom: 0.1969rem;
+    width: 101.8rem;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+
+    .auto-group-q8rh-8y3 {
+      height: 5rem;
+      flex-shrink: 0;
+      margin-bottom: 3.3rem;
+      box-sizing: border-box;
+      padding-left: 62.3rem;
+      width: 90.6rem;
+
+      .auto-group-5crz-4rh {
+        width: 100%;
+        display: flex;
+        font-weight: 800;
+        background-color: #f0f2f4;
+        padding: 0.1rem 6rem 0.1rem 4.8rem;
+        font-size: 3.2rem;
+        white-space: nowrap;
+        box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
+        height: 4.4rem;
+        color: #30596d;
+        justify-content: center;
+        box-sizing: border-box;
+        align-items: center;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        border-radius: 2rem;
+        margin-bottom: 0.6rem;
+      }
+    }
+    .auto-group-2dbb-6YV {
+      flex-shrink: 0;
+      width: 100%;
+      height: 89.5031rem;
+      position: relative;
+
+      .vector-1-muX {
+        width: 0.1315rem;
+        height: 2.9196rem;
+        position: absolute;
+        left: 27.2144rem;
+        top: 61.9359rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .vector-2-hYH {
+        top: 62.1077rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 0.05rem;
+        height: 0.3145rem;
+        position: absolute;
+        left: 26.9219rem;
+      }
+      .vector-3-dgq {
+        vertical-align: top;
+        width: 0.1776rem;
+        height: 0.8175rem;
+        position: absolute;
+        left: 27.3133rem;
+        top: 64.8996rem;
+        object-fit: contain;
+      }
+      .rectangle-1-yVo {
+        position: absolute;
+        left: 2.4rem;
+        top: 0;
+        box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25), 0 1rem 1rem rgba(0, 0, 0, 0.25);
+        background-color: #ffffff;
+        border-radius: 3rem;
+        width: 99.4rem;
+        height: 89.5rem;
+      }
+      .line-21-Fy7 {
+        left: 5.0999rem;
+        top: 73.1rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .line-13-PpR {
+        position: absolute;
+        left: 5.0999rem;
+        top: 79rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+        height: 0.2rem;
+      }
+      .line-14-YBX {
+        height: 0.2rem;
+        position: absolute;
+        left: 5.0999rem;
+        top: 84.4rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+      }
+      .line-12-5hF {
+        width: 0.2rem;
+        height: 16.2561rem;
+        position: absolute;
+        left: 23.525rem;
+        top: 73.247rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-22-Cms {
+        height: 16.2561rem;
+        position: absolute;
+        left: 46.525rem;
+        top: 73.247rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+      }
+      .line-23-M8y {
+        width: 0.2rem;
+        height: 16.2561rem;
+        position: absolute;
+        left: 70.525rem;
+        top: 73.247rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-24-hCq {
+        height: 16.2561rem;
+        position: absolute;
+        left: 90.525rem;
+        top: 73.247rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+      }
+      .line-6-RPj {
+        top: 31.7rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 4.0999rem;
+      }
+      .line-7-kwo {
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 4.0999rem;
+        top: 49.2rem;
+      }
+      .line-8-VuP {
+        left: 4.0999rem;
+        top: 67.8rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 94.3002rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .rectangle-3-qyF {
+        border-radius: 2rem;
+        width: 87.7rem;
+        height: 6.8rem;
+        position: absolute;
+        left: 6.8rem;
+        top: 4.8rem;
+        box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
+        background-color: #f0f2f4;
+      }
+      .total-en-caja--Akd {
+        width: 21.4rem;
+        display: flex;
+        font-family: Inter, 'Source Sans Pro';
+        justify-content: center;
+        font-size: 3.2rem;
+        line-height: 1.2125;
+        height: 3.9rem;
+        left: 8.5rem;
+        align-items: center;
+        font-weight: 800;
+        white-space: nowrap;
+        position: absolute;
+        top: 6.1rem;
+        color: #30596d;
+      }
+      .usuario--TDw {
+        white-space: nowrap;
+        font-family: Inter, 'Source Sans Pro';
+        width: 17.8rem;
+        left: 4.55rem;
+        font-size: 2.4rem;
+        display: flex;
+        justify-content: center;
+        line-height: 1.2125;
+        color: #30596d;
+        height: 3rem;
+        position: absolute;
+        top: 15.95rem;
+        align-items: center;
+        font-weight: 800;
+      }
+      .fecha-apertura--XzV {
+        font-weight: 800;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3rem;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        font-size: 2.4rem;
+        top: 21.05rem;
+        line-height: 1.2125;
+        width: 31.6rem;
+        left: 2.5rem;
+        display: flex;
+        color: #30596d;
+      }
+      .admin1-QoP {
+        height: 3rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+        justify-content: center;
+        position: absolute;
+        align-items: center;
+        font-weight: 800;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        width: 8.9rem;
+        left: 37.9rem;
+        top: 15.95rem;
+        display: flex;
+        font-size: 2.4rem;
+      }
+      .item-18-06-2023-W5j {
+        top: 21.05rem;
+        justify-content: center;
+        font-size: 2.4rem;
+        font-weight: 800;
+        color: #30596d;
+        position: absolute;
+        display: flex;
+        line-height: 1.2125;
+        align-items: center;
+        width: 14.5rem;
+        height: 3rem;
+        left: 36.2rem;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .saldo-inicial--mnM {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        line-height: 1.2125;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        height: 3rem;
+        font-size: 2.4rem;
+        width: 32.1rem;
+        top: 26.85rem;
+        align-items: center;
+        font-weight: 800;
+        white-space: nowrap;
+        left: 0;
+      }
+      .item-1000-rYu {
+        position: absolute;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        left: 38.8rem;
+        top: 26.15rem;
+        align-items: center;
+        line-height: 1.2125;
+        width: 7.9rem;
+        justify-content: center;
+        font-size: 2.4rem;
+        font-weight: 800;
+        height: 3rem;
+        display: flex;
+      }
+      .item-1000-N1T {
+        width: 7.9rem;
+        height: 3rem;
+        position: absolute;
+        left: 38.8rem;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        top: 34.05rem;
+        display: flex;
+        align-items: center;
+        font-weight: 800;
+        color: #30596d;
+        white-space: nowrap;
+        justify-content: center;
+        line-height: 1.2125;
+      }
+      .item-1000-1q7 {
+        align-items: center;
+        color: #30596d;
+        top: 80.15rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        position: absolute;
+        left: 91.5rem;
+        font-weight: 800;
+        white-space: nowrap;
+        height: 3rem;
+        font-size: 2.4rem;
+        justify-content: center;
+        width: 7.9rem;
+        display: flex;
+      }
+      .efectivo-L6h {
+        display: flex;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        width: 9.8rem;
+        position: absolute;
+        left: 29.9rem;
+        top: 80.75rem;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.2125;
+        height: 3rem;
+        font-size: 2.4rem;
+        font-weight: 800;
+        white-space: nowrap;
+      }
+      .item-023423-SfX {
+        display: flex;
+        align-items: center;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        height: 3rem;
+        top: 80.75rem;
+        white-space: nowrap;
+        position: absolute;
+        justify-content: center;
+        font-size: 2.4rem;
+        left: 53rem;
+        font-weight: 800;
+        color: #30596d;
+        width: 9.7rem;
+      }
+      .control-82Z {
+        position: absolute;
+        display: flex;
+        font-size: 2.4rem;
+        white-space: nowrap;
+        width: 8.9rem;
+        top: 80.75rem;
+        height: 3rem;
+        align-items: center;
+        justify-content: center;
+        font-weight: 800;
+        left: 75.4rem;
+        line-height: 1.2125;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .item-300-qSm {
+        font-size: 2.4rem;
+        position: absolute;
+        align-items: center;
+        display: flex;
+        font-weight: 800;
+        line-height: 1.2125;
+        width: 6.6rem;
+        left: 39.4rem;
+        color: #30596d;
+        height: 3rem;
+        justify-content: center;
+        white-space: nowrap;
+        top: 39.05rem;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .item-200-KMw {
+        display: flex;
+        height: 3rem;
+        font-size: 2.4rem;
+        font-weight: 800;
+        line-height: 1.2125;
+        justify-content: center;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        position: absolute;
+        left: 39.4rem;
+        top: 44.05rem;
+        align-items: center;
+        width: 6.6rem;
+        white-space: nowrap;
+      }
+      .item-2500-Rfs {
+        font-family: Inter, 'Source Sans Pro';
+        position: absolute;
+        display: flex;
+        align-items: center;
+        font-size: 3.2rem;
+        line-height: 1.2125;
+        height: 3.9rem;
+        left: 81.6rem;
+        font-weight: 800;
+        white-space: nowrap;
+        width: 10.8rem;
+        justify-content: center;
+        color: #30596d;
+        top: 6.2rem;
+      }
+      .efectivo--61K {
+        left: 8.05rem;
+        top: 34.05rem;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+        position: absolute;
+        display: flex;
+        font-size: 2.4rem;
+        height: 3rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+        width: 10.6rem;
+        align-items: center;
+        font-weight: 800;
+        color: #30596d;
+      }
+      .debito--NzR {
+        position: absolute;
+        color: #30596d;
+        justify-content: center;
+        font-weight: 800;
+        height: 3rem;
+        left: 9rem;
+        top: 39.05rem;
+        display: flex;
+        align-items: center;
+        font-size: 2.4rem;
+        width: 8.6rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .credito--V3T {
+        width: 9.6rem;
+        color: #30596d;
+        height: 3rem;
+        position: absolute;
+        top: 44.05rem;
+        align-items: center;
+        justify-content: center;
+        font-size: 2.4rem;
+        display: flex;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        left: 8.5rem;
+        font-weight: 800;
+      }
+      .cobrado--kVB {
+        position: absolute;
+        font-size: 2.4rem;
+        color: #30596d;
+        align-items: center;
+        font-weight: 800;
+        left: 7.8rem;
+        top: 51.75rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+        width: 11rem;
+        height: 3rem;
+        display: flex;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .nombre-fc9 {
+        display: flex;
+        white-space: nowrap;
+        width: 9.4rem;
+        position: absolute;
+        line-height: 1.2125;
+        color: #c5c820;
+        top: 74.75rem;
+        font-size: 2.4rem;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+        left: 8.6rem;
+        align-items: center;
+        height: 3rem;
+        font-weight: 800;
+      }
+      .juan-b-k7o {
+        left: 9.3rem;
+        display: flex;
+        white-space: nowrap;
+        position: absolute;
+        font-weight: 800;
+        line-height: 1.2125;
+        justify-content: center;
+        font-size: 2.4rem;
+        align-items: center;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+        width: 8rem;
+        height: 3rem;
+        top: 80.75rem;
+      }
+      .forma-pago-eU5 {
+        position: absolute;
+        font-size: 2.4rem;
+        font-weight: 800;
+        color: #c5c820;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.2125;
+        height: 3rem;
+        left: 28rem;
+        display: flex;
+        font-family: Inter, 'Source Sans Pro';
+        width: 13.9rem;
+        top: 74.75rem;
+        white-space: nowrap;
+      }
+      .id-factura-jVX {
+        font-weight: 800;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+        color: #c5c820;
+        width: 11.9rem;
+        height: 3rem;
+        left: 52rem;
+        top: 74.75rem;
+        justify-content: center;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .servicio-r4M {
+        align-items: center;
+        justify-content: center;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        height: 3rem;
+        display: flex;
+        font-weight: 800;
+        color: #c5c820;
+        width: 9.8rem;
+        left: 75.2rem;
+        top: 74.75rem;
+        position: absolute;
+        white-space: nowrap;
+      }
+      .item--ZDf {
+        top: 74.75rem;
+        font-size: 2.4rem;
+        width: 3.2rem;
+        left: 93.5rem;
+        display: flex;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        font-weight: 800;
+        line-height: 1.2125;
+        height: 3rem;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        color: #c5c820;
+      }
+      .transacciones-de-la-caja-F6V {
+        position: absolute;
+        font-weight: 800;
+        line-height: 1.2125;
+        white-space: nowrap;
+        align-items: center;
+        justify-content: center;
+        font-size: 3.2rem;
+        width: 39.4rem;
+        height: 3.9rem;
+        left: 31.6rem;
+        top: 68.7rem;
+        display: flex;
+        color: #c5c820;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .gastos--MQR {
+        position: absolute;
+        width: 9.2rem;
+        align-items: center;
+        font-weight: 800;
+        font-family: Inter, 'Source Sans Pro';
+        height: 3rem;
+        left: 8.7rem;
+        top: 56.75rem;
+        display: flex;
+        justify-content: center;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        color: #30596d;
+        white-space: nowrap;
+      }
+      .total--DxR {
+        position: absolute;
+        line-height: 1.2125;
+        font-size: 2.4rem;
+        width: 6.7rem;
+        left: 10rem;
+        top: 62.45rem;
+        display: flex;
+        white-space: nowrap;
+        height: 3rem;
+        align-items: center;
+        font-weight: 800;
+        color: #30596d;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .item-1500-iPP {
+        font-family: Inter, 'Source Sans Pro';
+        top: 51.85rem;
+        font-size: 2.4rem;
+        font-weight: 800;
+        line-height: 1.2125;
+        color: #30596d;
+        left: 39.4rem;
+        justify-content: center;
+        height: 3rem;
+        position: absolute;
+        align-items: center;
+        white-space: nowrap;
+        width: 7.8rem;
+        display: flex;
+      }
+      .item-0-AmB {
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        font-weight: 800;
+        line-height: 1.2125;
+        color: #30596d;
+        white-space: nowrap;
+        width: 3.3rem;
+        height: 3rem;
+        left: 41.7rem;
+        font-size: 2.4rem;
+        position: absolute;
+        top: 57.05rem;
+        align-items: center;
+        justify-content: center;
+      }
+      .item-2500-gUd {
+        width: 8.1rem;
+        white-space: nowrap;
+        top: 61.85rem;
+        font-size: 2.4rem;
+        font-weight: 800;
+        line-height: 1.2125;
+        height: 3rem;
+        position: absolute;
+        left: 39.3rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #30596d;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+  }
+}

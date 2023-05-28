@@ -1,26 +1,38 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+
+a {
+  text-decoration: none;
+  color: #fff;
 }
+
+ul,
+li {
+  list-style: none;
+}
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 128rem;
-}.macbook-air-1-HsT {
+}
+
+.macbook-air-1-HsT {
   width: 100%;
   height: 83.2rem;
   position: relative;
   overflow: hidden;
   background-color: #ffffff;
 }
+
 .macbook-air-1-HsT .rectangle-1-pMb {
   width: 74.1rem;
   height: 75.4rem;
@@ -31,6 +43,7 @@ body {
   background-color: #fdfdfd;
   border-radius: 3rem;
 }
+
 .macbook-air-1-HsT .luxurtooth-hAV {
   width: 39rem;
   height: 8rem;
@@ -46,6 +59,7 @@ body {
   display: flex;
   align-items: baseline;
 }
+
 .macbook-air-1-HsT .luxurtooth-hAV .luxurtooth-hAV-sub-0 {
   font-size: 6.4rem;
   font-weight: 400;
@@ -53,6 +67,7 @@ body {
   color: #30596d;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .macbook-air-1-HsT .luxurtooth-hAV .luxurtooth-hAV-sub-1 {
   font-size: 6.4rem;
   font-weight: 400;
@@ -60,6 +75,7 @@ body {
   color: #c5c820;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .macbook-air-1-HsT .rectangle-3-8v1 {
   width: 56.9rem;
   height: 10.5rem;
@@ -70,6 +86,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .macbook-air-1-HsT .email-42y {
   width: 9.8rem;
   height: 4.7rem;
@@ -83,6 +100,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .macbook-air-1-HsT .rectangle-2-ZkR {
   width: 56.9rem;
   height: 10.5rem;
@@ -93,6 +111,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .macbook-air-1-HsT .password-V8H {
   width: 17.8rem;
   height: 4.7rem;
@@ -106,6 +125,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .macbook-air-1-HsT .login-QFF {
   width: 18.3rem;
   height: 7.3rem;
@@ -116,6 +136,7 @@ body {
   background: linear-gradient(113.13deg, #30596d 29.93%, #c5c820 89.3%);
   border-radius: 3rem;
 }
+
 .macbook-air-1-HsT .log-in-V1o {
   width: 12.2rem;
   height: 5.1rem;
@@ -129,6 +150,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .macbook-air-1-HsT .sign-up-CB7 {
   width: 15.1rem;
   height: 5.1rem;
@@ -142,6 +164,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .macbook-air-1-HsT .person-outline-Jjw {
   width: 2.2rem;
   height: 2.4rem;
@@ -151,6 +174,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .macbook-air-1-HsT .lock-closed-qUy {
   width: 2.75rem;
   height: 3.75rem;

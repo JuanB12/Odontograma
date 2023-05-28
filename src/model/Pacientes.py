@@ -12,6 +12,7 @@ class Pacientes(bd.Model):
     # unique = variable unica
     Nombre = bd.Column(bd.String(50), unique=True, nullable=False)
     Correo = bd.Column(bd.String(50), unique=True, nullable=False)
+    Pass = bd.Column(bd.String(50), unique=True, nullable=False)
     Telefono = bd.Column(bd.String(50))
     Edad = bd.Column(bd.Integer())
     Tipo_Documento = bd.Column(bd.String(50), unique=True, nullable=False)

@@ -1,20 +1,31 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+
+ul,
+li {
+  list-style: none;
 }
+
 input {
-	border: none;
+  border: none;
 }
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
 body {
   width: 144rem;
-}.ecritorio-WMB {
+}
+
+.ecritorio-WMB {
   box-sizing: border-box;
   padding-right: 2.8rem;
   width: 100%;
@@ -24,6 +35,7 @@ body {
   align-items: center;
   background-color: #30596d;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq {
   margin-right: 2.9rem;
   box-sizing: border-box;
@@ -38,6 +50,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .luxurtooth-hwT {
   margin-bottom: 8.8rem;
   font-size: 4.8rem;
@@ -50,6 +63,7 @@ body {
   align-items: baseline;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .luxurtooth-hwT .luxurtooth-hwT-sub-0 {
   font-size: 4.8rem;
   font-weight: 400;
@@ -57,6 +71,7 @@ body {
   color: #30596d;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .luxurtooth-hwT .luxurtooth-hwT-sub-1 {
   font-size: 4.8rem;
   font-weight: 400;
@@ -64,6 +79,7 @@ body {
   color: #c5c820;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .inicio-8fP {
   margin: 0rem 11.5rem 5.4rem 0rem;
   font-size: 3.2rem;
@@ -74,6 +90,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-dxkj-FV7 {
   margin: 0rem 2.5rem 5.4rem 4.1rem;
   width: calc(100% - 6.6rem);
@@ -81,6 +98,7 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-dxkj-FV7 .pacientes-NZj {
   margin-right: 5rem;
   font-size: 3.2rem;
@@ -91,6 +109,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-dxkj-FV7 .polygon-2-hc1 {
   margin-top: 0.2rem;
   width: 2.5rem;
@@ -99,6 +118,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-x33b-S3o {
   margin: 0rem 2.5rem 5.5rem 4.1rem;
   width: calc(100% - 6.6rem);
@@ -106,6 +126,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-x33b-S3o .consultas-9iu {
   margin-right: 3.1rem;
   font-size: 3.2rem;
@@ -116,6 +137,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-x33b-S3o .polygon-3-VXs {
   margin-bottom: 0.5rem;
   width: 2.5rem;
@@ -124,6 +146,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-eznd-EVT {
   margin: 0rem 2.5rem 5.3rem 4.1rem;
   width: calc(100% - 6.6rem);
@@ -131,6 +154,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-eznd-EVT .dentistas-N5s {
   margin-right: 4.4rem;
   font-size: 3.2rem;
@@ -141,6 +165,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-eznd-EVT .polygon-4-WSy {
   margin-bottom: 0.3rem;
   width: 2.5rem;
@@ -149,6 +174,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-n61t-F9f {
   margin: 0rem 2.5rem 5.4rem 4.1rem;
   width: calc(100% - 6.6rem);
@@ -156,6 +182,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-n61t-F9f .agenda-Nzy {
   margin-right: 8.4rem;
   font-size: 3.2rem;
@@ -166,6 +193,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-n61t-F9f .polygon-5-KQR {
   margin-bottom: 0.5rem;
   width: 2.5rem;
@@ -174,6 +202,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .facturacion-F3B {
   margin: 0rem 0.8rem 5.2rem 0rem;
   font-size: 3.2rem;
@@ -184,6 +213,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .configuracion-Afw {
   margin: 0rem 0rem 2.6rem 2.4rem;
   font-size: 3.2rem;
@@ -194,6 +224,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-g2a1-Vy7 {
   box-sizing: border-box;
   padding: 5.6rem 10.8rem 5.72rem 1rem;
@@ -206,6 +237,7 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-g2a1-Vy7 .icon-user-EA1 {
   margin-right: 0.5953rem;
   box-sizing: border-box;
@@ -217,12 +249,14 @@ body {
   background-image: url('../assets/vector-mKb.png');
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-g2a1-Vy7 .icon-user-EA1 .vector-xLu {
   width: 3.5rem;
   height: 3.5rem;
   object-fit: contain;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-xbhf-SEq .auto-group-g2a1-Vy7 .p-juan-b-5wK {
   margin-top: 0.3197rem;
   font-size: 3rem;
@@ -233,17 +267,20 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb {
   margin-top: 2.5rem;
   width: 99.4rem;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z {
   margin: 0rem 0rem 1.2rem 3.8rem;
   height: 4.4rem;
   display: flex;
   align-items: center;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z .icon-menu-mxZ {
   margin: 0rem 2.4rem 0.251rem 0rem;
   width: 2.5rem;
@@ -252,6 +289,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z .auto-group-mvkf-tnH {
   margin-right: 39.9rem;
   box-sizing: border-box;
@@ -264,6 +302,7 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z .auto-group-mvkf-tnH .buscar-diagnostico-QEq {
   margin-right: 6.9rem;
   font-size: 2.4rem;
@@ -274,6 +313,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z .auto-group-mvkf-tnH .icon-search-XaM {
   margin-bottom: 0.6rem;
   width: 2rem;
@@ -282,6 +322,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-oecd-42Z .icon-bell-1kR {
   margin-bottom: 0.2672rem;
   width: 3rem;
@@ -290,11 +331,13 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM {
   width: 100%;
   height: 89.5rem;
   position: relative;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .vector-1-s1w {
   width: 0.1315rem;
   height: 2.9196rem;
@@ -304,6 +347,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .vector-2-CK7 {
   width: 0.05rem;
   height: 0.3145rem;
@@ -313,6 +357,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .vector-3-XMP {
   width: 0.1776rem;
   height: 0.8175rem;
@@ -322,6 +367,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-1-4MK {
   width: 99.4rem;
   height: 89.5rem;
@@ -332,6 +378,7 @@ body {
   background-color: #ffffff;
   border-radius: 3rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .sede-principal-283-doc-sebastian-tel-3137283923-sebasluxurtoothcom-id-73894983-mFj {
   width: 26.3rem;
   height: 15rem;
@@ -344,6 +391,7 @@ body {
   color: #000000;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .diagnostico-medico-dYq {
   width: 43.1rem;
   height: 6rem;
@@ -357,6 +405,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .luxurtooth-7iu {
   width: 29.3rem;
   height: 6rem;
@@ -372,6 +421,7 @@ body {
   display: flex;
   align-items: baseline;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .luxurtooth-7iu .luxurtooth-7iu-sub-0 {
   font-size: 4.8rem;
   font-weight: 400;
@@ -379,6 +429,7 @@ body {
   color: #30596d;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .luxurtooth-7iu .luxurtooth-7iu-sub-1 {
   font-size: 4.8rem;
   font-weight: 400;
@@ -386,6 +437,7 @@ body {
   color: #c5c820;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .id-101062893-DQZ {
   width: 13rem;
   height: 2.5rem;
@@ -399,6 +451,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .registrado-el-21-10-2021-3-18-pm-8Gd {
   width: 30.2rem;
   height: 2.5rem;
@@ -412,6 +465,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .juan-barrios-20-aos-pv9 {
   width: 28.5rem;
   height: 4rem;
@@ -427,6 +481,7 @@ body {
   display: flex;
   align-items: baseline;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .juan-barrios-20-aos-pv9 .juan-barrios-20-aos-pv9-sub-0 {
   font-size: 3.2rem;
   font-weight: 400;
@@ -443,6 +498,7 @@ body {
   top: 1.5007rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .line-2-ZFT {
   width: 0.3rem;
   height: 4rem;
@@ -451,6 +507,7 @@ body {
   top: 6.1007rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-3-Hx9 {
   width: 30.1rem;
   height: 4.8rem;
@@ -461,6 +518,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .juan-barrios-Bnd {
   width: 13.4rem;
   height: 3rem;
@@ -474,6 +532,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-4-hky {
   width: 30.1rem;
   height: 4.8rem;
@@ -484,6 +543,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-5-1Fs {
   width: 30.1rem;
   height: 4.8rem;
@@ -494,6 +554,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .item-101062893-u6M {
   width: 12.5rem;
   height: 3rem;
@@ -507,6 +568,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-6-oBj {
   width: 30.1rem;
   height: 4.8rem;
@@ -517,6 +579,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-7-Hch {
   width: 30.1rem;
   height: 4.8rem;
@@ -527,6 +590,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-8-npM {
   width: 30.1rem;
   height: 4.8rem;
@@ -537,6 +601,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .item-10-04-2023-tcV {
   width: 13.2rem;
   height: 3rem;
@@ -550,6 +615,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .item-15-04-2023-nxm {
   width: 13.2rem;
   height: 3rem;
@@ -563,6 +629,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .item-10-05-2023-UKo {
   width: 13.4rem;
   height: 3rem;
@@ -576,6 +643,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-9-xVs {
   width: 34.9rem;
   height: 16.9rem;
@@ -586,6 +654,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-10-FUy {
   width: 34.9rem;
   height: 16.9rem;
@@ -596,6 +665,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-11-LmK {
   width: 34.9rem;
   height: 16.9rem;
@@ -606,6 +676,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-12-Erh {
   width: 34.9rem;
   height: 16.9rem;
@@ -616,6 +687,7 @@ body {
   background-color: #30596d;
   border-radius: 2rem;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-13-Kt9 {
   width: 24.9827rem;
   height: 17.3475rem;
@@ -625,6 +697,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .rectangle-14-TUZ {
   width: 22.7278rem;
   height: 19.4406rem;
@@ -634,6 +707,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .sebastian-t-nWq {
   width: 13rem;
   height: 3rem;
@@ -647,6 +721,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .dolor-e-hinchazn-en-las-encas-superiores-JEH {
   width: 31.9rem;
   height: 6rem;
@@ -659,6 +734,7 @@ body {
   color: #ffffff;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .uso-de-flor-empaste-y-coronas-en-caninos-superiores-24-28-kry {
   width: 25.7rem;
   height: 9rem;
@@ -671,6 +747,7 @@ body {
   color: #ffffff;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .motivo-de-admision-23o {
   width: 21.3rem;
   height: 3rem;
@@ -684,6 +761,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .diagnostio-al-ingreso-WUm {
   width: 23.5rem;
   height: 3rem;
@@ -697,6 +775,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .diagnostico-al-alta-QKF {
   width: 20.7rem;
   height: 3rem;
@@ -710,6 +789,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .tratamiento-umo {
   width: 13.7rem;
   height: 3rem;
@@ -723,6 +803,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .caries-en-los-caninos-maxilar-superior-DXb {
   width: 32.1rem;
   height: 6rem;
@@ -735,6 +816,7 @@ body {
   color: #ffffff;
   font-family: Hammersmith One, 'Source Sans Pro';
 }
+
 .ecritorio-WMB .auto-group-jfws-iDb .auto-group-n6n9-YkM .caninos-superiores-daados-fueron-restaurados-vS1 {
   width: 31.1rem;
   height: 6rem;

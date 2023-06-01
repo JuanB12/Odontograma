@@ -1,24 +1,24 @@
 from datetime import datetime
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 
 class Facturacion(bd.Model):
-    __tablename__ = "tblFacturacion"
+    __tablename__ = "tblfacturacion"
 
-    Id_Facturacion = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
-    Id_Servicio_fk = bd.Column(bd.Integer, bd.ForeignKey("tblServicio.Id_Servicio"))
+    id_facturacion = bd.Column(bd.Integer, primary_key=True)
+    id_servicio_fk = bd.Column(bd.Integer, bd.ForeignKey("tblservicio.id_servicio"))
+    id_metodo_fk = bd.Column(bd.Integer, bd.ForeignKey("tblmetodopago.id_metodopago"))
     Valor = bd.Column(bd.String(25))
-    Metodo_Pago = bd.Column(bd.Integer)
-
+    
     def __init__(
         self,
-        Id_Servicio_fk,
+        id_servicio_fk,
+        id_metodo_fk,
         Valor,
-        Metodo_Pago
         ):
-        self.Id_Servicio_fk = Id_Servicio_fk
+        self.Id_Servicio_fk = id_servicio_fk
+        self.id_metodo_fk = id_metodo_fk
         self.Valor = Valor
-        self.Metodo_Pago = Metodo_Pago
 
 
 with app.app_context():
@@ -28,8 +28,8 @@ with app.app_context():
 class Facturacion_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Facturacion",
-            "Id_Servicio_fk",
+            "id_facturacion",
+            "id_servicio_fk",
+            "id_metodo_fk",
             "Valor",
-            "Metodo_Pago",
         )

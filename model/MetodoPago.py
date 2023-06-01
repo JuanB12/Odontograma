@@ -1,21 +1,19 @@
 from datetime import datetime
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 
 class MetodoPago(bd.Model):
-    __tablename__ = "tblMetodoPago"
+    __tablename__ = "tblmetodopago"
 
-    Id_Metodo_Pago = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
+    id_metodopago = bd.Column(bd.Integer, primary_key=True)
     Valor = bd.Column(bd.String(25))
     Nombre = bd.Column(bd.String(25))
 
     def __init__(
         self,
-        Id_Servicio_fk,
         Valor,
         Metodo_Pago
         ):
-        self.Id_Servicio_fk = Id_Servicio_fk
         self.Valor = Valor
         self.Metodo_Pago = Metodo_Pago
 
@@ -27,8 +25,7 @@ with app.app_context():
 class MetodoPago_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Facturacion",
-            "Id_Servicio_fk",
+            "id_metodopago",
             "Valor",
             "Metodo_Pago",
         )

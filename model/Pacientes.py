@@ -1,24 +1,26 @@
 # importamos el paquete de config, porque este tiene la configuración de la BD
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 
 class Paciente(bd.Model):
-    __tablename__ = "tblPaciente"
+    __tablename__ = "tblpaciente"
 
-    Id_Paciente = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
-    Id_Dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tblDentista.Id_Dentista"))
-    Id_Usuario_fk = bd.Column(bd.Integer, bd.ForeignKey("tblUsuario.Id_Usuario"))
+    id_paciente = bd.Column(bd.Integer, primary_key=True)
+    id_dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tbldentista.id_dentista"))
+    id_usuario_fk = bd.Column(bd.Integer, bd.ForeignKey("tblusuario.id_usuario"))
     Diente = bd.Column(bd.Integer())
     Tratamiento = bd.Column(bd.String(50))
     
     def __init__(
         self,
-        Id_Dentista_FK,
+        id_paciente_fk,
+        id_dentista_fk,
+        id_usuario_fk,
         Diente,
         Tratamiento,
-        
     ):
-        self.Id_Dentista_FK = Id_Dentista_FK
+        self.id_dentista_fk = id_dentista_fk
+        self.id_usuario_fk = id_usuario_fk
         self.Diente = Diente
         self.Tratamiento = Tratamiento
 
@@ -30,8 +32,9 @@ with app.app_context():
 class Paciente_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Paciente",
-            "Id_Dentista_FK",
+            "id_paciente",
+            "id_dentista_fk",
+            "id_usuario_fk",
             "Diente",
             "Tratamiento",
         )

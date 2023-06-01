@@ -1,21 +1,21 @@
 from datetime import datetime
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 
 class Historia_Clinica(bd.Model):
-    __tablename__ = "tblHistoria_Clinica"
+    __tablename__ = "tblhistoriaclinica"
 
-    Id_HistoriaClinica = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
-    Id_Paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblPacientes.Id_Paciente"))
-    Id_Odontograma_fk = bd.Column(bd.Integer, bd.ForeignKey("tblOdontograma.Id_Odontograma"))
+    id_historiaclinica = bd.Column(bd.Integer, primary_key=True)
+    id_odontograma_fk = bd.Column(bd.Integer, bd.ForeignKey("tblodontograma.id_odontograma"))
+    id_paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblpaciente.id_paciente"))
 
     def __init__(
         self,
-        Id_Paciente_fk,
-        Id_Odontograma_fk,
+        id_odontograma_fk,
+        id_paciente_fk,
     ):
-        self.Id_Paciente_fk = Id_Paciente_fk
-        self.Id_Odontograma_fk = Id_Odontograma_fk
+        self.id_odontograma_fk = id_odontograma_fk
+        self.id_paciente_fk = id_paciente_fk
 
 
 with app.app_context():
@@ -25,7 +25,7 @@ with app.app_context():
 class HistoriaC_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_HistoriaClinica",
-            "Id_Paciente_fk",
-            "Id_Odontograma_fk",
+            "id_historiaclinica",
+            "id_odontograma_fk",
+            "id_paciente_fk",
         )

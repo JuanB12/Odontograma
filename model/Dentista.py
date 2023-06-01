@@ -1,9 +1,9 @@
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 class Dentista(bd.Model):
-    __tablename__ = "tblDentista"
+    __tablename__ = "tbldentista"
 
-    Id_Dentista = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
+    id_dentista = bd.Column(bd.Integer, primary_key=True)
     Especializacion = bd.Column(bd.String(50))
     Hora_Reserva = bd.Column(bd.String(25))
 
@@ -17,7 +17,7 @@ with app.app_context():
 class Dentista_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Dentista",
+            "id_dentista",
             "Especializacion",
             "Hora_Reserva",
         )

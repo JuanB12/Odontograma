@@ -1,10 +1,10 @@
 from datetime import datetime
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 class Servicio(bd.Model):
-    __tablename__ = "tblServicio"
+    __tablename__ = "tblservicio"
     
-    Id_Servicio  = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
+    id_servicio  = bd.Column(bd.Integer, primary_key=True)
     Nombre = bd.Column(bd.String(100))
     Tiempo_Servicio = bd.Column(bd.String(25))
     Valor_Servicio = bd.Column(bd.String(25))
@@ -20,7 +20,7 @@ with app.app_context():
 class Servicio_Schema(ma.Schema):
     class Meta:
         fields=(
-            "Id_Servicio",
+            "id_servicio",
             "Nombre",
             "Tiempo_Servicio",
             "Valor_Servicio"

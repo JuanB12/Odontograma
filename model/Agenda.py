@@ -1,31 +1,31 @@
 from datetime import datetime
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 
 class Agenda(bd.Model):
-    __tablename__ = "tblAgenda"
+    __tablename__ = "tblagenda"
 
-    Id_Agenda = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
-    Id_Paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblPacientes.Id_Paciente"))
-    Id_Dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tblDentista.Id_Dentista"))
-    Id_Servicio_fk = bd.Column(bd.Integer, bd.ForeignKey("tblServicio.Id_Servicio"))
+    id_agenda = bd.Column(bd.Integer, primary_key=True)
+    id_paciente_fk = bd.Column(bd.Integer, bd.ForeignKey("tblpaciente.id_paciente"))
+    id_dentista_fk = bd.Column(bd.Integer, bd.ForeignKey("tbldentista.id_dentista"))
+    id_servicio_fk = bd.Column(bd.Integer, bd.ForeignKey("tblservicio.id_servicio"))
     Hora_Reserva = bd.Column(bd.String(25))
     Fecha_Reserva = bd.Column(bd.String(25))
-    
+
 
     def __init__(
         self,
-        Id_Paciente_fk,
-        Id_Dentista_fk,
-        Id_Servicio_fk,
+        id_paciente_fk,
+        id_dentista_fk,
+        id_servicio_fk,
         Hora_Reserva,
         Fecha_Reserva
     ):
-        self.Id_Paciente_fk = Id_Paciente_fk
-        self.Id_Dentista_fk = Id_Dentista_fk
-        self.Id_Servicio_fk = Id_Servicio_fk
-        self.Fecha_Reserva = Fecha_Reserva
+        self.id_paciente_fk = id_paciente_fk
+        self.id_dentista_fk = id_dentista_fk
+        self.id_servicio_fk = id_servicio_fk
         self.Hora_Reserva = Hora_Reserva
+        self.Fecha_Reserva = Fecha_Reserva
 
 
 with app.app_context():
@@ -35,10 +35,10 @@ with app.app_context():
 class Agenda_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Agenda",
-            "Id_Paciente_fk",
-            "Id_Dentista_fk",
-            "Id_Servicio_fk",
-            "Hora_Reserva",
-            "Fecha_Reserva"
+            "id_agenda",
+            "id_paciente_fk",
+            "id_dentista_fk",
+            "id_servicio_fk",
+            "Fecha_Reserva",
+            "Hora_Reserva"
         )

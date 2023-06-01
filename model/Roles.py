@@ -1,8 +1,9 @@
-from config.bd import bd, app, ma
+from config.db import bd, app, ma
 
 class Roles(bd.Model):
-    __tablename__ = "tblRoles"
-    Id_Rol = bd.Column(bd.Integer, primary_key=True, unique=True, nullable=False)
+    __tablename__ = "tblroles"
+    
+    id_rol = bd.Column(bd.Integer, primary_key=True)
     Nombre = bd.Column(bd.String(25))
 
     def __init__(self, Nombre):
@@ -14,6 +15,6 @@ with app.app_context():
 class Roles_Schema(ma.Schema):
     class Meta:
         fields = (
-            "Id_Rol",
+            "id_rol",
             "Nombre",
         )

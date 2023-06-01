@@ -1,0 +1,868 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.agenda-7MX {
+  box-sizing: border-box;
+  padding: 2.7rem 2.2rem 3rem 2.4rem;
+  overflow: hidden;
+  background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
+  width: 100%;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  .head-cJH {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    margin: 0rem 2rem 0.4rem 0rem;
+    height: 21.5rem;
+    overflow: hidden;
+
+    .auto-group-vxyp-8Gd {
+      margin-right: 2.7333rem;
+      width: 113rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .auto-group-j8ih-Fs3 {
+        margin: 0rem 4rem 1.2rem 0rem;
+        width: calc(100% - 4rem);
+        height: 5.3rem;
+        display: flex;
+        align-items: center;
+
+        .auto-group-wa4v-yY9 {
+          box-sizing: border-box;
+          padding: 0.1rem 6rem 0.2rem 0rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .luxurtooth-JqK {
+            line-height: 1.25;
+            color: rgba(217, 217, 217, 0.6999999881);
+            font-family: Hammersmith One, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0.4rem 0.4rem 0rem 0rem;
+            font-size: 3.5rem;
+            font-weight: 400;
+          }
+          .rectangle-4-zi9 {
+            width: 5rem;
+            height: 5rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-vqch-8JZ {
+          align-items: center;
+          background-color: rgba(217, 217, 217, 0.6999999881);
+          border-radius: 4rem;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.4rem 59.2rem 1.3rem 1.9rem;
+          height: 100%;
+          display: flex;
+
+          .icon-search-S4M {
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 1.6rem 0.154rem 0rem;
+            width: 2.5rem;
+            height: 2.249rem;
+          }
+          .buscar-fecha-wWu {
+            line-height: 1.2575;
+            color: #ffffff;
+            font-family: Tahoma, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 400;
+          }
+        }
+      }
+      .auto-group-pekf-3K3 {
+        width: calc(100% - 1.6rem);
+        height: 15rem;
+        display: flex;
+        align-items: center;
+        margin-left: 1.6rem;
+
+        .auto-group-9vgm-a45 {
+          height: 15rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 15rem;
+        }
+        .auto-group-zyj9-7Ju {
+          padding: 2.9rem 0rem 0rem 1.1rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .auto-group-vtgh-RKb {
+            flex-shrink: 0;
+            margin: 0.5rem 9.7rem 1.5rem 0rem;
+            height: calc(100% - 2rem);
+            row-gap: 0.4rem;
+            display: flex;
+            flex-direction: column;
+
+            .doctor-sebastian-jr5 {
+              font-size: 3.2rem;
+              font-weight: 400;
+              line-height: 1.2575;
+              color: #ffffff;
+              font-family: Tahoma, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .item-100783823-4tM {
+              color: #ffffff;
+              font-family: Tahoma, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 2rem;
+              font-weight: 400;
+              line-height: 1.2575;
+            }
+            .aos-QBX {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 2rem;
+              font-weight: 400;
+              line-height: 1.2575;
+              color: #ffffff;
+              font-family: Tahoma, 'Source Sans Pro';
+            }
+          }
+          .line-1-whF {
+            margin-right: 3.5rem;
+            width: 0.1rem;
+            height: 12.1rem;
+            background-color: rgba(217, 217, 217, 0.6999999881);
+            flex-shrink: 0;
+          }
+          .bell-5Hf {
+            width: 3rem;
+            height: 3rem;
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 1.9rem 6.9rem 0rem;
+          }
+          .notificaciones-cHb {
+            font-family: Tahoma, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 9.4rem 7rem 0rem;
+            font-size: 3.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #ffffff;
+          }
+          .line-2-LDb {
+            margin-right: 3.25rem;
+            width: 0.1rem;
+            height: 12.1rem;
+            background-color: rgba(217, 217, 217, 0.6999999881);
+            flex-shrink: 0;
+          }
+          .fire-sUR {
+            flex-shrink: 0;
+            margin: 0rem 2.65rem 6.782rem 0rem;
+            width: 2.5rem;
+            height: 3.3824rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+          .advertencias-Cmb {
+            margin-bottom: 7rem;
+            font-size: 3.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #ffffff;
+            font-family: Tahoma, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .user-wUH {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 1.333rem 1.633rem 0rem 0rem;
+      width: 3.3333rem;
+      height: 5rem;
+    }
+    .doc-sebas-sMw {
+      line-height: 1.2575;
+      color: #ffffff;
+      font-family: Tahoma, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 1.6rem 2.9rem 0rem 0rem;
+      font-size: 2.4rem;
+      font-weight: 400;
+    }
+    .polygon-1-aXF {
+      flex-shrink: 0;
+      margin-top: 2rem;
+      width: 2rem;
+      height: 2rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+  .auto-group-wwpx-i7f {
+    background-image: url('REPLACE_IMAGE:117:610');
+    flex-shrink: 0;
+    margin-bottom: 2.9rem;
+    padding: 0.1rem 25.9rem 0.1rem 21.7rem;
+    height: 6.8rem;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+
+    .agenda-o97 {
+      color: #010b1f;
+      font-family: Tahoma, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 1.1rem 18.8rem 0rem 0rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+      line-height: 1.2575;
+    }
+    .line-3-X57 {
+      margin-right: 8.8rem;
+      width: 0.1rem;
+      height: 6.6rem;
+      background-color: #010b1f;
+      flex-shrink: 0;
+    }
+    .odontograma-fSD {
+      margin: 1.1rem 9.4rem 0rem 0rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+      line-height: 1.2575;
+      color: #010b1f;
+      font-family: Tahoma, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .line-4-b4y {
+      height: 6.6rem;
+      background-color: #010b1f;
+      flex-shrink: 0;
+      margin-right: 4.8rem;
+      width: 0.1rem;
+    }
+    .historial-clinico-LYM {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 1.1rem;
+      font-size: 3.2rem;
+      font-weight: 400;
+      line-height: 1.2575;
+      color: #010b1f;
+      font-family: Tahoma, 'Source Sans Pro';
+    }
+  }
+  .auto-group-4xc9-qzu {
+    margin: 0 2.7rem;
+    box-sizing: border-box;
+    padding: 1.1rem 0rem 1.2rem 0.3rem;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: calc(100% - 5.4rem);
+    display: flex;
+    border-radius: 2.5rem;
+    flex-shrink: 0;
+
+    .auto-group-h3bj-m7s {
+      flex-shrink: 0;
+      margin: 0rem 114rem 5.1rem 2.3rem;
+      width: calc(100% - 116.3rem);
+      height: 3.1rem;
+      display: flex;
+      align-items: center;
+
+      .diario-5eM {
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .auto-group-wwkd-2Jh {
+        box-sizing: border-box;
+        padding-left: 0.7rem;
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+        flex-shrink: 0;
+
+        .line-12-a5K {
+          margin-right: 0.7rem;
+          width: 0.2rem;
+          height: 3rem;
+          background-color: rgba(1, 11, 31, 0.3000000119);
+          flex-shrink: 0;
+        }
+        .semanal-tLu {
+          color: #010b1f;
+          font-family: Tahoma, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.2575;
+        }
+      }
+    }
+    .auto-group-njcy-cGu {
+      box-sizing: border-box;
+      flex-shrink: 0;
+      margin-bottom: 2.1rem;
+      width: 100%;
+      height: 47.2rem;
+      position: relative;
+      border-top: solid 0.2rem #000000;
+
+      .line-22-Vbb {
+        position: absolute;
+        left: 0.0001rem;
+        top: 46.9rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.6998rem;
+        height: 0.2rem;
+      }
+      .line-13-DXb {
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 6.3rem;
+      }
+      .line-14-xEH {
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 11.3rem;
+      }
+      .line-15-Vzu {
+        top: 16.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+      }
+      .line-16-eN1 {
+        left: 0;
+        top: 21.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .line-17-nz1 {
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 26.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-18-YCV {
+        width: 133.7rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 31.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-19-Hfs {
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 36.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+      }
+      .line-20-cy3 {
+        height: 0.2rem;
+        position: absolute;
+        left: 0;
+        top: 41.3rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 133.7rem;
+      }
+      .line-7-mL9 {
+        height: 47rem;
+        position: absolute;
+        left: 91.5rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+      }
+      .line-24-uSM {
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+        left: 106.5rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-25-e93 {
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+        left: 122.5rem;
+      }
+      .line-8-Bem {
+        left: 75.2rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+      }
+      .line-9-6mj {
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+        left: 60rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-10-e2Z {
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+        left: 44.3rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+      }
+      .line-11-AWh {
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+        height: 47rem;
+        position: absolute;
+        left: 29rem;
+        top: 0;
+      }
+      .line-23-7B3 {
+        position: absolute;
+        left: 13.7rem;
+        top: 0.2rem;
+        background-color: rgba(0, 0, 0, 0.3000000119);
+        width: 0.2rem;
+        height: 47rem;
+      }
+      .daniel-l-qsj {
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        width: 8.1rem;
+        height: 3.1rem;
+        left: 30.2rem;
+        top: 12.5rem;
+        font-size: 2.4rem;
+        position: absolute;
+        font-weight: 400;
+        line-height: 1.2575;
+        white-space: nowrap;
+      }
+      .juan-b-MLH {
+        color: #010b1f;
+        width: 6.9rem;
+        height: 3.1rem;
+        position: absolute;
+        left: 62.2rem;
+        top: 27.5rem;
+        font-size: 2.4rem;
+        line-height: 1.2575;
+        font-weight: 400;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .bryan-c-GTF {
+        position: absolute;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        height: 3.1rem;
+        left: 61.5rem;
+        top: 12.5rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+        white-space: nowrap;
+        width: 7.8rem;
+      }
+      .polygon-2-BKK {
+        top: 13rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2rem;
+        height: 2rem;
+        position: absolute;
+        left: 71.6rem;
+      }
+      .polygon-3-iKF {
+        width: 2rem;
+        height: 2rem;
+        position: absolute;
+        left: 40.6rem;
+        top: 13rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .polygon-4-3MX {
+        vertical-align: top;
+        width: 2rem;
+        height: 2rem;
+        position: absolute;
+        left: 71.3rem;
+        top: 28rem;
+        object-fit: contain;
+      }
+      .polygon-5-PAV {
+        height: 2rem;
+        position: absolute;
+        left: 55.8rem;
+        top: 43rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2rem;
+      }
+      .polygon-6-885 {
+        height: 2rem;
+        position: absolute;
+        left: 118.6rem;
+        top: 23rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2rem;
+      }
+      .sara-b-GVB {
+        line-height: 1.2575;
+        color: #010b1f;
+        width: 6.4rem;
+        left: 47rem;
+        top: 42.5rem;
+        font-weight: 400;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.1rem;
+        position: absolute;
+        font-size: 2.4rem;
+      }
+      .william-i-nCd {
+        left: 107.6rem;
+        top: 22.4rem;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 8.7rem;
+        height: 3.1rem;
+        position: absolute;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+      }
+      .lunes-u2M {
+        line-height: 1.2575;
+        position: absolute;
+        left: 14.7rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 6.3rem;
+        height: 3.1rem;
+        top: 0.8rem;
+      }
+      .martes-cxM {
+        line-height: 1.2575;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 7.3rem;
+        height: 3.1rem;
+        position: absolute;
+        left: 29.3rem;
+        top: 0.8rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+      }
+      .miercoles-LtM {
+        white-space: nowrap;
+        width: 10.1rem;
+        height: 3.1rem;
+        left: 44.8rem;
+        top: 0.8rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        position: absolute;
+        line-height: 1.2575;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .jueves-rrh {
+        height: 3.1rem;
+        position: absolute;
+        font-size: 2.4rem;
+        white-space: nowrap;
+        width: 7.4rem;
+        left: 60.6rem;
+        top: 0.8rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .viernes-nVT {
+        font-weight: 700;
+        line-height: 1.2575;
+        left: 76.1rem;
+        top: 0.8rem;
+        position: absolute;
+        font-size: 2.4rem;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 7.9rem;
+        height: 3.1rem;
+      }
+      .sabado-JTo {
+        white-space: nowrap;
+        height: 3.1rem;
+        left: 92.1rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: #010b1f;
+        width: 8rem;
+        position: absolute;
+        top: 0.8rem;
+        line-height: 1.2575;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .domingo-pS9 {
+        width: 9.6rem;
+        position: absolute;
+        left: 107.1rem;
+        top: 0.8rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        height: 3.1rem;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .hora-9DX {
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.1rem;
+        top: 0.8rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        color: #010b1f;
+        width: 5.2rem;
+        position: absolute;
+        left: 3.9rem;
+      }
+      .item-8-00-GZ3 {
+        height: 3.1rem;
+        left: 3.9rem;
+        font-size: 2.4rem;
+        line-height: 1.2575;
+        white-space: nowrap;
+        width: 4.6rem;
+        position: absolute;
+        top: 6.9rem;
+        font-weight: 700;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .item-9-00-yTT {
+        position: absolute;
+        left: 3.9rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        width: 4.6rem;
+        top: 12.5rem;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.1rem;
+      }
+      .item-10-00-Hj3 {
+        white-space: nowrap;
+        width: 5.8rem;
+        height: 3.1rem;
+        left: 3.4rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        color: #010b1f;
+        position: absolute;
+        top: 17.6rem;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .item-11-00-Cb7 {
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2575;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 5.8rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 22.4rem;
+        height: 3.1rem;
+      }
+      .item-12-00-1Hf {
+        color: #010b1f;
+        white-space: nowrap;
+        line-height: 1.2575;
+        width: 5.8rem;
+        height: 3.1rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 27.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        font-family: Tahoma, 'Source Sans Pro';
+      }
+      .item-13-00-X17 {
+        font-size: 2.4rem;
+        line-height: 1.2575;
+        color: #010b1f;
+        white-space: nowrap;
+        height: 3.1rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 32.4rem;
+        font-weight: 700;
+        font-family: Tahoma, 'Source Sans Pro';
+        width: 5.8rem;
+      }
+      .item-14-00-2yT {
+        position: absolute;
+        left: 3.4rem;
+        line-height: 1.2575;
+        font-family: Tahoma, 'Source Sans Pro';
+        width: 5.8rem;
+        height: 3.1rem;
+        top: 37.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: #010b1f;
+        white-space: nowrap;
+      }
+      .item-15-00-MVw {
+        white-space: nowrap;
+        width: 5.8rem;
+        height: 3.1rem;
+        left: 3.4rem;
+        top: 42.4rem;
+        font-weight: 700;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        position: absolute;
+        font-size: 2.4rem;
+        line-height: 1.2575;
+      }
+    }
+    .auto-group-km5o-3df {
+      height: 5.3rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 1.6rem 0rem 104.7rem;
+      width: calc(100% - 106.3rem);
+
+      .auto-group-kw3p-a7o {
+        background-color: rgba(217, 217, 217, 0.6999999881);
+        width: 13.4rem;
+        white-space: nowrap;
+        align-items: center;
+        flex-shrink: 0;
+        margin-right: 0.6rem;
+        color: #010b1f;
+        font-family: Tahoma, 'Source Sans Pro';
+        border-radius: 4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        font-size: 2.4rem;
+      }
+      .auto-group-srsw-qJd {
+        line-height: 1.2575;
+        color: #010b1f;
+        white-space: nowrap;
+        align-items: center;
+        font-family: Tahoma, 'Source Sans Pro';
+        display: flex;
+        justify-content: center;
+        width: 13.4rem;
+        height: 100%;
+        font-weight: 400;
+        font-size: 2.4rem;
+        background-color: rgba(217, 217, 217, 0.6999999881);
+        border-radius: 4rem;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

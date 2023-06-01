@@ -1,0 +1,787 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.reserva-99F {
+  box-sizing: border-box;
+  padding: 2.7rem 2.2rem 2.9rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
+  background-color: #ffffff;
+}
+.reserva-99F .head-2yj {
+  margin: 0rem 2rem 0.4rem 0rem;
+  height: 21.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb {
+  margin-right: 2.7333rem;
+  width: 113rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d {
+  margin: 0rem 4rem 1.2rem 0rem;
+  width: calc(100% - 4rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d .auto-group-qswj-atm {
+  box-sizing: border-box;
+  padding: 0.1rem 6rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d .auto-group-qswj-atm .luxurtooth-Jpm {
+  margin: 0.4rem 0.4rem 0rem 0rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: rgba(217, 217, 217, 0.6999999881);
+  font-family: Hammersmith One, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d .auto-group-qswj-atm .rectangle-4-Cv9 {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d .auto-group-1jkj-YDK {
+  box-sizing: border-box;
+  padding: 1.499rem 1.9rem 1.552rem 1.9rem;
+  width: 76.3rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-d18q-V6d .auto-group-1jkj-YDK .icon-search-TLH {
+  width: 2.5rem;
+  height: 2.2491rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB {
+  margin-left: 1.6rem;
+  width: calc(100% - 1.6rem);
+  height: 15rem;
+  display: flex;
+  align-items: center;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-jrym-hEd {
+  width: 15rem;
+  height: 15rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 0rem 1.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .auto-group-3od7-ZGq {
+  margin: 0.5rem 5.5rem 1.5rem 0rem;
+  height: calc(100% - 2rem);
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .auto-group-3od7-ZGq .juan-camilo-barrios-fqf {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .auto-group-3od7-ZGq .item-101073840-nvH {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .auto-group-3od7-ZGq .aos-iZ3 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .line-1-Szq {
+  margin-right: 3.5rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .bell-NtV {
+  margin: 0rem 1.9rem 6.9rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .notificaciones-Jn9 {
+  margin: 0rem 9.4rem 7rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .line-2-2TF {
+  margin-right: 3.25rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .fire-m9w {
+  margin: 0rem 2.65rem 6.782rem 0rem;
+  width: 2.5rem;
+  height: 3.3824rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .auto-group-5bqo-xMb .auto-group-yabf-kqB .auto-group-ytez-EkM .advertencias-5gR {
+  margin-bottom: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .user-p8D {
+  margin: 1.333rem 1.633rem 0rem 0rem;
+  width: 3.3333rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .pac-juan-b-k1s {
+  margin: 1.6rem 2.3rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .head-2yj .polygon-1-FzD {
+  margin-top: 2rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.1rem 34.9rem 0.1rem 21.7rem;
+  width: 100%;
+  height: 6.8rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/navegacion-XmP.png');
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK .datos-personales-u3B {
+  margin: 1.1rem 6rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK .line-3-pA9 {
+  margin-right: 8.8rem;
+  width: 0.1rem;
+  height: 6.6rem;
+  background-color: #010b1f;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK .fecha-clinica-MQy {
+  margin: 1.1rem 10.5rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK .line-4-seD {
+  margin-right: 4.8rem;
+  width: 0.1rem;
+  height: 6.6rem;
+  background-color: #010b1f;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-dzdj-QMK .progreso-Rfj {
+  margin-top: 1.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-rc2q-YEZ {
+  width: 100%;
+  height: 65.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.reserva-99F .auto-group-rc2q-YEZ .rectangle-10-dG1 {
+  width: 139.4rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.reserva-99F .auto-group-rc2q-YEZ .rectangle-4-Ytm {
+  width: 50.6rem;
+  height: 30.3rem;
+  position: relative;
+  left: 0;
+  top: 17.1rem;
+  background-size: 150.218% 100%;
+  background-position: -0.2269rem 0;
+  background-image: url('../assets/rectangle-4-Cyb.png');
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-13-egu {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 22.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-19-Nso {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 18.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-14-Wz1 {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 27.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-15-rny {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 32.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-16-oTK {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 37.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-18-9GH {
+  width: 51.8rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 41.7rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-11-V5F {
+  width: 0.2rem;
+  height: 23.7rem;
+  position: absolute;
+  left: 113.7rem;
+  top: 18.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-17-pNR {
+  width: 0.2rem;
+  height: 23.7rem;
+  position: absolute;
+  left: 126.4rem;
+  top: 18.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-12-Zau {
+  width: 0.2rem;
+  height: 23.7rem;
+  position: absolute;
+  left: 100.1rem;
+  top: 18.1rem;
+  background-color: rgba(1, 11, 31, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .rectangle-3-uem {
+  width: 17.1rem;
+  height: 14.2rem;
+  position: relative;
+  left: 59rem;
+  top: -27.5rem;
+  background-size: 85.43% 128.873%;
+  background-position: 1.2957rem -0rem;
+  background-image: url('../assets/rectangle-3.png');
+}
+.reserva-99F .auto-group-rc2q-YEZ .rectangle-14-PZw {
+  width: 17.6rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 120.3rem;
+  top: 59.2rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  border-radius: 4rem;
+}
+.reserva-99F .auto-group-rc2q-YEZ .reservar-cita-WeZ {
+  width: 13.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 122.1rem;
+  top: 60.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-3-DYy {
+  width: 0.1rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 50.6rem;
+  top: 0.3rem;
+  background-color: #010b1f;
+}
+.reserva-99F .auto-group-rc2q-YEZ .line-5-XpZ {
+  width: 0.1rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 0.3rem;
+  background-color: #010b1f;
+}
+.reserva-99F .auto-group-rc2q-YEZ .rectangle-15-TiD {
+  width: 36.2rem;
+  height: 42.2rem;
+  position: absolute;
+  left: 51rem;
+  top: 15.4rem;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+}
+.reserva-99F .auto-group-rc2q-YEZ .selecciona-el-servicio--anq {
+  width: 31rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 49rem;
+  top: 35rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .id--Tbj {
+  width: 3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .nombre--ZPs {
+  width: 9.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .valor-pagado--ded {
+  width: 19.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 89.9rem;
+  top: 44.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .monto--KXT {
+  width: 7.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .desc-Dsj {
+  width: 7.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 127.2rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .selecciona-el-mtodo-de-pago--7iD {
+  width: 30.5rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 97.7rem;
+  top: 5.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.reserva-99F .auto-group-rc2q-YEZ .selecciona-fecha-y-hora-de-la-cita--Cjf {
+  width: 25.8rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 12.05rem;
+  top: 5.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: rgba(1, 11, 31, 0.9300000072);
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.reserva-99F .auto-group-rc2q-YEZ .rehabilitacin-oral-tsP {
+  width: 22.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 43.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .dr-sebastin-torres-m-c2h {
+  width: 26.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 18.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-22-7EM {
+  width: 2.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 23.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .aos-1qX {
+  width: 5.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 57.1rem;
+  top: 23.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .dentista-general-ortondocista-KbK {
+  width: 21.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 53rem;
+  top: 28rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-300-R8Z {
+  width: 5.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 48.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-200-XBb {
+  width: 6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 90.3rem;
+  top: 48.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-200-cyj {
+  width: 5.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 116.3rem;
+  top: 23.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-0-XL1 {
+  width: 1.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 132.2rem;
+  top: 23.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .master-e9j {
+  width: 7.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 23.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .visa-Mpq {
+  width: 5.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 28.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .amex-t45 {
+  width: 6.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 33.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .mastercard-oB3 {
+  width: 11.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 100.8rem;
+  top: 38rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-13-i37 {
+  width: 2.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 23.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-14-p69 {
+  width: 2.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 28.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-15-XmF {
+  width: 2.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 33.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-16-qmw {
+  width: 2.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 38.1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .item-1-MkH {
+  width: 1.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 52.9rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}
+.reserva-99F .auto-group-rc2q-YEZ .h-duracin-sTj {
+  width: 12.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 55.9rem;
+  top: 52.9rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: pre;
+}

@@ -49,12 +49,33 @@ def index():
 # save roles
 @app.route("/saveroles", methods=["POST"])
 def saveRol():
-    nombre = request.json['nombre']
-    id_rol = request.json['id_rol']
-    newRol = Roles(id_rol, nombre)
+    nombre = request.json['Nombre']
+    newRol = Roles(nombre)
     bd.session.add(newRol)
     bd.session.commit()
     return "Guardado con exito"
+
+# delete roles
+@app.route("/eliminar", methods=["POST"])
+def deleteRol():
+    id_r = request.json['id_rol']
+    nombre = Roles.query.get(id_r)
+    bd.session.delete(nombre)
+    bd.session.commit()
+    return jsonify(rol_schema.dump(nombre))
+
+
+# update roles
+@app.route("/update", methods=["POST"])
+def updateRol():
+    id_r = request.json['id_rol']
+    nombre = request.json['Nombre']
+    rol = Roles.query.get(id_r)
+    # rol = Roles.query.get(nombre)
+    rol.nombre = nombre
+    rol.id_rol = id_r
+    bd.session.commit()
+    return "Update exitoso"
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

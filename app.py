@@ -39,13 +39,22 @@ odontogramas_schema = Odontograma_Schema(many=True)
 historia_schema = HistoriaC_Schema()
 historias_schema = HistoriaC_Schema(many=True)
 
-
+# --------------------------- Roles ------------------------------------------
 @app.route("/", methods=["GET"])
 def index():
     resultRoles = Roles.query.all()
     resultado = roles_schema.dump(resultRoles)
     return jsonify(resultado)
 
+# save roles
+@app.route("/saveroles", methods=["POST"])
+def saveRol():
+    nombre = request.json['nombre']
+    id_rol = request.json['id_rol']
+    newRol = Roles(id_rol, nombre)
+    bd.session.add(newRol)
+    bd.session.commit()
+    return "Guardado con exito"
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

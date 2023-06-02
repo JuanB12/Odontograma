@@ -1,0 +1,475 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.vistapaciente-HMX {
+  box-sizing: border-box;
+  padding: 2.7rem 2.2rem 2.9rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
+  background-color: #ffffff;
+}
+.vistapaciente-HMX .head-P9f {
+  margin: 0rem 2rem 0.4rem 0rem;
+  height: 21.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu {
+  margin-right: 2.7333rem;
+  width: 113rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM {
+  margin: 0rem 4rem 1.2rem 0rem;
+  width: calc(100% - 4rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh {
+  box-sizing: border-box;
+  padding: 0.1rem 6rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh .luxurtooth-tEq {
+  margin: 0.4rem 0.4rem 0rem 0rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: rgba(217, 217, 217, 0.6999999881);
+  font-family: Hammersmith One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh .rectangle-4-foK {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-xq5p-zqb {
+  box-sizing: border-box;
+  padding: 1.499rem 1.9rem 1.552rem 1.9rem;
+  width: 76.3rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-xq5p-zqb .icon-search-uSm {
+  width: 2.5rem;
+  height: 2.2491rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 {
+  margin-left: 1.6rem;
+  width: calc(100% - 1.6rem);
+  height: 15rem;
+  display: flex;
+  align-items: center;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-rwkw-KmP {
+  width: 15rem;
+  height: 15rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 0rem 1.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus {
+  margin: 0.5rem 5.5rem 1.5rem 0rem;
+  height: calc(100% - 2rem);
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .juan-camilo-barrios-hmw {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .item-101073840-2ZK {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .aos-ZZF {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .line-1-JWq {
+  margin-right: 3.5rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .bell-2Bw {
+  margin: 0rem 1.9rem 6.9rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .notificaciones-wJu {
+  margin: 0rem 9.4rem 7rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .line-2-To3 {
+  margin-right: 3.25rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .fire-nqK {
+  margin: 0rem 2.65rem 6.782rem 0rem;
+  width: 2.5rem;
+  height: 3.3824rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .advertencias-iDB {
+  margin-bottom: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .user-S9B {
+  margin: 1.333rem 1.633rem 0rem 0rem;
+  width: 3.3333rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .pac-juan-b-kQm {
+  margin: 1.6rem 2.3rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .head-P9f .polygon-1-5C9 {
+  margin-top: 2rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.1rem 34.9rem 0.1rem 21.7rem;
+  width: 100%;
+  height: 6.8rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/navegacion-psX.png');
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK .datos-personales-hjK {
+  margin: 1.1rem 6rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK .line-3-Qtd {
+  margin-right: 8.8rem;
+  width: 0.1rem;
+  height: 6.6rem;
+  background-color: #010b1f;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK .fecha-clinica-9LR {
+  margin: 1.1rem 10.5rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK .line-4-UNh {
+  margin-right: 4.8rem;
+  width: 0.1rem;
+  height: 6.6rem;
+  background-color: #010b1f;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-mqth-QVK .progreso-R33 {
+  margin-top: 1.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 {
+  width: 100%;
+  height: 65.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-10-Fnm {
+  width: 31.8rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .canino-n21 {
+  width: 8.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 24.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .tipo-diente--UvR {
+  width: 16.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 20.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .zona-ubicacion--zNy {
+  width: 21.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 30.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .id--VKj {
+  width: 3.5rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 40.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .observaciones--13B {
+  width: 20.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 49.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .maxilar-superior-iTP {
+  width: 19.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 34.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .item-0110-zfo {
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 43.8rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .el-diente-ha-mejoradoconsiderablemente-6iq {
+  width: 25.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 53.8rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-11-C1B {
+  width: 99.8rem;
+  height: 65.1rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 0.6rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-12-K5o {
+  width: 92.2rem;
+  height: 42.2rem;
+  position: relative;
+  left: 41.2rem;
+  top: 6.6rem;
+  background-size: 100% 107.077%;
+  background-position: -0rem -1.4932rem;
+  background-image: url('../assets/rectangle-12-uqF.png');
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-13-nVB {
+  width: 6.6rem;
+  height: 13rem;
+  position: relative;
+  left: 14.6rem;
+  top: 3.4rem;
+  background-size: 1396.97% 347.587%;
+  background-position: -34.8rem -1.4932rem;
+  background-image: url('../assets/rectangle-13.png');
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-6-Ucu {
+  width: 17.6rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 63rem;
+  top: 53.6rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  border-radius: 4rem;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .ver-detalles-zr9 {
+  width: 11.8rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 65.5rem;
+  top: 54.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-14-s9F {
+  width: 17.6rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 91rem;
+  top: 53.6rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  border-radius: 4rem;
+}
+.vistapaciente-HMX .auto-group-ocny-X65 .reservar-cita-kD3 {
+  width: 13.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 92.8rem;
+  top: 54.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #010b1f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}

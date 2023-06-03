@@ -237,21 +237,23 @@ body {
   flex-shrink: 0;
 }
 .vistadoctor-PHX .auto-group-dkm7-LdK {
-  margin-bottom: 2.4rem;
+  margin-bottom: 2.9rem;
+  margin-right: 0%;
   box-sizing: border-box;
-  padding: 0.1rem 25.9rem 0.1rem 21.7rem;
-  width: 100%;
+  border-radius: 2.5rem;
+  padding: 0rem 25.9rem 0.1rem 20rem;
+  width: calc(100% - 4.7rem);
   height: 6.8rem;
   display: flex;
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-3WV.png');
+  background-image: url('../assets/navegacion-7NM.png');
   flex-shrink: 0;
 }
 .vistadoctor-PHX .auto-group-dkm7-LdK .agenda-ETo {
-  margin: 1.1rem 18.8rem 0rem 0rem;
+  margin: 1.1rem 18rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -423,7 +425,7 @@ body {
   height: 13rem;
   position: relative;
   left: 14.6rem;
-  top: 3.4rem;
+  top: -39.5rem;
   background-size: 1396.97% 347.587%;
   background-position: -34.8rem -1.4932rem;
   background-image: url('../assets/rectangle-13-DeV.png');

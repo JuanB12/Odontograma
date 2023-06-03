@@ -167,7 +167,7 @@ body {
   flex-shrink: 0;
 }
 .historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .bell-U7o {
-  margin: 0rem 1.9rem 6.9rem 0rem;
+  margin: 0rem 1.9rem 6.9rem 3rem;
   width: 3rem;
   height: 3rem;
   position: relative;
@@ -193,7 +193,7 @@ body {
   flex-shrink: 0;
 }
 .historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .fire-4rh {
-  margin: 0rem 2.65rem 6.782rem 0rem;
+  margin: 0rem 2.65rem 6.782rem 9.2rem;
   width: 2.5rem;
   height: 3.3824rem;
   object-fit: contain;
@@ -238,20 +238,22 @@ body {
 }
 .historialclinico-tpV .auto-group-9hpt-V4q {
   margin-bottom: 2.9rem;
+  margin-right: 1.5%;
   box-sizing: border-box;
-  padding: 0.1rem 25.9rem 0.1rem 21.7rem;
-  width: 100%;
+  border-radius: 2.5rem;
+  padding: 0rem 25.9rem 0.1rem 20rem;
+  width: calc(100% - 4.7rem);
   height: 6.8rem;
   display: flex;
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-3Ad.png');
+  background-image: url('../assets/navegacion-7NM.png');
   flex-shrink: 0;
 }
 .historialclinico-tpV .auto-group-9hpt-V4q .agenda-a6H {
-  margin: 1.1rem 18.8rem 0rem 0rem;
+  margin: 1.1rem 17.8rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -261,14 +263,14 @@ body {
   flex-shrink: 0;
 }
 .historialclinico-tpV .auto-group-9hpt-V4q .line-3-gf7 {
-  margin-right: 8.8rem;
+  margin-right: 10.5rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
 .historialclinico-tpV .auto-group-9hpt-V4q .odontograma-pFX {
-  margin: 1.1rem 9.4rem 0rem 0rem;
+  margin: 1.1rem 10.5rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -285,7 +287,7 @@ body {
   flex-shrink: 0;
 }
 .historialclinico-tpV .auto-group-9hpt-V4q .historial-clinico-g2q {
-  margin-top: 1.1rem;
+  margin: 0rem 9.4rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -458,12 +460,12 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 17.1rem;
+  left: 17.8rem;
   top: 16.2rem;
   font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.2575;
-  color: #010b1f;
+  color: #ffffff;
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -471,7 +473,7 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 17.1rem;
+  left: 17.8rem;
   top: 16.2rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -484,7 +486,7 @@ body {
   width: 11.3rem;
   height: 3.1rem;
   position: absolute;
-  left: 0.6rem;
+  left: 0.5rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -497,7 +499,7 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 17.1rem;
+  left: 17.8rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -510,7 +512,7 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 17.1rem;
+  left: 17.8rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -523,7 +525,7 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 17.1rem;
+  left: 17.8rem;
   top: 26.9rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -536,8 +538,8 @@ body {
   width: 11.8rem;
   height: 3.1rem;
   position: absolute;
-  left: 14.5rem;
-  top: 10.1rem;
+  left: 14.9rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -549,8 +551,8 @@ body {
   width: 8.6rem;
   height: 3.1rem;
   position: absolute;
-  left: 29.7rem;
-  top: 10.1rem;
+  left: 32.4rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -562,8 +564,8 @@ body {
   width: 8.6rem;
   height: 3.1rem;
   position: absolute;
-  left: 45.2rem;
-  top: 10.1rem;
+  left: 52rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -575,8 +577,8 @@ body {
   width: 7.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 70.1rem;
-  top: 10.1rem;
+  left: 73.5rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -588,8 +590,8 @@ body {
   width: 7rem;
   height: 3.1rem;
   position: absolute;
-  left: 87.7rem;
-  top: 10.1rem;
+  left: 91rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -601,8 +603,8 @@ body {
   width: 5.3rem;
   height: 3.1rem;
   position: absolute;
-  left: 103.7rem;
-  top: 10.1rem;
+  left: 111rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -614,8 +616,8 @@ body {
   width: 5.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 124.7rem;
-  top: 10.1rem;
+  left: 126.5rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -627,8 +629,8 @@ body {
   width: 6.3rem;
   height: 3.1rem;
   position: absolute;
-  left: 4.3rem;
-  top: 10.1rem;
+  left: 3.5rem;
+  top: 11rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -679,7 +681,7 @@ body {
   width: 8.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 30.6rem;
+  left: 32.4rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -692,7 +694,7 @@ body {
   width: 8.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 30.6rem;
+  left: 32.4rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -757,7 +759,7 @@ body {
   width: 16.8rem;
   height: 3.1rem;
   position: absolute;
-  left: 45.9rem;
+  left: 48rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -770,7 +772,7 @@ body {
   width: 10.5rem;
   height: 3.1rem;
   position: absolute;
-  left: 45.9rem;
+  left: 51.5rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -783,7 +785,7 @@ body {
   width: 17.4rem;
   height: 3.1rem;
   position: absolute;
-  left: 45.9rem;
+  left: 48rem;
   top: 26.9rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -796,7 +798,7 @@ body {
   width: 19.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 45.9rem;
+  left: 47rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -809,7 +811,7 @@ body {
   width: 10.2rem;
   height: 3.1rem;
   position: absolute;
-  left: 71.8rem;
+  left: 73rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -822,7 +824,7 @@ body {
   width: 10.4rem;
   height: 3.1rem;
   position: absolute;
-  left: 71.8rem;
+  left: 73rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -835,7 +837,7 @@ body {
   width: 10.4rem;
   height: 3.1rem;
   position: absolute;
-  left: 71.8rem;
+  left: 73rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -848,7 +850,7 @@ body {
   width: 10.4rem;
   height: 3.1rem;
   position: absolute;
-  left: 71.8rem;
+  left: 73rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -861,7 +863,7 @@ body {
   width: 7.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 88.8rem;
+  left: 91.4rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -874,7 +876,7 @@ body {
   width: 7.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 88.8rem;
+  left: 91.4rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -887,7 +889,7 @@ body {
   width: 7.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 88.8rem;
+  left: 91.4rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -900,7 +902,7 @@ body {
   width: 7.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 88.8rem;
+  left: 91.4rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -913,7 +915,7 @@ body {
   width: 16.5rem;
   height: 3.1rem;
   position: absolute;
-  left: 104.8rem;
+  left: 105.5rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -926,7 +928,7 @@ body {
   width: 16.5rem;
   height: 3.1rem;
   position: absolute;
-  left: 104.8rem;
+  left: 105.5rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -939,7 +941,7 @@ body {
   width: 16.5rem;
   height: 3.1rem;
   position: absolute;
-  left: 104.8rem;
+  left: 105.5rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -952,7 +954,7 @@ body {
   width: 16.5rem;
   height: 3.1rem;
   position: absolute;
-  left: 104.8rem;
+  left: 105.5rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -965,7 +967,7 @@ body {
   width: 8.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 30.6rem;
+  left: 32.4rem;
   top: 26.9rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -978,7 +980,7 @@ body {
   width: 8.1rem;
   height: 3.1rem;
   position: absolute;
-  left: 30.6rem;
+  left: 32.4rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -1024,7 +1026,7 @@ body {
   height: 3.1rem;
   position: absolute;
   left: 3rem;
-  top: 2.5rem;
+  top: 1rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -1037,7 +1039,7 @@ body {
   height: 3.1rem;
   position: absolute;
   left: 74.4rem;
-  top: 2.5rem;
+  top: 1rem;
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -1050,6 +1052,7 @@ body {
   height: 9.1rem;
   position: absolute;
   left: 3rem;
+  text-align: justify;
   top: 5.7rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -1062,7 +1065,8 @@ body {
   height: 9.1rem;
   position: absolute;
   left: 74.4rem;
-  top: 5.7rem;
+  text-align: justify;
+  top: 5rem;
   font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.2575;

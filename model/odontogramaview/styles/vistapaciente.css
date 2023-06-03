@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 144rem;
-}.vistapaciente-HMX {
+}.vistapaciente-akV {
   box-sizing: border-box;
   padding: 2.7rem 2.2rem 2.9rem 2.4rem;
   width: 100%;
@@ -26,38 +26,21 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-.vistapaciente-HMX .head-P9f {
+.vistapaciente-akV .head-hq7 {
   margin: 0rem 2rem 0.4rem 0rem;
-  height: 21.5rem;
+  width: 136.6rem;
   overflow: hidden;
   position: relative;
-  display: flex;
-  align-items: flex-start;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu {
-  margin-right: 2.7333rem;
-  width: 113rem;
-  height: 100%;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM {
-  margin: 0rem 4rem 1.2rem 0rem;
-  width: calc(100% - 4rem);
-  height: 5.3rem;
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf {
+  margin-bottom: 0.1667rem;
+  width: 100%;
   display: flex;
   align-items: center;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh {
-  box-sizing: border-box;
-  padding: 0.1rem 6rem 0.2rem 0rem;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh .luxurtooth-tEq {
-  margin: 0.4rem 0.4rem 0rem 0rem;
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .luxurtooth-BEV {
+  margin: 0rem 0.4rem 0.733rem 0rem;
   font-size: 3.5rem;
   font-weight: 400;
   line-height: 1.25;
@@ -66,139 +49,31 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-oaym-Mkh .rectangle-4-foK {
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .rectangle-4-UzH {
+  margin: 0rem 6rem 1.133rem 0rem;
   width: 5rem;
   height: 5rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-xq5p-zqb {
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .auto-group-ufpt-ZF3 {
+  margin: 0rem 6.733rem 1.033rem 0rem;
   box-sizing: border-box;
   padding: 1.499rem 1.9rem 1.552rem 1.9rem;
   width: 76.3rem;
-  height: 100%;
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3jbf-qnM .auto-group-xq5p-zqb .icon-search-uSm {
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .auto-group-ufpt-ZF3 .icon-search-ZPT {
   width: 2.5rem;
   height: 2.2491rem;
   position: relative;
   object-fit: contain;
   vertical-align: top;
 }
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 {
-  margin-left: 1.6rem;
-  width: calc(100% - 1.6rem);
-  height: 15rem;
-  display: flex;
-  align-items: center;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-rwkw-KmP {
-  width: 15rem;
-  height: 15rem;
-  position: relative;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 {
-  box-sizing: border-box;
-  padding: 2.9rem 0rem 0rem 1.1rem;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus {
-  margin: 0.5rem 5.5rem 1.5rem 0rem;
-  height: calc(100% - 2rem);
-  row-gap: 0.4rem;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .juan-camilo-barrios-hmw {
-  font-size: 3.2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .item-101073840-2ZK {
-  font-size: 2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .auto-group-vfyr-nus .aos-ZZF {
-  font-size: 2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .line-1-JWq {
-  margin-right: 3.5rem;
-  width: 0.1rem;
-  height: 12.1rem;
-  background-color: rgba(217, 217, 217, 0.6999999881);
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .bell-2Bw {
-  margin: 0rem 1.9rem 6.9rem 6rem;
-  width: 3rem;
-  height: 3rem;
-  position: relative;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .notificaciones-wJu {
-  margin: 0rem 9.4rem 7rem 0rem;
-  font-size: 3.2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .line-2-To3 {
-  margin-right: 3.25rem;
-  width: 0.1rem;
-  height: 12.1rem;
-  background-color: rgba(217, 217, 217, 0.6999999881);
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .fire-nqK {
-  margin: 0rem 2.65rem 6.782rem 4rem;
-  width: 2.5rem;
-  height: 3.3824rem;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .auto-group-17fs-uNu .auto-group-3ue9-oY9 .auto-group-clpm-sY1 .advertencias-iDB {
-  margin-bottom: 7rem;
-  font-size: 3.2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.vistapaciente-HMX .head-P9f .user-S9B {
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .user-GHs {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
   height: 5rem;
@@ -206,92 +81,198 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .pac-juan-b-kQm {
-  margin: 1.6rem 2.3rem 0rem 0rem;
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .pac-juan-b-Bfj {
+  margin: 0rem 0.6rem 0.133rem 0rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .head-P9f .polygon-1-5C9 {
-  margin-top: 2rem;
+.vistapaciente-akV .head-hq7 .auto-group-xzwd-dyf .polygon-1-gsP {
+  margin-bottom: 0.3333rem;
   width: 2rem;
   height: 2rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK {
-  margin-bottom: 2.9rem;
-  margin-right: 0%;
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd {
+  margin: 0rem 15rem 0rem 1.6rem;
+  width: calc(100% - 16.6rem);
+  height: 15rem;
+  display: flex;
+  align-items: center;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-mdeu-ksF {
+  width: 15rem;
+  height: 15rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF {
   box-sizing: border-box;
-  border-radius: 2.5rem;
-  padding: 0rem 25.9rem 0.1rem 20rem;
-  width: calc(100% - 4.7rem);
+  padding: 2.9rem 0rem 0rem 1.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .auto-group-5akf-bss {
+  margin: 0rem 2.4rem 1.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .auto-group-5akf-bss .juan-camilo-barrios-jUH {
+  margin-bottom: 0.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .auto-group-5akf-bss .item-101073840-wim {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .auto-group-5akf-bss .aos-Tx1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .line-1-bYR {
+  margin-right: 5.4rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .bell-vKo {
+  margin: 0rem 1.9rem 6.9rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .notificaciones-eFo {
+  margin: 0rem 4.9rem 7.2rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .line-2-mbK {
+  margin-right: 9.15rem;
+  width: 0.1rem;
+  height: 12.1rem;
+  background-color: rgba(217, 217, 217, 0.6999999881);
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .fire-Woo {
+  margin: 0rem 2.65rem 6.982rem 0rem;
+  width: 2.5rem;
+  height: 3.3824rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .head-hq7 .auto-group-v9jj-dnd .auto-group-egsy-uVF .advertencias-FWV {
+  margin-bottom: 7.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.vistapaciente-akV .auto-group-frrs-nFX {
+  margin: 0rem 2.4rem 2.4rem 2rem;
+  box-sizing: border-box;
+  padding: 0.1rem 18.2rem 0.1rem 12.5rem;
+  width: calc(100% - 4.4rem);
   height: 6.8rem;
   display: flex;
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-7NM.png');
+  background-image: url('../assets/navegacion.png');
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK .datos-personales-hjK {
-  margin: 1.1rem 9.2rem 0rem 0rem;
-  margin-left: -5%;
+.vistapaciente-akV .auto-group-frrs-nFX .datos-personales-GRb {
+  margin: 0.9rem 9.7rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK .line-3-Qtd {
-  margin-right: 12.5rem;
+.vistapaciente-akV .auto-group-frrs-nFX .line-3-BHf {
+  margin-right: 8.9rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK .fecha-clinica-9LR {
-  margin: 1.1rem 12.5rem 0rem 0rem;
+.vistapaciente-akV .auto-group-frrs-nFX .fecha-clinica-W53 {
+  margin: 0.9rem 7.9rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK .line-4-UNh {
-  margin-right: 4.8rem;
+.vistapaciente-akV .auto-group-frrs-nFX .line-4-RC1 {
+  margin-right: 17.4rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-mqth-QVK .progreso-R33 {
-  margin: 0rem 9.4rem;
+.vistapaciente-akV .auto-group-frrs-nFX .progreso-YnR {
+  margin-bottom: 0.1rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 {
+.vistapaciente-akV .auto-group-3bgy-Sso {
   width: 100%;
   height: 65.7rem;
   position: relative;
   flex-shrink: 0;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-10-Fnm {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-10-aDK {
   width: 31.8rem;
   height: 65.4rem;
   position: absolute;
@@ -300,110 +281,110 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .canino-n21 {
-  width: 8.3rem;
-  height: 3.6rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .canino-hHw {
+  width: 9.3rem;
+  height: 3.4rem;
   position: absolute;
   left: 3.2rem;
   top: 24.4rem;
   font-size: 2.8rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .tipo-diente--UvR {
-  width: 16.2rem;
-  height: 4.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .tipo-diente--CVb {
+  width: 18.3rem;
+  height: 3.9rem;
   position: absolute;
   left: 3.2rem;
   top: 20.4rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .zona-ubicacion--zNy {
-  width: 21.6rem;
-  height: 4.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .zona-ubicacion--uuo {
+  width: 24.5rem;
+  height: 3.9rem;
   position: absolute;
   left: 3.2rem;
   top: 30.4rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .id--VKj {
-  width: 3.5rem;
-  height: 4.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .id--Rt9 {
+  width: 3.8rem;
+  height: 3.9rem;
   position: absolute;
   left: 3.2rem;
   top: 40.4rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .observaciones--13B {
-  width: 20.6rem;
-  height: 4.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .observaciones--KTj {
+  width: 23.5rem;
+  height: 3.9rem;
   position: absolute;
   left: 3.2rem;
   top: 49.4rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .maxilar-superior-iTP {
-  width: 19.2rem;
-  height: 3.6rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .maxilar-superior-SHT {
+  width: 21.5rem;
+  height: 3.4rem;
   position: absolute;
   left: 3.2rem;
   top: 34.4rem;
   font-size: 2.8rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .item-0110-zfo {
-  width: 7rem;
-  height: 3.6rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .item-0110-YrH {
+  width: 7.9rem;
+  height: 3.4rem;
   position: absolute;
   left: 3.2rem;
   top: 43.8rem;
   font-size: 2.8rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .el-diente-ha-mejoradoconsiderablemente-6iq {
-  width: 25.6rem;
-  height: 7.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .el-diente-ha-mejoradoconsiderablemente-Fkh {
+  width: 28.7rem;
+  height: 6.8rem;
   position: absolute;
   left: 3.2rem;
   top: 53.8rem;
   font-size: 2.8rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-11-C1B {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-11-kSZ {
   width: 99.8rem;
   height: 65.1rem;
   position: absolute;
@@ -412,7 +393,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-12-K5o {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-12-4TF {
   width: 92.2rem;
   height: 42.2rem;
   position: relative;
@@ -420,19 +401,19 @@ body {
   top: 6.6rem;
   background-size: 100% 107.077%;
   background-position: -0rem -1.4932rem;
-  background-image: url('../assets/rectangle-12-uqF.png');
+  background-image: url('../assets/rectangle-12-rAh.png');
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-13-nVB {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-13-k5B {
   width: 6.6rem;
   height: 13rem;
   position: relative;
   left: 14.6rem;
-  top: -39.5rem;
+  top: -40rem;
   background-size: 1396.97% 347.587%;
   background-position: -34.8rem -1.4932rem;
-  background-image: url('../assets/rectangle-13.png');
+  background-image: url('../assets/rectangle-13-Tfs.png');
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-6-Ucu {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-6-eRT {
   width: 17.6rem;
   height: 5.3rem;
   position: absolute;
@@ -441,20 +422,20 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .ver-detalles-zr9 {
-  width: 11.8rem;
-  height: 3.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .ver-detalles-Aub {
+  width: 13.7rem;
+  height: 3rem;
   position: absolute;
   left: 65.5rem;
   top: 54.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .rectangle-14-s9F {
+.vistapaciente-akV .auto-group-3bgy-Sso .rectangle-14-tqb {
   width: 17.6rem;
   height: 5.3rem;
   position: absolute;
@@ -463,16 +444,16 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
 }
-.vistapaciente-HMX .auto-group-ocny-X65 .reservar-cita-kD3 {
-  width: 13.2rem;
-  height: 3.1rem;
+.vistapaciente-akV .auto-group-3bgy-Sso .reservar-cita-pz9 {
+  width: 15.3rem;
+  height: 3rem;
   position: absolute;
   left: 92.8rem;
   top: 54.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.2125;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }

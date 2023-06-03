@@ -14,24 +14,25 @@ input {
 }
 body {
   width: 144rem;
-}.registro-NE1 {
+}.registro-Xob {
+  background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
+  background-color: #ffffff;
   width: 100%;
   height: 102.4rem;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
-  background-color: #ffffff;
 
-  .rectangle-3-Unq {
-    background-color: rgba(255, 255, 255, 0.3000000119);
-    width: 83.1rem;
+  .rectangle-3-etD {
     height: 86.8rem;
     position: absolute;
     left: 30.4rem;
     top: 7.8rem;
     filter: blur(0.5rem);
+    background-color: rgba(255, 255, 255, 0.3000000119);
+    width: 83.1rem;
   }
-  .rectangle-8-CTw {
+  .rectangle-8-yfb {
+    height: 10.5rem;
     position: absolute;
     left: 43.5rem;
     top: 57.4rem;
@@ -39,32 +40,32 @@ body {
     box-sizing: border-box;
     border-radius: 5rem;
     width: 56.9rem;
-    height: 10.5rem;
   }
-  .selecciona-tipo-ihB {
-    line-height: 1.2575;
-    color: rgba(217, 217, 217, 0.6999999881);
-    font-family: Tahoma, 'Source Sans Pro';
-    white-space: nowrap;
-    height: 4.8rem;
-    position: absolute;
-    font-size: 3.8rem;
+  .selecciona-tipo-u3T {
     font-weight: 400;
-    width: 25.1rem;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
     left: 45.9rem;
     top: 60.4rem;
+    font-size: 3.8rem;
+    line-height: 1.2125;
+    color: rgba(217, 217, 217, 0.6999999881);
+    width: 28.6rem;
+    height: 4.7rem;
+    position: absolute;
   }
-  .login-RLh {
+  .login-16V {
+    background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
+    border-radius: 3rem;
+    width: 23.6rem;
     height: 7.3rem;
     position: absolute;
     left: 43.5rem;
     top: 84rem;
     box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
-    background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
-    border-radius: 3rem;
-    width: 23.6rem;
   }
-  .login-tk5 {
+  .login-6dj {
+    border-radius: 3rem;
     width: 18.3rem;
     height: 7.3rem;
     position: absolute;
@@ -72,9 +73,8 @@ body {
     top: 83.7rem;
     box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
     background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
-    border-radius: 3rem;
   }
-  .lock-closed-b8h {
+  .lock-closed-CAy {
     top: 72.9406rem;
     object-fit: contain;
     vertical-align: top;
@@ -83,8 +83,7 @@ body {
     position: absolute;
     left: 93.5031rem;
   }
-  .rectangle-5-6bF {
-    border: solid 0.5rem #26283f;
+  .rectangle-5-XDF {
     box-sizing: border-box;
     border-radius: 5rem;
     width: 56.9rem;
@@ -92,133 +91,134 @@ body {
     position: absolute;
     left: 43.5rem;
     top: 45.2rem;
+    border: solid 0.5rem #26283f;
   }
-  .email-Q69 {
+  .email-3Bb {
     color: #26283f;
-    font-family: Tahoma, 'Source Sans Pro';
-    height: 4.8rem;
+    white-space: nowrap;
+    height: 4.7rem;
+    position: absolute;
+    font-weight: 400;
+    font-size: 3.8rem;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    width: 9.6rem;
     left: 45.9rem;
     top: 48.2rem;
-    font-size: 3.8rem;
-    font-weight: 400;
-    line-height: 1.2575;
-    width: 9rem;
-    position: absolute;
-    white-space: nowrap;
   }
-  .rectangle-6-ncV {
-    width: 56.9rem;
-    height: 10.5rem;
+  .rectangle-6-A1K {
     position: absolute;
     left: 43.5rem;
     top: 69.8rem;
     border: solid 0.5rem rgba(217, 217, 217, 0.5);
     box-sizing: border-box;
     border-radius: 5rem;
+    width: 56.9rem;
+    height: 10.5rem;
   }
-  .contrasea-H3T {
+  .contrasea-sAd {
+    width: 20.8rem;
+    position: absolute;
+    font-size: 3.8rem;
+    line-height: 1.2125;
+    color: rgba(217, 217, 217, 0.6999999881);
+    white-space: nowrap;
+    height: 4.7rem;
     left: 45.9rem;
     top: 72.8rem;
-    font-family: Tahoma, 'Source Sans Pro';
-    width: 18.3rem;
-    height: 4.8rem;
-    position: absolute;
-    color: rgba(217, 217, 217, 0.6999999881);
-    white-space: nowrap;
-    font-size: 3.8rem;
     font-weight: 400;
-    line-height: 1.2575;
+    font-family: Inter, 'Source Sans Pro';
   }
-  .registrarse-aHT {
-    width: 17.6rem;
-    height: 4.8rem;
-    font-size: 3.8rem;
-    line-height: 1.2575;
-    color: rgba(217, 217, 217, 0.6999999881);
-    white-space: nowrap;
+  .registrarse-n2h {
     position: absolute;
-    left: 45.9rem;
-    top: 85rem;
+    left: 44.8rem;
+    top: 85.3rem;
     font-weight: 400;
-    font-family: Tahoma, 'Source Sans Pro';
-  }
-  .entrar-HSm {
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    width: 20.4rem;
+    height: 4.7rem;
     font-size: 3.8rem;
-    font-weight: 400;
     color: rgba(217, 217, 217, 0.6999999881);
-    width: 9.9rem;
-    height: 4.8rem;
+  }
+  .entrar-gds {
+    color: rgba(217, 217, 217, 0.6999999881);
+    font-family: Inter, 'Source Sans Pro';
+    height: 4.7rem;
     position: absolute;
     left: 85.6rem;
-    top: 85rem;
-    font-family: Tahoma, 'Source Sans Pro';
+    font-weight: 400;
     white-space: nowrap;
-    line-height: 1.2575;
+    width: 10.9rem;
+    top: 85rem;
+    font-size: 3.8rem;
+    line-height: 1.2125;
   }
-  .luxurtooth-PEu {
+  .luxurtooth-PoB {
+    font-size: 5rem;
+    line-height: 1.25;
+    font-family: Hammersmith One, 'Source Sans Pro';
     position: absolute;
     left: 56.7rem;
+    top: 9.8rem;
     color: rgba(217, 217, 217, 0.8999999762);
     white-space: nowrap;
-    font-family: Hammersmith One, 'Source Sans Pro';
     width: 30.5rem;
     height: 6.3rem;
-    top: 9.8rem;
-    font-size: 5rem;
     font-weight: 400;
-    line-height: 1.25;
   }
-  .rectangle-4-gzh {
-    height: 12.5rem;
+  .rectangle-4-W77 {
     position: absolute;
     left: 65.9rem;
     top: 17.3rem;
     object-fit: contain;
     vertical-align: top;
     width: 12.2rem;
+    height: 12.5rem;
   }
-  .vector-d9F {
+  .vector-2bF {
+    position: absolute;
     left: 92.7688rem;
     top: 36.0813rem;
     object-fit: contain;
     vertical-align: top;
     width: 4rem;
     height: 3.9375rem;
-    position: absolute;
   }
-  .rectangle-7-AQ5 {
+  .rectangle-7-xzh {
+    width: 56.9rem;
+    height: 10.5rem;
     position: absolute;
     left: 43.5rem;
     top: 32.7rem;
     border: solid 0.5rem #26283f;
     box-sizing: border-box;
     border-radius: 5rem;
-    width: 56.9rem;
-    height: 10.5rem;
   }
-  .nombre-6Hj {
-    white-space: nowrap;
-    width: 13rem;
-    height: 4.8rem;
+  .nombre-gfo {
+    left: 45.9rem;
+    color: #26283f;
+    font-family: Inter, 'Source Sans Pro';
+    height: 4.7rem;
     position: absolute;
     top: 35.7rem;
-    line-height: 1.2575;
-    color: #26283f;
-    font-family: Tahoma, 'Source Sans Pro';
-    left: 45.9rem;
     font-size: 3.8rem;
     font-weight: 400;
+    line-height: 1.2125;
+    white-space: nowrap;
+    width: 14.4rem;
   }
-  .polygon-1-19o {
-    left: 92.4rem;
+  .polygon-1-oVX {
     top: 60.8rem;
     object-fit: contain;
     vertical-align: top;
     width: 4.6rem;
     height: 3.8rem;
     position: absolute;
+    left: 92.4rem;
   }
-  .vector-YQd {
+  .vector-jty {
     width: 2rem;
     height: 2.3rem;
     position: absolute;
@@ -227,7 +227,7 @@ body {
     object-fit: contain;
     vertical-align: top;
   }
-  .vector-UZB {
+  .vector-gJR {
     width: 4.9rem;
     height: 5rem;
     position: absolute;

@@ -1,26 +1,20 @@
+
 html {
-  font-size: 62.5%;
+	font-size:62.5%;
 }
-
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
-
-ul,
-li {
-  list-style: none;
+ul, li {
+	list-style: none;
 }
-
 input {
-  border: none;
+	border: none;
 }
-
 body {
-  width: 100%;
-}
-
-.historialclinico-BPb {
+  width: 144rem;
+}.historialclinico-BPb {
   box-sizing: border-box;
   padding: 2.7rem 4.6rem 4.2rem 2.8rem;
   width: 100%;
@@ -32,7 +26,6 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-
 .historialclinico-BPb .head-UNh {
   margin-bottom: 0.4rem;
   width: 100%;
@@ -43,14 +36,12 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs {
   margin-right: 3.1333rem;
   width: 112.6rem;
   height: 100%;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f {
   margin: 0rem 3.6rem 1.2rem 0rem;
   width: calc(100% - 3.6rem);
@@ -58,7 +49,6 @@ body {
   display: flex;
   align-items: center;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF {
   box-sizing: border-box;
   padding: 0.1rem 6rem 0.2rem 0rem;
@@ -67,7 +57,6 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF .luxurtooth-nGu {
   margin: 0.4rem 0.4rem 0rem 0rem;
   font-size: 3.5rem;
@@ -78,7 +67,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF .rectangle-4-VBK {
   width: 5rem;
   height: 5rem;
@@ -86,7 +74,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 {
   box-sizing: border-box;
   padding: 1.4rem 59.4rem 1.552rem 1.9rem;
@@ -97,7 +84,6 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 .icon-search-9Fs {
   margin: 0.099rem 1.6rem 0rem 0rem;
   width: 2.5rem;
@@ -107,7 +93,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 .buscar-fecha-Fph {
   margin-bottom: 0.0476rem;
   font-size: 2rem;
@@ -118,7 +103,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy {
   margin-left: 1.6rem;
   width: calc(100% - 1.6rem);
@@ -126,7 +110,6 @@ body {
   display: flex;
   align-items: center;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-bexd-6aR {
   width: 15rem;
   height: 15rem;
@@ -135,7 +118,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
@@ -144,14 +126,12 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd {
   margin: 0rem 10.5rem 1.3rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .doctor-sebastian-u25 {
   margin-bottom: 0.8rem;
   font-size: 3.2rem;
@@ -162,7 +142,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .item-100783823-puj {
   margin-bottom: 0.7rem;
   font-size: 2rem;
@@ -173,7 +152,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .aos-M8y {
   font-size: 2rem;
   font-weight: 400;
@@ -183,7 +161,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .line-1-gh3 {
   margin-right: 3.5rem;
   width: 0.1rem;
@@ -191,7 +168,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .bell-2F7 {
   margin: 0rem 1.9rem 6.9rem 0rem;
   width: 3rem;
@@ -201,7 +177,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .notificaciones-wN5 {
   margin: 0rem 9.8rem 7.4rem 0rem;
   font-size: 3.2rem;
@@ -212,7 +187,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .line-2-rzq {
   margin-right: 3.25rem;
   width: 0.1rem;
@@ -220,7 +194,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .fire-1Mw {
   margin: 0rem 2.65rem 6.782rem 0rem;
   width: 2.5rem;
@@ -229,7 +202,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .advertencias-Lv1 {
   margin-bottom: 7.4rem;
   font-size: 3.2rem;
@@ -240,7 +212,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .user-UWR {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
@@ -249,7 +220,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .doc-sebas-DD7 {
   margin: 1.6rem 3.1rem 0rem 0rem;
   font-size: 2.4rem;
@@ -260,7 +230,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .head-UNh .polygon-1-jhF {
   margin-top: 2rem;
   width: 2rem;
@@ -269,7 +238,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m {
   margin: 0rem 0.3rem 2.9rem 0rem;
   box-sizing: border-box;
@@ -283,7 +251,6 @@ body {
   background-image: url('../assets/navegacion-Vss.png');
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m .agenda-9ky {
   margin: 0.7rem 18.9rem 0rem 0rem;
   font-size: 3.2rem;
@@ -294,7 +261,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m .line-3-UHT {
   margin-right: 8.8rem;
   width: 0.1rem;
@@ -302,7 +268,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m .odontograma-oqX {
   margin: 0.7rem 10.5rem 0rem 0rem;
   font-size: 3.2rem;
@@ -313,7 +278,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m .line-4-8N1 {
   margin-right: 4.8rem;
   width: 0.1rem;
@@ -321,7 +285,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-xmos-s2m .historial-clinico-sqP {
   margin-top: 0.7rem;
   font-size: 3.2rem;
@@ -332,7 +295,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 {
   margin: 0rem 0.1rem 2.8rem 0rem;
   width: 134.4rem;
@@ -341,13 +303,11 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw {
   width: 134.2rem;
   height: 100%;
   position: relative;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rectangle-11-yfT {
   width: 134rem;
   height: 37.9rem;
@@ -357,7 +317,6 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-6-JBw {
   width: 133.7rem;
   height: 0.2rem;
@@ -366,7 +325,6 @@ body {
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-21-RXT {
   width: 133.7rem;
   height: 0.2rem;
@@ -375,7 +333,6 @@ body {
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-13-ZNm {
   width: 133.7rem;
   height: 0.2rem;
@@ -384,7 +341,6 @@ body {
   top: 15.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-14-giH {
   width: 133.7rem;
   height: 0.2rem;
@@ -393,7 +349,6 @@ body {
   top: 20.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-15-d7j {
   width: 133.7rem;
   height: 0.2rem;
@@ -402,7 +357,6 @@ body {
   top: 25.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-16-ZGH {
   width: 133.7rem;
   height: 0.2rem;
@@ -411,7 +365,6 @@ body {
   top: 30.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-17-JUm {
   width: 133.7rem;
   height: 0.2rem;
@@ -420,7 +373,6 @@ body {
   top: 35.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-7-qUh {
   width: 0.2rem;
   height: 26.5rem;
@@ -429,7 +381,6 @@ body {
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-24-aSH {
   width: 0.2rem;
   height: 26.5rem;
@@ -438,7 +389,6 @@ body {
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-8-vFF {
   width: 0.2rem;
   height: 26.5rem;
@@ -447,7 +397,6 @@ body {
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-9-Tky {
   width: 0.2rem;
   height: 26.5rem;
@@ -456,7 +405,6 @@ body {
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-10-c85 {
   width: 0.2rem;
   height: 26.5rem;
@@ -465,7 +413,6 @@ body {
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-11-MLZ {
   width: 0.2rem;
   height: 26.5rem;
@@ -474,7 +421,6 @@ body {
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-23-Vhf {
   width: 0.2rem;
   height: 26.5rem;
@@ -483,7 +429,6 @@ body {
   top: 9.3031rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .introduce-id-paciente--SN1 {
   width: 22.4rem;
   height: 2.8rem;
@@ -497,7 +442,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-LiH {
   width: 7.2rem;
   height: 2.8rem;
@@ -511,7 +455,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-FKT {
   width: 7.2rem;
   height: 2.8rem;
@@ -525,7 +468,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-wxy {
   width: 7.2rem;
   height: 2.8rem;
@@ -539,7 +481,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-04-2023-rq3 {
   width: 11rem;
   height: 2.8rem;
@@ -553,7 +494,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-MWu {
   width: 7.2rem;
   height: 2.8rem;
@@ -567,7 +507,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-Tpq {
   width: 7.2rem;
   height: 2.8rem;
@@ -581,7 +520,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-MfK {
   width: 7.2rem;
   height: 2.8rem;
@@ -595,7 +533,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .id-paciente-TyF {
   width: 11.6rem;
   height: 2.8rem;
@@ -609,7 +546,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .nombre-NKX {
   width: 8.4rem;
   height: 2.8rem;
@@ -623,7 +559,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .servicio-HSV {
   width: 8.3rem;
   height: 2.8rem;
@@ -637,7 +572,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .estado-bCH {
   width: 7.1rem;
   height: 2.8rem;
@@ -651,7 +585,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .diente-iGu {
   width: 6.7rem;
   height: 2.8rem;
@@ -665,7 +598,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .zona-dem {
   width: 5.4rem;
   height: 2.8rem;
@@ -679,7 +611,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .hora-vNy {
   width: 5.4rem;
   height: 2.8rem;
@@ -693,7 +624,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .fecha-cmb {
   width: 6.2rem;
   height: 2.8rem;
@@ -707,7 +637,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-30-04-2023-XNm {
   width: 11rem;
   height: 2.8rem;
@@ -721,7 +650,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-16-05-2023-dgh {
   width: 11rem;
   height: 2.8rem;
@@ -735,7 +663,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-1-06-2023-whP {
   width: 9.8rem;
   height: 2.8rem;
@@ -749,7 +676,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-GDs {
   width: 8.5rem;
   height: 2.8rem;
@@ -763,7 +689,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-PJV {
   width: 8.5rem;
   height: 2.8rem;
@@ -777,7 +702,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-8-00-7EV {
   width: 4.9rem;
   height: 2.8rem;
@@ -791,7 +715,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-00-dCq {
   width: 6.1rem;
   height: 2.8rem;
@@ -805,7 +728,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-14-00-kHT {
   width: 5.5rem;
   height: 2.8rem;
@@ -819,7 +741,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-00-54q {
   width: 5.5rem;
   height: 2.8rem;
@@ -833,7 +754,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .revisin-general-b3B {
   width: 16.8rem;
   height: 2.8rem;
@@ -847,7 +767,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rasapado-u3s {
   width: 10rem;
   height: 2.8rem;
@@ -861,7 +780,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .alisado-radicular-RH7 {
   width: 17.4rem;
   height: 2.8rem;
@@ -875,7 +793,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rehabilitacin-oral-8hK {
   width: 18.9rem;
   height: 2.8rem;
@@ -889,7 +806,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .pendiente-dty {
   width: 9.5rem;
   height: 2.8rem;
@@ -903,7 +819,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-xAZ {
   width: 10.2rem;
   height: 2.8rem;
@@ -917,7 +832,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-sYR {
   width: 10.2rem;
   height: 2.8rem;
@@ -931,7 +845,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-z7F {
   width: 10.2rem;
   height: 2.8rem;
@@ -945,7 +858,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-Jtd {
   width: 7rem;
   height: 2.8rem;
@@ -959,7 +871,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-SE9 {
   width: 7rem;
   height: 2.8rem;
@@ -973,7 +884,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-m1X {
   width: 7rem;
   height: 2.8rem;
@@ -987,7 +897,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-geH {
   width: 7rem;
   height: 2.8rem;
@@ -1001,7 +910,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-QqB {
   width: 16.5rem;
   height: 2.8rem;
@@ -1015,7 +923,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-Kx9 {
   width: 16.5rem;
   height: 2.8rem;
@@ -1029,7 +936,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-qfb {
   width: 16.5rem;
   height: 2.8rem;
@@ -1043,7 +949,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-knZ {
   width: 16.5rem;
   height: 2.8rem;
@@ -1057,7 +962,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-ssB {
   width: 8.5rem;
   height: 2.8rem;
@@ -1071,7 +975,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-zwo {
   width: 8.5rem;
   height: 2.8rem;
@@ -1085,7 +988,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rectangle-17-XB3 {
   width: 134.1rem;
   height: 4.9rem;
@@ -1094,7 +996,6 @@ body {
   top: 20.7rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 {
   margin: 0rem 0.3rem 0.9rem 0rem;
   width: 134rem;
@@ -1102,7 +1003,6 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .rectangle-16-kJh {
   width: 134rem;
   height: 16.9rem;
@@ -1112,7 +1012,6 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .line-26-V1P {
   width: 0.2rem;
   height: 17rem;
@@ -1121,7 +1020,6 @@ body {
   top: 0;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .observacion--pZT {
   width: 13.8rem;
   height: 2.8rem;
@@ -1135,7 +1033,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .tratamineto--LGu {
   width: 13.6rem;
   height: 2.8rem;
@@ -1149,11 +1046,11 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .exceso-de-sarro-y-bacterias-en-el-canino-superior-progreso-de-bajo-riesgo-debido-a-daos-nicamente-superficiales-F8y {
   width: 49.2rem;
   height: 8.3rem;
   position: absolute;
+  text-align: justify;
   left: 3rem;
   top: 5.7rem;
   font-size: 2.4rem;
@@ -1162,11 +1059,11 @@ body {
   color: #010b1f;
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .historialclinico-BPb .auto-group-zz49-S37 .el-alisado-radicular-suaviza-la-superficie-de-las-races-yayudar-a-prevenir-que-se-siga-acumulando-sarro-dental-y-bacterias-hFs {
   width: 53rem;
   height: 8.3rem;
   position: absolute;
+  text-align: justify;
   left: 72.8rem;
   top: 5.7rem;
   font-size: 2.4rem;
@@ -1175,7 +1072,6 @@ body {
   color: #010b1f;
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .historialclinico-BPb .auto-group-rdph-wvu {
   margin: 0rem 1.9rem 0rem 107.3rem;
   width: calc(100% - 109.2rem);
@@ -1184,7 +1080,6 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-rdph-wvu .auto-group-kzyf-s3s {
   margin-right: 0.6rem;
   width: 13.4rem;
@@ -1202,7 +1097,6 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
 .historialclinico-BPb .auto-group-rdph-wvu .auto-group-txfb-XPK {
   width: 13.4rem;
   height: 100%;

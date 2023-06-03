@@ -1,26 +1,20 @@
+
 html {
-  font-size: 62.5%;
+	font-size:62.5%;
 }
-
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
-
-ul,
-li {
-  list-style: none;
+ul, li {
+	list-style: none;
 }
-
 input {
-  border: none;
+	border: none;
 }
-
 body {
   width: 144rem;
-}
-
-.agenda-7MX {
+}.agenda-2kd {
   box-sizing: border-box;
   padding: 2.7rem 2.2rem 3rem 2.4rem;
   width: 100%;
@@ -32,8 +26,7 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-
-.agenda-7MX .head-cJH {
+.agenda-2kd .head-LFX {
   margin: 0rem 2rem 0.4rem 0rem;
   height: 21.5rem;
   overflow: hidden;
@@ -42,23 +35,20 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd {
-  margin-right: 2.7333rem;
-  width: 113rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP {
+  margin-right: 3.1333rem;
+  width: 112.6rem;
   height: 100%;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 {
-  margin: 0rem 4rem 1.2rem 0rem;
-  width: calc(100% - 4rem);
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR {
+  margin: 0rem 3.6rem 1.2rem 0rem;
+  width: calc(100% - 3.6rem);
   height: 5.3rem;
   display: flex;
   align-items: center;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-kw2u-fx1 {
   box-sizing: border-box;
   padding: 0.1rem 6rem 0.2rem 0rem;
   height: 100%;
@@ -66,8 +56,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 .luxurtooth-JqK {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-kw2u-fx1 .luxurtooth-zjP {
   margin: 0.4rem 0.4rem 0rem 0rem;
   font-size: 3.5rem;
   font-weight: 400;
@@ -77,16 +66,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 .rectangle-4-zi9 {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-kw2u-fx1 .rectangle-4-tZs {
   width: 5rem;
   height: 5rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-cqhs-dGZ {
   box-sizing: border-box;
   padding: 1.4rem 59.4rem 1.552rem 1.9rem;
   height: 100%;
@@ -96,9 +83,8 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ .icon-search-S4M {
-  margin: 0rem 1.6rem 0.154rem 0rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-cqhs-dGZ .icon-search-YuK {
+  margin: 0.099rem 1.6rem 0rem 0rem;
   width: 2.5rem;
   height: 2.249rem;
   position: relative;
@@ -106,8 +92,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ .buscar-fecha-wWu {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-kvwb-MgR .auto-group-cqhs-dGZ .buscar-fecha-fj3 {
+  margin-bottom: 0.0476rem;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -116,16 +102,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH {
   margin-left: 1.6rem;
   width: calc(100% - 1.6rem);
   height: 15rem;
   display: flex;
   align-items: center;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-9vgm-a45 {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-eubf-CMb {
   width: 15rem;
   height: 15rem;
   position: relative;
@@ -133,8 +117,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
   height: 100%;
@@ -142,17 +125,14 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb {
-  margin: 0.5rem 9.7rem 1.5rem 0rem;
-  height: calc(100% - 2rem);
-  row-gap: 0.4rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .auto-group-6ozd-dSu {
+  margin: 0rem 10.5rem 1.3rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .doctor-sebastian-jr5 {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .auto-group-6ozd-dSu .doctor-sebastian-xk5 {
+  margin-bottom: 0.8rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -161,8 +141,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .item-100783823-4tM {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .auto-group-6ozd-dSu .item-100783823-HXT {
+  margin-bottom: 0.7rem;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -171,8 +151,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .aos-QBX {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .auto-group-6ozd-dSu .aos-cZj {
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -181,17 +160,15 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .line-1-whF {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .line-1-x7o {
   margin-right: 3.5rem;
   width: 0.1rem;
   height: 12.1rem;
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .bell-5Hf {
-  margin: 0rem 1.9rem 6.9rem 5rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .bell-gJh {
+  margin: 0rem 1.9rem 6.9rem 0rem;
   width: 3rem;
   height: 3rem;
   position: relative;
@@ -199,9 +176,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .notificaciones-cHb {
-  margin: 0rem 9.4rem 7rem 0rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .notificaciones-pA1 {
+  margin: 0rem 9.8rem 7.4rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -210,26 +186,23 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .line-2-LDb {
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .line-2-k3f {
   margin-right: 3.25rem;
   width: 0.1rem;
   height: 12.1rem;
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .fire-sUR {
-  margin: 0rem 2.65rem 6.782rem 8rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .fire-55w {
+  margin: 0rem 2.65rem 6.782rem 0rem;
   width: 2.5rem;
   height: 3.3824rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .advertencias-Cmb {
-  margin-bottom: 7rem;
+.agenda-2kd .head-LFX .auto-group-6hqx-pwP .auto-group-yqhb-mGH .auto-group-3vs3-jsK .advertencias-ba5 {
+  margin-bottom: 7.4rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -238,8 +211,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .user-wUH {
+.agenda-2kd .head-LFX .user-Xid {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
   height: 5rem;
@@ -247,9 +219,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .doc-sebas-sMw {
-  margin: 1.6rem 2.9rem 0rem 0rem;
+.agenda-2kd .head-LFX .doc-sebas-rF7 {
+  margin: 1.6rem 3.1rem 0rem 0rem;
   font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.15;
@@ -258,8 +229,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .head-cJH .polygon-1-aXF {
+.agenda-2kd .head-LFX .polygon-1-mcy {
   margin-top: 2rem;
   width: 2rem;
   height: 2rem;
@@ -267,8 +237,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-wwpx-i7f {
+.agenda-2kd .auto-group-hf5f-i2R {
   margin-bottom: 2.9rem;
   box-sizing: border-box;
   padding: 0.1rem 25.4rem 0.1rem 21.7rem;
@@ -282,29 +251,8 @@ body {
   background-image: url('../assets/navegacion-P5o.png');
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-wwpx-i7f .agenda-o97 {
-  margin: 0rem 18.04rem 0rem 0rem;
-  font-size: 3.2rem;
-  font-weight: 400;
-  text-align: center;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tinos, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.agenda-7MX .auto-group-wwpx-i7f .line-3-X57 {
-  margin-right: 14rem;
-  width: 0.1rem;
-  height: 6.6rem;
-  background-color: #010b1f;
-  flex-shrink: 0;
-}
-
-.agenda-7MX .auto-group-wwpx-i7f .odontograma-fSD {
-  margin: 0rem 8.99rem 0rem 0rem;
+.agenda-2kd .auto-group-hf5f-i2R .agenda-1nD {
+  margin: 0.7rem 18.9rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -313,17 +261,32 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-wwpx-i7f .line-4-b4y {
+.agenda-2kd .auto-group-hf5f-i2R .line-3-veH {
+  margin-right: 8.8rem;
+  width: 0.1rem;
+  height: 6.6rem;
+  background-color: #010b1f;
+  flex-shrink: 0;
+}
+.agenda-2kd .auto-group-hf5f-i2R .odontograma-rnq {
+  margin: 0.7rem 10.5rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.agenda-2kd .auto-group-hf5f-i2R .line-4-muo {
   margin-right: 4.8rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-wwpx-i7f .historial-clinico-LYM {
-  margin: 0rem 9.4rem;
+.agenda-2kd .auto-group-hf5f-i2R .historial-clinico-7yf {
+  margin-top: 0.7rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;
@@ -332,9 +295,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu {
-  margin: 0rem 2.7rem;
+.agenda-2kd .auto-group-bxnh-RjT {
+  margin: 0 2.7rem;
   box-sizing: border-box;
   padding: 1.1rem 0rem 1.2rem 0.3rem;
   width: calc(100% - 5.4rem);
@@ -345,17 +307,14 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s {
-  margin: 0rem 114rem 5.1rem 2.3rem;
-  width: calc(100% - 116.3rem);
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-5g8m-99f {
+  margin: 0rem 112.1rem 5.1rem 0rem;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .diario-5eM {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-5g8m-99f .diario-USq {
+  margin-right: 0.4rem;
   font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.15;
@@ -364,25 +323,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh {
-  box-sizing: border-box;
-  padding-left: 0.7rem;
-  height: 100%;
-  display: flex;
-  align-items: flex-end;
-  flex-shrink: 0;
-}
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh .line-12-a5K {
-  margin-right: 0.7rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-5g8m-99f .line-12-c3F {
+  margin: 0.1rem 0.7rem 0rem 0rem;
   width: 0.2rem;
   height: 3rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh .semanal-tLu {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-5g8m-99f .semanal-8XP {
   font-size: 2.4rem;
   font-weight: 700;
   line-height: 1.15;
@@ -391,8 +339,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK {
   margin-bottom: 2.1rem;
   width: 100%;
   height: 47.2rem;
@@ -401,8 +348,7 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-22-Vbb {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-22-Muw {
   width: 133.6998rem;
   height: 0.2rem;
   position: absolute;
@@ -410,8 +356,7 @@ body {
   top: 46.9rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-13-DXb {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-13-5qw {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -419,8 +364,7 @@ body {
   top: 6.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-14-xEH {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-14-2FP {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -428,8 +372,7 @@ body {
   top: 11.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-15-Vzu {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-15-mTs {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -437,8 +380,7 @@ body {
   top: 16.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-16-eN1 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-16-iP7 {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -446,8 +388,7 @@ body {
   top: 21.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-17-nz1 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-17-G9j {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -455,8 +396,7 @@ body {
   top: 26.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-18-YCV {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-18-1d7 {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -464,8 +404,7 @@ body {
   top: 31.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-19-Hfs {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-19-Z8q {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -473,8 +412,7 @@ body {
   top: 36.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-20-cy3 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-20-VYH {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
@@ -482,8 +420,7 @@ body {
   top: 41.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-7-mL9 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-7-Rwj {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -491,8 +428,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-24-uSM {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-24-yTT {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -500,8 +436,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-25-e93 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-25-WTP {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -509,8 +444,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-8-Bem {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-8-FA5 {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -518,8 +452,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-9-6mj {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-9-ZwT {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -527,8 +460,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-10-e2Z {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-10-h25 {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -536,8 +468,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-11-AWh {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-11-q8H {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -545,8 +476,7 @@ body {
   top: 0;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-23-7B3 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .line-23-yVP {
   width: 0.2rem;
   height: 47rem;
   position: absolute;
@@ -554,10 +484,9 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .daniel-l-qsj {
-  width: 8.1rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .daniel-l-7bb {
+  width: 8.5rem;
+  height: 2.8rem;
   position: absolute;
   left: 30.2rem;
   top: 12.5rem;
@@ -568,10 +497,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .juan-b-MLH {
-  width: 6.9rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .juan-b-EAR {
+  width: 6.7rem;
+  height: 2.8rem;
   position: absolute;
   left: 62.2rem;
   top: 27.5rem;
@@ -582,10 +510,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .bryan-c-GTF {
-  width: 7.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .bryan-c-8mb {
+  width: 8.1rem;
+  height: 2.8rem;
   position: absolute;
   left: 61.5rem;
   top: 12.5rem;
@@ -596,8 +523,7 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-2-BKK {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .polygon-2-rhb {
   width: 2rem;
   height: 2rem;
   position: absolute;
@@ -606,8 +532,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-3-iKF {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .polygon-3-PxR {
   width: 2rem;
   height: 2rem;
   position: absolute;
@@ -616,8 +541,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-4-3MX {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .polygon-4-Lcm {
   width: 2rem;
   height: 2rem;
   position: absolute;
@@ -626,8 +550,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-5-PAV {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .polygon-5-669 {
   width: 2rem;
   height: 2rem;
   position: absolute;
@@ -636,8 +559,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-6-885 {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .polygon-6-Ru7 {
   width: 2rem;
   height: 2rem;
   position: absolute;
@@ -646,10 +568,9 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .sara-b-GVB {
-  width: 6.4rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .sara-b-yQq {
+  width: 6.5rem;
+  height: 2.8rem;
   position: absolute;
   left: 47rem;
   top: 42.5rem;
@@ -660,10 +581,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .william-i-nCd {
-  width: 8.7rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .william-i-Vty {
+  width: 9.2rem;
+  height: 2.8rem;
   position: absolute;
   left: 107.6rem;
   top: 22.4rem;
@@ -674,8 +594,7 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .lunes-u2M {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .lunes-vUV {
   width: 6.3rem;
   height: 2.8rem;
   position: absolute;
@@ -688,10 +607,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .martes-cxM {
-  width: 7.3rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .martes-dth {
+  width: 7.4rem;
+  height: 2.8rem;
   position: absolute;
   left: 33rem;
   top: 2.1rem;
@@ -702,10 +620,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .miercoles-LtM {
-  width: 10.1rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .miercoles-Z1f {
+  width: 10rem;
+  height: 2.8rem;
   position: absolute;
   left: 47.5rem;
   top: 2.2rem;
@@ -716,10 +633,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .jueves-rrh {
-  width: 7.4rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .jueves-gMB {
+  width: 6.8rem;
+  height: 2.8rem;
   position: absolute;
   left: 63.3rem;
   top: 2.2rem;
@@ -730,10 +646,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .viernes-nVT {
-  width: 7.9rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .viernes-oRo {
+  width: 7.8rem;
+  height: 2.8rem;
   position: absolute;
   left: 79.1rem;
   top: 2.1rem;
@@ -744,10 +659,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .sabado-JTo {
-  width: 8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .sabado-vWR {
+  width: 7.7rem;
+  height: 2.8rem;
   position: absolute;
   left: 95.4rem;
   top: 2.2rem;
@@ -758,10 +672,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .domingo-pS9 {
-  width: 9.6rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .domingo-qdP {
+  width: 9.4rem;
+  height: 2.8rem;
   position: absolute;
   left: 109.8rem;
   top: 2.2rem;
@@ -772,10 +685,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .hora-9DX {
-  width: 5.2rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .hora-ZJV {
+  width: 5.4rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.8rem;
   top: 2.1rem;
@@ -786,10 +698,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-8-00-GZ3 {
-  width: 4.6rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-8-00-spy {
+  width: 4.4rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.9rem;
   top: 6.9rem;
@@ -800,10 +711,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-9-00-yTT {
-  width: 4.6rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-9-00-yt1 {
+  width: 4.4rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.9rem;
   top: 12.5rem;
@@ -814,10 +724,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-10-00-Hj3 {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-10-00-uFs {
+  width: 5.6rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 17.6rem;
@@ -828,10 +737,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-11-00-Cb7 {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-11-00-cg5 {
+  width: 5.5rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 22.4rem;
@@ -842,10 +750,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-12-00-1Hf {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-12-00-iz1 {
+  width: 5.6rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 27.5rem;
@@ -856,10 +763,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-13-00-X17 {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-13-00-3Fb {
+  width: 5.6rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 32.4rem;
@@ -870,10 +776,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-14-00-2yT {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-14-00-kQu {
+  width: 5.6rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 37.5rem;
@@ -884,10 +789,9 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-15-00-MVw {
-  width: 5.8rem;
-  height: 3.1rem;
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-qdnv-fXK .item-15-00-4gV {
+  width: 5.6rem;
+  height: 2.8rem;
   position: absolute;
   left: 3.4rem;
   top: 42.4rem;
@@ -898,8 +802,7 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-yq8d-9hw {
   margin: 0rem 1.6rem 0rem 104.7rem;
   width: calc(100% - 106.3rem);
   height: 5.3rem;
@@ -907,8 +810,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df .auto-group-kw3p-a7o {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-yq8d-9hw .auto-group-qjwb-55o {
   margin-right: 0.6rem;
   width: 13.4rem;
   height: 100%;
@@ -925,8 +827,7 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
-.agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df .auto-group-srsw-qJd {
+.agenda-2kd .auto-group-bxnh-RjT .auto-group-yq8d-9hw .auto-group-k72d-Yk5 {
   width: 13.4rem;
   height: 100%;
   font-size: 2.4rem;

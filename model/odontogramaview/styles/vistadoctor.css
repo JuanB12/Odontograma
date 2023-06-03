@@ -1,26 +1,20 @@
+
 html {
-  font-size: 62.5%;
+	font-size:62.5%;
 }
-
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
-
-ul,
-li {
-  list-style: none;
+ul, li {
+	list-style: none;
 }
-
 input {
-  border: none;
+	border: none;
 }
-
 body {
-  width: 100%;
-}
-
-.vistadoctor-Srh {
+  width: 144rem;
+}.vistadoctor-Srh {
   box-sizing: border-box;
   padding: 2.7rem 2.2rem 2.9rem 2.4rem;
   width: 100%;
@@ -32,7 +26,6 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-
 .vistadoctor-Srh .head-9WD {
   margin: 0rem 2rem 0.4rem 0rem;
   height: 21.5rem;
@@ -42,14 +35,12 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq {
   margin-right: 3.1333rem;
   width: 112.6rem;
   height: 100%;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u {
   margin: 0rem 3.6rem 1.2rem 0rem;
   width: calc(100% - 3.6rem);
@@ -57,7 +48,6 @@ body {
   display: flex;
   align-items: center;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-kouf-ixd {
   box-sizing: border-box;
   padding: 0.1rem 6rem 0.2rem 0rem;
@@ -66,7 +56,6 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-kouf-ixd .luxurtooth-TvD {
   margin: 0.4rem 0.4rem 0rem 0rem;
   font-size: 3.5rem;
@@ -77,7 +66,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-kouf-ixd .rectangle-4-ZiM {
   width: 5rem;
   height: 5rem;
@@ -85,7 +73,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-4t1b-5gh {
   box-sizing: border-box;
   padding: 1.4rem 57.4rem 1.552rem 1.9rem;
@@ -96,7 +83,6 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-4t1b-5gh .icon-search-oMo {
   margin: 0.099rem 1.6rem 0rem 0rem;
   width: 2.5rem;
@@ -106,7 +92,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-ynz3-c8u .auto-group-4t1b-5gh .buscar-paciente-7dP {
   margin-bottom: 0.0476rem;
   font-size: 2rem;
@@ -117,7 +102,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 {
   margin-left: 1.6rem;
   width: calc(100% - 1.6rem);
@@ -125,7 +109,6 @@ body {
   display: flex;
   align-items: center;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-azx3-kAZ {
   width: 15rem;
   height: 15rem;
@@ -134,7 +117,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
@@ -143,14 +125,12 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .auto-group-gwsh-Qku {
   margin: 0rem 6.1rem 1.3rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .auto-group-gwsh-Qku .juan-camilo-barrios-Ys7 {
   margin-bottom: 0.8rem;
   font-size: 3.2rem;
@@ -161,7 +141,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .auto-group-gwsh-Qku .item-101073840-UVs {
   margin-bottom: 0.7rem;
   font-size: 2rem;
@@ -172,7 +151,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .auto-group-gwsh-Qku .aos-baV {
   font-size: 2rem;
   font-weight: 400;
@@ -182,7 +160,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .line-1-L2H {
   margin-right: 3.5rem;
   width: 0.1rem;
@@ -190,7 +167,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .bell-GRj {
   margin: 0rem 1.9rem 6.9rem 0rem;
   width: 3rem;
@@ -200,7 +176,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .notificaciones-zcd {
   margin: 0rem 9.8rem 7.4rem 0rem;
   font-size: 3.2rem;
@@ -211,7 +186,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .line-2-ioX {
   margin-right: 3.25rem;
   width: 0.1rem;
@@ -219,7 +193,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .fire-Tm7 {
   margin: 0rem 2.65rem 6.782rem 0rem;
   width: 2.5rem;
@@ -228,7 +201,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .auto-group-2pbk-Gaq .auto-group-dta1-cq3 .auto-group-3cpu-VP3 .advertencias-Pem {
   margin-bottom: 7.4rem;
   font-size: 3.2rem;
@@ -239,7 +211,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .user-vPo {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
@@ -248,7 +219,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .doc-sebas-T8q {
   margin: 1.6rem 3.1rem 0rem 0rem;
   font-size: 2.4rem;
@@ -259,7 +229,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .head-9WD .polygon-1-ajF {
   margin-top: 2rem;
   width: 2rem;
@@ -268,7 +237,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB {
   margin-bottom: 2.4rem;
   box-sizing: border-box;
@@ -283,7 +251,6 @@ body {
   background-image: url('../assets/navegacion-MDw.png');
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB .agenda-Rjs {
   margin: 0.7rem 18.9rem 0rem 0rem;
   font-size: 3.2rem;
@@ -294,7 +261,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB .line-3-kXF {
   margin-right: 8.8rem;
   width: 0.1rem;
@@ -302,7 +268,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB .odontograma-t7f {
   margin: 0.7rem 10.5rem 0rem 0rem;
   font-size: 3.2rem;
@@ -313,7 +278,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB .line-4-Ce9 {
   margin-right: 4.8rem;
   width: 0.1rem;
@@ -321,7 +285,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-3kzx-7jB .historial-clinico-YT7 {
   margin-top: 0.7rem;
   font-size: 3.2rem;
@@ -332,14 +295,12 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ {
   width: 100%;
   height: 65.7rem;
   position: relative;
   flex-shrink: 0;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-10-jGh {
   width: 31.8rem;
   height: 65.4rem;
@@ -349,7 +310,6 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .canino-rMK {
   width: 8.1rem;
   height: 3.3rem;
@@ -363,7 +323,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .tipo-diente--ZmX {
   width: 16.2rem;
   height: 3.7rem;
@@ -377,7 +336,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .zona-ubicacion--UtV {
   width: 21.5rem;
   height: 3.7rem;
@@ -391,7 +349,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .servicio--Q1T {
   width: 11.6rem;
   height: 3.7rem;
@@ -405,7 +362,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .tratamiento-con-empaste-dental-en-la-corona-del-diente-uyo {
   width: 25.2rem;
   height: 11.1rem;
@@ -418,7 +374,6 @@ body {
   color: #010b1f;
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .maxilar-superior-1X3 {
   width: 19.3rem;
   height: 3.3rem;
@@ -432,7 +387,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rehabilitacin-oral-vtu {
   width: 22.1rem;
   height: 3.3rem;
@@ -446,7 +400,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-11-Eub {
   width: 99.8rem;
   height: 65.1rem;
@@ -456,7 +409,6 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-12-Zgy {
   width: 92.2rem;
   height: 42.2rem;
@@ -467,7 +419,6 @@ body {
   background-position: -0rem -1.4932rem;
   background-image: url('../assets/rectangle-12-vSq.png');
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-13-eyK {
   width: 6.6rem;
   height: 13rem;
@@ -478,7 +429,6 @@ body {
   background-position: -34.8rem -1.4932rem;
   background-image: url('../assets/rectangle-13-o7b.png');
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-6-Msj {
   width: 28.1rem;
   height: 5.3rem;
@@ -488,7 +438,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .planes-y-tratamientos-tcm {
   width: 21.3rem;
   height: 2.8rem;
@@ -502,7 +451,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-14-QLD {
   width: 23.1rem;
   height: 5.3rem;
@@ -512,7 +460,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .observaciones-LUm {
   width: 14.2rem;
   height: 2.8rem;
@@ -526,7 +473,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-15-TJV {
   width: 5rem;
   height: 10.9rem;
@@ -535,7 +481,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-16-C1B {
   width: 5rem;
   height: 10.9rem;
@@ -544,7 +489,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-17-Kbb {
   width: 5rem;
   height: 10.9rem;
@@ -553,7 +497,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-18-GFw {
   width: 5rem;
   height: 10.9rem;
@@ -562,7 +505,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-19-C9b {
   width: 5rem;
   height: 10.9rem;
@@ -571,7 +513,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-20-83F {
   width: 5rem;
   height: 10.9rem;
@@ -580,7 +521,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-21-4Sh {
   width: 5rem;
   height: 10.9rem;
@@ -589,7 +529,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-22-zr9 {
   width: 5rem;
   height: 10.9rem;
@@ -598,7 +537,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-23-jYq {
   width: 5rem;
   height: 10.9rem;
@@ -607,7 +545,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-24-UFX {
   width: 5rem;
   height: 10.9rem;
@@ -616,7 +553,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-25-DD7 {
   width: 5rem;
   height: 10.9rem;
@@ -625,7 +561,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-26-kTw {
   width: 5rem;
   height: 10.9rem;
@@ -634,7 +569,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-27-Him {
   width: 5rem;
   height: 10.9rem;
@@ -643,7 +577,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-28-2wF {
   width: 5rem;
   height: 10.9rem;
@@ -652,7 +585,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-29-n9j {
   width: 5rem;
   height: 10.9rem;
@@ -661,7 +593,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-30-7xh {
   width: 5rem;
   height: 10.9rem;
@@ -670,7 +601,6 @@ body {
   top: 7.5rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-31-GKo {
   width: 5rem;
   height: 10.9rem;
@@ -679,7 +609,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-32-Qwo {
   width: 5rem;
   height: 10.9rem;
@@ -688,7 +617,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-33-kkm {
   width: 5rem;
   height: 10.9rem;
@@ -697,7 +625,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-34-VyF {
   width: 5rem;
   height: 10.9rem;
@@ -706,7 +633,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-35-qXK {
   width: 5rem;
   height: 10.9rem;
@@ -715,7 +641,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-36-P33 {
   width: 5rem;
   height: 10.9rem;
@@ -724,7 +649,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-37-ir1 {
   width: 5rem;
   height: 10.9rem;
@@ -733,7 +657,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-38-Gcd {
   width: 5rem;
   height: 10.9rem;
@@ -742,7 +665,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-39-1aD {
   width: 5rem;
   height: 10.9rem;
@@ -751,7 +673,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-40-M8H {
   width: 5rem;
   height: 10.9rem;
@@ -760,7 +681,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-41-ggM {
   width: 5rem;
   height: 10.9rem;
@@ -769,7 +689,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-42-q3T {
   width: 5rem;
   height: 10.9rem;
@@ -778,7 +697,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-43-NJH {
   width: 5rem;
   height: 10.9rem;
@@ -787,7 +705,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-44-i7F {
   width: 5rem;
   height: 10.9rem;
@@ -796,7 +713,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-45-TKj {
   width: 5rem;
   height: 10.9rem;
@@ -805,7 +721,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .rectangle-46-Pz5 {
   width: 5rem;
   height: 10.9rem;
@@ -814,7 +729,6 @@ body {
   top: 36rem;
   background-color: rgba(217, 217, 217, 0.0500000007);
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-81-9CZ {
   width: 4.1rem;
   height: 4.1rem;
@@ -824,7 +738,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-82-GHB {
   width: 4.1rem;
   height: 4.1rem;
@@ -834,7 +747,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-83-Psb {
   width: 4.1rem;
   height: 4.1rem;
@@ -844,7 +756,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-84-LH3 {
   width: 4.1rem;
   height: 4.1rem;
@@ -854,7 +765,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-85-TcZ {
   width: 4.1rem;
   height: 4.1rem;
@@ -864,7 +774,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-86-PWD {
   width: 4.1rem;
   height: 4.1rem;
@@ -874,7 +783,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-87-XMX {
   width: 4.1rem;
   height: 4.1rem;
@@ -884,7 +792,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-88-rub {
   width: 4.1rem;
   height: 4.1rem;
@@ -894,7 +801,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-89-Bgy {
   width: 4.1rem;
   height: 4.1rem;
@@ -904,7 +810,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-90-Wz9 {
   width: 4.1rem;
   height: 4.1rem;
@@ -914,7 +819,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-91-rHK {
   width: 4.1rem;
   height: 4.1rem;
@@ -924,7 +828,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-92-zPX {
   width: 4.1rem;
   height: 4.1rem;
@@ -934,7 +837,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-93-8Vj {
   width: 4.1rem;
   height: 4.1rem;
@@ -944,7 +846,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-94-fkZ {
   width: 4.1rem;
   height: 4.1rem;
@@ -954,7 +855,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-95-CVb {
   width: 4.1rem;
   height: 4.1rem;
@@ -964,7 +864,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-96-8e9 {
   width: 4.1rem;
   height: 4.1rem;
@@ -974,7 +873,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-97-s5w {
   width: 4.1rem;
   height: 4.1rem;
@@ -984,7 +882,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-98-Ppy {
   width: 4.1rem;
   height: 4.1rem;
@@ -994,7 +891,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-99-vK7 {
   width: 4.1rem;
   height: 4.1rem;
@@ -1004,7 +900,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-100-SoF {
   width: 4.1rem;
   height: 4.1rem;
@@ -1014,7 +909,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-101-yoB {
   width: 4.1rem;
   height: 4.1rem;
@@ -1024,7 +918,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-102-ugq {
   width: 4.1rem;
   height: 4.1rem;
@@ -1034,7 +927,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-103-dsj {
   width: 4.1rem;
   height: 4.1rem;
@@ -1044,7 +936,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-104-NaR {
   width: 4.1rem;
   height: 4.1rem;
@@ -1054,7 +945,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-105-HBb {
   width: 4.1rem;
   height: 4.1rem;
@@ -1064,7 +954,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-106-pBX {
   width: 4.1rem;
   height: 4.1rem;
@@ -1074,7 +963,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-107-wmw {
   width: 4.1rem;
   height: 4.1rem;
@@ -1084,7 +972,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-108-U1B {
   width: 4.1rem;
   height: 4.1rem;
@@ -1094,7 +981,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-109-bLh {
   width: 4.1rem;
   height: 4.1rem;
@@ -1104,7 +990,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-110-v85 {
   width: 4.1rem;
   height: 4.1rem;
@@ -1114,7 +999,6 @@ body {
   background-color: rgba(217, 217, 217, 0.0099999998);
   border-radius: 2.05rem;
 }
-
 .vistadoctor-Srh .auto-group-i1dp-4AZ .ellipse-111-T81 {
   width: 4.1rem;
   height: 4.1rem;

@@ -1,26 +1,20 @@
+
 html {
-  font-size: 62.5%;
+	font-size:62.5%;
 }
-
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
-
-ul,
-li {
-  list-style: none;
+ul, li {
+	list-style: none;
 }
-
 input {
-  border: none;
+	border: none;
 }
-
 body {
-  width: 100%;
-}
-
-.reserva-zEy {
+  width: 144rem;
+}.reserva-zEy {
   box-sizing: border-box;
   padding: 2.7rem 2.2rem 2.9rem 2.4rem;
   width: 100%;
@@ -32,7 +26,6 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-
 .reserva-zEy .head-tbF {
   margin: 0rem 2rem 0.4rem 0rem;
   width: 136.6rem;
@@ -40,14 +33,12 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf {
   margin-bottom: 0.1667rem;
   width: 100%;
   display: flex;
   align-items: center;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .luxurtooth-kdT {
   margin: 0rem 0.4rem 0.733rem 0rem;
   font-size: 3.5rem;
@@ -58,7 +49,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .rectangle-4-TGy {
   margin: 0rem 6rem 1.133rem 0rem;
   width: 5rem;
@@ -67,7 +57,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .auto-group-emdw-BCy {
   margin: 0rem 6.733rem 1.033rem 0rem;
   box-sizing: border-box;
@@ -77,7 +66,6 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .auto-group-emdw-BCy .icon-search-5ZF {
   width: 2.5rem;
   height: 2.2491rem;
@@ -85,7 +73,6 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .user-zgD {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
@@ -94,7 +81,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .pac-juan-b-Xg9 {
   margin: 0rem 2.6rem 0.333rem 0rem;
   font-size: 2.4rem;
@@ -105,7 +91,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-cspt-2Bf .polygon-1-rCd {
   margin-bottom: 0.3333rem;
   width: 2rem;
@@ -114,7 +99,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 {
   margin: 0rem 15.8rem 0rem 1.6rem;
   width: calc(100% - 17.4rem);
@@ -122,7 +106,6 @@ body {
   display: flex;
   align-items: center;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-t6vr-7PT {
   width: 15rem;
   height: 15rem;
@@ -131,7 +114,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
@@ -140,14 +122,12 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .auto-group-des9-yRf {
   margin: 0rem 6.1rem 1.3rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .auto-group-des9-yRf .juan-camilo-barrios-i8M {
   margin-bottom: 0.8rem;
   font-size: 3.2rem;
@@ -158,7 +138,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .auto-group-des9-yRf .item-101073840-2eq {
   margin-bottom: 0.7rem;
   font-size: 2rem;
@@ -169,7 +148,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .auto-group-des9-yRf .aos-9zM {
   font-size: 2rem;
   font-weight: 400;
@@ -179,7 +157,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .line-1-6Po {
   margin-right: 3.5rem;
   width: 0.1rem;
@@ -187,7 +164,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .bell-pKo {
   margin: 0rem 1.9rem 6.9rem 0rem;
   width: 3rem;
@@ -197,7 +173,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .notificaciones-w9X {
   margin: 0rem 9.8rem 7.4rem 0rem;
   font-size: 3.2rem;
@@ -208,7 +183,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .line-2-Tdf {
   margin-right: 11.45rem;
   width: 0.1rem;
@@ -216,7 +190,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .fire-Q37 {
   margin: 0rem 2.65rem 7.182rem 0rem;
   width: 2.5rem;
@@ -225,7 +198,6 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-
 .reserva-zEy .head-tbF .auto-group-o2qm-bR7 .auto-group-yjyp-4Jh .advertencias-XdX {
   margin-bottom: 7.8rem;
   font-size: 3.2rem;
@@ -236,7 +208,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH {
   margin-bottom: 2.4rem;
   box-sizing: border-box;
@@ -251,7 +222,6 @@ body {
   background-image: url('../assets/navegacion-bZo.png');
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH .datos-personales-MMf {
   margin: 0.7rem 13.1rem 0rem 0rem;
   font-size: 3.2rem;
@@ -262,7 +232,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH .line-3-fNM {
   margin-right: 8.8rem;
   width: 0.1rem;
@@ -270,7 +239,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH .fecha-clinica-bWu {
   margin: 0.7rem 10.4rem 0rem 0rem;
   font-size: 3.2rem;
@@ -281,7 +249,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH .line-4-7VF {
   margin-right: 19rem;
   width: 0.1rem;
@@ -289,7 +256,6 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-nytb-TGH .progreso-4QV {
   margin-top: 0.7rem;
   font-size: 3.2rem;
@@ -300,14 +266,12 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-du2z-NZb {
   width: 100%;
   height: 65.7rem;
   position: relative;
   flex-shrink: 0;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rectangle-10-pRb {
   width: 139.4rem;
   height: 65.4rem;
@@ -317,7 +281,6 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rectangle-4-6P7 {
   width: 50.6rem;
   height: 30.3rem;
@@ -328,7 +291,6 @@ body {
   background-position: -0.2269rem 0;
   background-image: url('../assets/rectangle-4.png');
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-13-NrR {
   width: 51.8rem;
   height: 0.2rem;
@@ -337,7 +299,6 @@ body {
   top: 22.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-19-6nR {
   width: 51.8rem;
   height: 0.2rem;
@@ -346,7 +307,6 @@ body {
   top: 18.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-14-e3F {
   width: 51.8rem;
   height: 0.2rem;
@@ -355,7 +315,6 @@ body {
   top: 27.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-15-8j7 {
   width: 51.8rem;
   height: 0.2rem;
@@ -364,7 +323,6 @@ body {
   top: 32.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-16-U2H {
   width: 51.8rem;
   height: 0.2rem;
@@ -373,7 +331,6 @@ body {
   top: 37.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-18-QAq {
   width: 51.8rem;
   height: 0.2rem;
@@ -382,7 +339,6 @@ body {
   top: 41.7rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-11-wRf {
   width: 0.2rem;
   height: 23.7rem;
@@ -391,7 +347,6 @@ body {
   top: 18.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-17-ge9 {
   width: 0.2rem;
   height: 23.7rem;
@@ -400,7 +355,6 @@ body {
   top: 18.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-12-pkM {
   width: 0.2rem;
   height: 23.7rem;
@@ -409,18 +363,16 @@ body {
   top: 18.1rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rectangle-3-Zxq {
   width: 17.1rem;
   height: 14.2rem;
   position: relative;
-  left: 59rem;
+  left: 60rem;
   top: -29rem;
   background-size: 85.43% 128.873%;
   background-position: 1.2957rem -0rem;
   background-image: url('../assets/rectangle-3.png');
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rectangle-14-UK7 {
   width: 17.6rem;
   height: 5.3rem;
@@ -430,7 +382,6 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   border-radius: 4rem;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .reservar-cita-buX {
   width: 13.2rem;
   height: 2.8rem;
@@ -444,7 +395,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-3-vB7 {
   width: 0.1rem;
   height: 65.4rem;
@@ -453,7 +403,6 @@ body {
   top: 0.3rem;
   background-color: #010b1f;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .line-5-fPb {
   width: 0.1rem;
   height: 65.4rem;
@@ -462,7 +411,6 @@ body {
   top: 0.3rem;
   background-color: #010b1f;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rectangle-15-Bsj {
   width: 36.2rem;
   height: 42.2rem;
@@ -471,7 +419,6 @@ body {
   top: 15.4rem;
   background-color: rgba(255, 255, 255, 0.3000000119);
 }
-
 .reserva-zEy .auto-group-du2z-NZb .selecciona-el-servicio--isf {
   width: 29.7rem;
   height: 3.7rem;
@@ -485,7 +432,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .id--RGH {
   width: 3.5rem;
   height: 2.8rem;
@@ -499,7 +445,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .nombre--8Ah {
   width: 9.2rem;
   height: 2.8rem;
@@ -513,7 +458,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .valor-pagado--q57 {
   width: 19.5rem;
   height: 3.7rem;
@@ -527,7 +471,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .monto--jRP {
   width: 7.6rem;
   height: 2.8rem;
@@ -541,7 +484,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .desc-CZs {
   width: 7.8rem;
   height: 2.8rem;
@@ -555,7 +497,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .selecciona-el-mtodo-de-pago--uz5 {
   width: 28.3rem;
   height: 11.1rem;
@@ -569,7 +510,6 @@ body {
   color: rgba(1, 11, 31, 0.9300000072);
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .reserva-zEy .auto-group-du2z-NZb .selecciona-fecha-y-hora-de-la-cita--oJm {
   width: 24.8rem;
   height: 11.1rem;
@@ -583,7 +523,6 @@ body {
   color: rgba(1, 11, 31, 0.9300000072);
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .reserva-zEy .auto-group-du2z-NZb .rehabilitacin-oral-u6u {
   width: 22.1rem;
   height: 3.3rem;
@@ -597,7 +536,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .dr-sebastin-torres-m-ze9 {
   width: 26.6rem;
   height: 3.3rem;
@@ -611,7 +549,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-22-6hB {
   width: 2.8rem;
   height: 3.3rem;
@@ -625,7 +562,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .aos-Ah3 {
   width: 6rem;
   height: 3.3rem;
@@ -639,7 +575,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .dentista-general-ortondocista-rJy {
   width: 21.8rem;
   height: 6.5rem;
@@ -652,7 +587,6 @@ body {
   color: #010b1f;
   font-family: Tinos, 'Source Sans Pro';
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-300-mB3 {
   width: 5.6rem;
   height: 3.3rem;
@@ -666,7 +600,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-200-GtV {
   width: 6rem;
   height: 3.5rem;
@@ -680,7 +613,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-200-PiD {
   width: 5.6rem;
   height: 3.3rem;
@@ -694,7 +626,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-0-6sX {
   width: 1.4rem;
   height: 3.3rem;
@@ -708,7 +639,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .master-2WH {
   width: 7.8rem;
   height: 3.3rem;
@@ -722,7 +652,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .visa-8pD {
   width: 5.7rem;
   height: 3.3rem;
@@ -736,7 +665,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .amex-ph3 {
   width: 6.9rem;
   height: 3.3rem;
@@ -750,7 +678,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .mastercard-8xd {
   width: 10.8rem;
   height: 2.8rem;
@@ -764,7 +691,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-13-r7w {
   width: 2.8rem;
   height: 3.3rem;
@@ -778,7 +704,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-14-YmT {
   width: 2.8rem;
   height: 3.3rem;
@@ -792,7 +717,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-15-fbB {
   width: 2.8rem;
   height: 3.3rem;
@@ -806,7 +730,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-16-PXB {
   width: 2.8rem;
   height: 3.3rem;
@@ -820,7 +743,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .item-1-7TB {
   width: 1.4rem;
   height: 3.3rem;
@@ -834,7 +756,6 @@ body {
   font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-
 .reserva-zEy .auto-group-du2z-NZb .h-duracin-1Hf {
   width: 12.6rem;
   height: 3.3rem;

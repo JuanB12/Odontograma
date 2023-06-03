@@ -20,6 +20,10 @@ body {
   width: auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 .login-D33 {
   width: 100%;
   height: 102.4rem;

@@ -1,20 +1,26 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+
+ul,
+li {
+  list-style: none;
 }
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 144rem;
-}.agenda-7MX {
+}
+
+.agenda-7MX {
   box-sizing: border-box;
   padding: 2.7rem 2.2rem 3rem 2.4rem;
   width: 100%;
@@ -26,6 +32,7 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
+
 .agenda-7MX .head-cJH {
   margin: 0rem 2rem 0.4rem 0rem;
   height: 21.5rem;
@@ -35,12 +42,14 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd {
   margin-right: 2.7333rem;
   width: 113rem;
   height: 100%;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 {
   margin: 0rem 4rem 1.2rem 0rem;
   width: calc(100% - 4rem);
@@ -48,6 +57,7 @@ body {
   display: flex;
   align-items: center;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 {
   box-sizing: border-box;
   padding: 0.1rem 6rem 0.2rem 0rem;
@@ -56,6 +66,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 .luxurtooth-JqK {
   margin: 0.4rem 0.4rem 0rem 0rem;
   font-size: 3.5rem;
@@ -66,6 +77,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-wa4v-yY9 .rectangle-4-zi9 {
   width: 5rem;
   height: 5rem;
@@ -73,6 +85,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ {
   box-sizing: border-box;
   padding: 1.4rem 59.2rem 1.3rem 1.9rem;
@@ -83,6 +96,7 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ .icon-search-S4M {
   margin: 0rem 1.6rem 0.154rem 0rem;
   width: 2.5rem;
@@ -92,6 +106,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-j8ih-Fs3 .auto-group-vqch-8JZ .buscar-fecha-wWu {
   font-size: 2rem;
   font-weight: 400;
@@ -101,6 +116,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 {
   margin-left: 1.6rem;
   width: calc(100% - 1.6rem);
@@ -108,6 +124,7 @@ body {
   display: flex;
   align-items: center;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-9vgm-a45 {
   width: 15rem;
   height: 15rem;
@@ -116,6 +133,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
@@ -124,6 +142,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb {
   margin: 0.5rem 9.7rem 1.5rem 0rem;
   height: calc(100% - 2rem);
@@ -132,6 +151,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .doctor-sebastian-jr5 {
   font-size: 3.2rem;
   font-weight: 400;
@@ -141,6 +161,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .item-100783823-4tM {
   font-size: 2rem;
   font-weight: 400;
@@ -150,6 +171,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .auto-group-vtgh-RKb .aos-QBX {
   font-size: 2rem;
   font-weight: 400;
@@ -159,6 +181,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .line-1-whF {
   margin-right: 3.5rem;
   width: 0.1rem;
@@ -166,6 +189,7 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .bell-5Hf {
   margin: 0rem 1.9rem 6.9rem 5rem;
   width: 3rem;
@@ -175,6 +199,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .notificaciones-cHb {
   margin: 0rem 9.4rem 7rem 0rem;
   font-size: 3.2rem;
@@ -185,6 +210,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .line-2-LDb {
   margin-right: 3.25rem;
   width: 0.1rem;
@@ -192,6 +218,7 @@ body {
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .fire-sUR {
   margin: 0rem 2.65rem 6.782rem 8rem;
   width: 2.5rem;
@@ -200,8 +227,9 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .auto-group-vxyp-8Gd .auto-group-pekf-3K3 .auto-group-zyj9-7Ju .advertencias-Cmb {
-  margin-bottom: 7rem; 
+  margin-bottom: 7rem;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -210,6 +238,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .user-wUH {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
@@ -218,6 +247,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .doc-sebas-sMw {
   margin: 1.6rem 2.9rem 0rem 0rem;
   font-size: 2.4rem;
@@ -228,6 +258,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .head-cJH .polygon-1-aXF {
   margin-top: 2rem;
   width: 2rem;
@@ -236,6 +267,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f {
   margin-bottom: 2.9rem;
   box-sizing: border-box;
@@ -251,17 +283,19 @@ body {
   background-image: url('../assets/navegacion-7NM.png');
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f .agenda-o97 {
   margin: 0rem 18.04rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  text-align:center;
+  text-align: center;
   line-height: 1.2575;
   color: #010b1f;
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f .line-3-X57 {
   margin-right: 14rem;
   width: 0.1rem;
@@ -269,6 +303,7 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f .odontograma-fSD {
   margin: 0rem 8.99rem 0rem 0rem;
   font-size: 3.2rem;
@@ -279,6 +314,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f .line-4-b4y {
   margin-right: 4.8rem;
   width: 0.1rem;
@@ -286,6 +322,7 @@ body {
   background-color: #010b1f;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-wwpx-i7f .historial-clinico-LYM {
   margin: 0rem 9.4rem;
   font-size: 3.2rem;
@@ -296,6 +333,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu {
   margin: 0rem 2.7rem;
   box-sizing: border-box;
@@ -308,6 +346,7 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s {
   margin: 0rem 114rem 5.1rem 2.3rem;
   width: calc(100% - 116.3rem);
@@ -316,6 +355,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .diario-5eM {
   font-size: 2.4rem;
   font-weight: 400;
@@ -325,6 +365,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh {
   box-sizing: border-box;
   padding-left: 0.7rem;
@@ -333,6 +374,7 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh .line-12-a5K {
   margin-right: 0.7rem;
   width: 0.2rem;
@@ -340,6 +382,7 @@ body {
   background-color: rgba(1, 11, 31, 0.3000000119);
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-h3bj-m7s .auto-group-wwkd-2Jh .semanal-tLu {
   font-size: 2.4rem;
   font-weight: 700;
@@ -349,6 +392,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu {
   margin-bottom: 2.1rem;
   width: 100%;
@@ -358,6 +402,7 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-22-Vbb {
   width: 133.6998rem;
   height: 0.2rem;
@@ -366,6 +411,7 @@ body {
   top: 46.9rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-13-DXb {
   width: 133.7rem;
   height: 0.2rem;
@@ -374,6 +420,7 @@ body {
   top: 6.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-14-xEH {
   width: 133.7rem;
   height: 0.2rem;
@@ -382,6 +429,7 @@ body {
   top: 11.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-15-Vzu {
   width: 133.7rem;
   height: 0.2rem;
@@ -390,6 +438,7 @@ body {
   top: 16.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-16-eN1 {
   width: 133.7rem;
   height: 0.2rem;
@@ -398,6 +447,7 @@ body {
   top: 21.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-17-nz1 {
   width: 133.7rem;
   height: 0.2rem;
@@ -406,6 +456,7 @@ body {
   top: 26.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-18-YCV {
   width: 133.7rem;
   height: 0.2rem;
@@ -414,6 +465,7 @@ body {
   top: 31.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-19-Hfs {
   width: 133.7rem;
   height: 0.2rem;
@@ -422,6 +474,7 @@ body {
   top: 36.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-20-cy3 {
   width: 133.7rem;
   height: 0.2rem;
@@ -430,6 +483,7 @@ body {
   top: 41.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-7-mL9 {
   width: 0.2rem;
   height: 47rem;
@@ -438,6 +492,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-24-uSM {
   width: 0.2rem;
   height: 47rem;
@@ -446,6 +501,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-25-e93 {
   width: 0.2rem;
   height: 47rem;
@@ -454,6 +510,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-8-Bem {
   width: 0.2rem;
   height: 47rem;
@@ -462,6 +519,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-9-6mj {
   width: 0.2rem;
   height: 47rem;
@@ -470,6 +528,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-10-e2Z {
   width: 0.2rem;
   height: 47rem;
@@ -478,6 +537,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-11-AWh {
   width: 0.2rem;
   height: 47rem;
@@ -486,6 +546,7 @@ body {
   top: 0;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .line-23-7B3 {
   width: 0.2rem;
   height: 47rem;
@@ -494,6 +555,7 @@ body {
   top: 0.2rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .daniel-l-qsj {
   width: 8.1rem;
   height: 3.1rem;
@@ -507,6 +569,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .juan-b-MLH {
   width: 6.9rem;
   height: 3.1rem;
@@ -520,6 +583,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .bryan-c-GTF {
   width: 7.8rem;
   height: 3.1rem;
@@ -533,6 +597,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-2-BKK {
   width: 2rem;
   height: 2rem;
@@ -542,6 +607,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-3-iKF {
   width: 2rem;
   height: 2rem;
@@ -551,6 +617,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-4-3MX {
   width: 2rem;
   height: 2rem;
@@ -560,6 +627,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-5-PAV {
   width: 2rem;
   height: 2rem;
@@ -569,6 +637,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .polygon-6-885 {
   width: 2rem;
   height: 2rem;
@@ -578,6 +647,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .sara-b-GVB {
   width: 6.4rem;
   height: 3.1rem;
@@ -591,6 +661,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .william-i-nCd {
   width: 8.7rem;
   height: 3.1rem;
@@ -604,6 +675,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .lunes-u2M {
   width: 6.3rem;
   height: 3.1rem;
@@ -617,6 +689,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .martes-cxM {
   width: 7.3rem;
   height: 3.1rem;
@@ -630,6 +703,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .miercoles-LtM {
   width: 10.1rem;
   height: 3.1rem;
@@ -643,6 +717,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .jueves-rrh {
   width: 7.4rem;
   height: 3.1rem;
@@ -656,6 +731,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .viernes-nVT {
   width: 7.9rem;
   height: 3.1rem;
@@ -669,6 +745,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .sabado-JTo {
   width: 8rem;
   height: 3.1rem;
@@ -682,6 +759,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .domingo-pS9 {
   width: 9.6rem;
   height: 3.1rem;
@@ -695,6 +773,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .hora-9DX {
   width: 5.2rem;
   height: 3.1rem;
@@ -708,6 +787,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-8-00-GZ3 {
   width: 4.6rem;
   height: 3.1rem;
@@ -721,6 +801,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-9-00-yTT {
   width: 4.6rem;
   height: 3.1rem;
@@ -734,6 +815,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-10-00-Hj3 {
   width: 5.8rem;
   height: 3.1rem;
@@ -747,6 +829,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-11-00-Cb7 {
   width: 5.8rem;
   height: 3.1rem;
@@ -760,6 +843,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-12-00-1Hf {
   width: 5.8rem;
   height: 3.1rem;
@@ -773,6 +857,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-13-00-X17 {
   width: 5.8rem;
   height: 3.1rem;
@@ -786,6 +871,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-14-00-2yT {
   width: 5.8rem;
   height: 3.1rem;
@@ -799,6 +885,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-njcy-cGu .item-15-00-MVw {
   width: 5.8rem;
   height: 3.1rem;
@@ -812,6 +899,7 @@ body {
   font-family: Tahoma, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df {
   margin: 0rem 1.6rem 0rem 104.7rem;
   width: calc(100% - 106.3rem);
@@ -820,6 +908,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df .auto-group-kw3p-a7o {
   margin-right: 0.6rem;
   width: 13.4rem;
@@ -837,6 +926,7 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
+
 .agenda-7MX .auto-group-4xc9-qzu .auto-group-km5o-3df .auto-group-srsw-qJd {
   width: 13.4rem;
   height: 100%;

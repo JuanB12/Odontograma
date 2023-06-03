@@ -6,9 +6,6 @@ class Roles(bd.Model):
     id_rol = bd.Column(bd.Integer, primary_key=True)
     Nombre = bd.Column(bd.String(25))
 
-    def __init__(self, Nombre):
-        self.Nombre= Nombre
-
 with app.app_context():
     bd.create_all()
 

@@ -72,8 +72,8 @@ def updateRol():
     nombre = request.json['Nombre']
     rol = Roles.query.get(id_r)
     # rol = Roles.query.get(nombre)
-    rol.nombre = nombre
     rol.id_rol = id_r
+    rol.Nombre = nombre
     bd.session.commit()
     return "Update exitoso"
 

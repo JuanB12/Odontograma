@@ -1,20 +1,26 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+
+ul,
+li {
+  list-style: none;
 }
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 144rem;
-}.registro-Xob {
+}
+
+.registro-Xob {
   width: 100%;
   height: 102.4rem;
   position: relative;
@@ -22,6 +28,7 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
+
 .registro-Xob .rectangle-3-etD {
   width: 83.1rem;
   height: 86.8rem;
@@ -31,6 +38,7 @@ body {
   filter: blur(0.5rem);
   background-color: rgba(255, 255, 255, 0.3000000119);
 }
+
 .registro-Xob .rectangle-8-yfb {
   width: 56.9rem;
   height: 10.5rem;
@@ -41,6 +49,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .registro-Xob .selecciona-tipo-u3T {
   width: 28.6rem;
   height: 4.7rem;
@@ -54,26 +63,29 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .login-16V {
   width: 23.6rem;
   height: 7.3rem;
   position: absolute;
   left: 43.5rem;
   top: 84rem;
-  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
+  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
   background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
   border-radius: 3rem;
 }
+
 .registro-Xob .login-6dj {
   width: 18.3rem;
   height: 7.3rem;
   position: absolute;
   left: 82.1rem;
   top: 83.7rem;
-  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
+  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
   background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
   border-radius: 3rem;
 }
+
 .registro-Xob .lock-closed-CAy {
   width: 3.0938rem;
   height: 4.2188rem;
@@ -83,6 +95,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .registro-Xob .rectangle-5-XDF {
   width: 56.9rem;
   height: 10.5rem;
@@ -93,6 +106,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .registro-Xob .email-3Bb {
   width: 9.6rem;
   height: 4.7rem;
@@ -106,6 +120,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .rectangle-6-A1K {
   width: 56.9rem;
   height: 10.5rem;
@@ -116,6 +131,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .registro-Xob .contrasea-sAd {
   width: 20.8rem;
   height: 4.7rem;
@@ -129,6 +145,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .registrarse-n2h {
   width: 20.4rem;
   height: 4.7rem;
@@ -142,6 +159,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .entrar-gds {
   width: 10.9rem;
   height: 4.7rem;
@@ -155,6 +173,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .luxurtooth-PoB {
   width: 30.5rem;
   height: 6.3rem;
@@ -168,6 +187,7 @@ body {
   font-family: Hammersmith One, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .rectangle-4-W77 {
   width: 12.2rem;
   height: 12.5rem;
@@ -177,6 +197,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .registro-Xob .vector-2bF {
   width: 4rem;
   height: 3.9375rem;
@@ -186,6 +207,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .registro-Xob .rectangle-7-xzh {
   width: 56.9rem;
   height: 10.5rem;
@@ -196,6 +218,7 @@ body {
   box-sizing: border-box;
   border-radius: 5rem;
 }
+
 .registro-Xob .nombre-gfo {
   width: 14.4rem;
   height: 4.7rem;
@@ -209,6 +232,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .registro-Xob .polygon-1-oVX {
   width: 4.6rem;
   height: 3.8rem;
@@ -218,6 +242,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .registro-Xob .vector-jty {
   width: 2rem;
   height: 2.3rem;
@@ -227,6 +252,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .registro-Xob .vector-gJR {
   width: 4.9rem;
   height: 5rem;

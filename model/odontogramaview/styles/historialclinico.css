@@ -14,9 +14,9 @@ input {
 }
 body {
   width: 144rem;
-}.historialclinico-tpV {
+}.historialclinico-BPb {
   box-sizing: border-box;
-  padding: 2.7rem 2.2rem 4.2rem 2.4rem;
+  padding: 2.7rem 4.6rem 4.2rem 2.8rem;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -26,8 +26,9 @@ body {
   background: linear-gradient(90deg, #26283e -0%, #464766 8.65%, #010b1f 100%);
   background-color: #ffffff;
 }
-.historialclinico-tpV .head-y5F {
-  margin: 0rem 2.4rem 0.4rem 0rem;
+.historialclinico-BPb .head-UNh {
+  margin-bottom: 0.4rem;
+  width: 100%;
   height: 21.5rem;
   overflow: hidden;
   position: relative;
@@ -35,20 +36,20 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ {
-  margin-right: 2.7333rem;
-  width: 113rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs {
+  margin-right: 3.1333rem;
+  width: 112.6rem;
   height: 100%;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK {
-  margin: 0rem 4rem 1.2rem 0rem;
-  width: calc(100% - 4rem);
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f {
+  margin: 0rem 3.6rem 1.2rem 0rem;
+  width: calc(100% - 3.6rem);
   height: 5.3rem;
   display: flex;
   align-items: center;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-4sbf-ih3 {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF {
   box-sizing: border-box;
   padding: 0.1rem 6rem 0.2rem 0rem;
   height: 100%;
@@ -56,7 +57,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-4sbf-ih3 .luxurtooth-f6V {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF .luxurtooth-nGu {
   margin: 0.4rem 0.4rem 0rem 0rem;
   font-size: 3.5rem;
   font-weight: 400;
@@ -66,16 +67,16 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-4sbf-ih3 .rectangle-4-AJ9 {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-8jff-rPF .rectangle-4-VBK {
   width: 5rem;
   height: 5rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-vk1f-tzq {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 {
   box-sizing: border-box;
-  padding: 1.4rem 59.2rem 1.3rem 1.9rem;
+  padding: 1.4rem 59.4rem 1.552rem 1.9rem;
   height: 100%;
   display: flex;
   align-items: center;
@@ -83,8 +84,8 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-vk1f-tzq .icon-search-pNh {
-  margin: 0rem 1.6rem 0.154rem 0rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 .icon-search-9Fs {
+  margin: 0.099rem 1.6rem 0rem 0rem;
   width: 2.5rem;
   height: 2.249rem;
   position: relative;
@@ -92,23 +93,24 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-h1mf-bsK .auto-group-vk1f-tzq .buscar-fecha-KqF {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-g6jh-Y7f .auto-group-zmvd-Dt1 .buscar-fecha-Fph {
+  margin-bottom: 0.0476rem;
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy {
   margin-left: 1.6rem;
   width: calc(100% - 1.6rem);
   height: 15rem;
   display: flex;
   align-items: center;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-tcjf-N2q {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-bexd-6aR {
   width: 15rem;
   height: 15rem;
   position: relative;
@@ -116,7 +118,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em {
   box-sizing: border-box;
   padding: 2.9rem 0rem 0rem 1.1rem;
   height: 100%;
@@ -124,50 +126,50 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .auto-group-xyo7-cC5 {
-  margin: 0.5rem 9.7rem 1.5rem 0rem;
-  height: calc(100% - 2rem);
-  row-gap: 0.4rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd {
+  margin: 0rem 10.5rem 1.3rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .auto-group-xyo7-cC5 .doctor-sebastian-8RK {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .doctor-sebastian-u25 {
+  margin-bottom: 0.8rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .auto-group-xyo7-cC5 .item-100783823-fRF {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .item-100783823-puj {
+  margin-bottom: 0.7rem;
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .auto-group-xyo7-cC5 .aos-bZo {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .auto-group-fb25-xcd .aos-M8y {
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .line-1-jg1 {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .line-1-gh3 {
   margin-right: 3.5rem;
   width: 0.1rem;
   height: 12.1rem;
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .bell-U7o {
-  margin: 0rem 1.9rem 6.9rem 3rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .bell-2F7 {
+  margin: 0rem 1.9rem 6.9rem 0rem;
   width: 3rem;
   height: 3rem;
   position: relative;
@@ -175,42 +177,42 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .notificaciones-by7 {
-  margin: 0rem 9.4rem 7rem 0rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .notificaciones-wN5 {
+  margin: 0rem 9.8rem 7.4rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .line-2-Ku7 {
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .line-2-rzq {
   margin-right: 3.25rem;
   width: 0.1rem;
   height: 12.1rem;
   background-color: rgba(217, 217, 217, 0.6999999881);
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .fire-4rh {
-  margin: 0rem 2.65rem 6.782rem 9.2rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .fire-1Mw {
+  margin: 0rem 2.65rem 6.782rem 0rem;
   width: 2.5rem;
   height: 3.3824rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .auto-group-gqff-gEZ .auto-group-9x7k-ESR .auto-group-as7o-HvV .advertencias-Pty {
-  margin-bottom: 7rem;
+.historialclinico-BPb .head-UNh .auto-group-yhx3-ofs .auto-group-tacm-AAy .auto-group-k4gm-3Em .advertencias-Lv1 {
+  margin-bottom: 7.4rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .user-vtu {
+.historialclinico-BPb .head-UNh .user-UWR {
   margin: 1.333rem 1.633rem 0rem 0rem;
   width: 3.3333rem;
   height: 5rem;
@@ -218,17 +220,17 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .doc-sebas-TP3 {
-  margin: 1.6rem 2.9rem 0rem 0rem;
+.historialclinico-BPb .head-UNh .doc-sebas-DD7 {
+  margin: 1.6rem 3.1rem 0rem 0rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .head-y5F .polygon-1-MzD {
+.historialclinico-BPb .head-UNh .polygon-1-jhF {
   margin-top: 2rem;
   width: 2rem;
   height: 2rem;
@@ -236,760 +238,757 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q {
-  margin-bottom: 2.9rem;
-  margin-right: 1.5%;
+.historialclinico-BPb .auto-group-xmos-s2m {
+  margin: 0rem 0.3rem 2.9rem 0rem;
   box-sizing: border-box;
-  border-radius: 2.5rem;
-  padding: 0rem 25.9rem 0.1rem 20rem;
-  width: calc(100% - 4.7rem);
+  padding: 0.1rem 22.7rem 0.1rem 19rem;
   height: 6.8rem;
   display: flex;
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-7NM.png');
+  background-image: url('../assets/navegacion-Vss.png');
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q .agenda-a6H {
-  margin: 1.1rem 17.8rem 0rem 0rem;
+.historialclinico-BPb .auto-group-xmos-s2m .agenda-9ky {
+  margin: 0.7rem 18.9rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q .line-3-gf7 {
-  margin-right: 10.5rem;
+.historialclinico-BPb .auto-group-xmos-s2m .line-3-UHT {
+  margin-right: 8.8rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q .odontograma-pFX {
-  margin: 1.1rem 10.5rem 0rem 0rem;
+.historialclinico-BPb .auto-group-xmos-s2m .odontograma-oqX {
+  margin: 0.7rem 10.5rem 0rem 0rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q .line-4-Xfj {
+.historialclinico-BPb .auto-group-xmos-s2m .line-4-8N1 {
   margin-right: 4.8rem;
   width: 0.1rem;
   height: 6.6rem;
   background-color: #010b1f;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-9hpt-V4q .historial-clinico-g2q {
-  margin: 0rem 9.4rem;
+.historialclinico-BPb .auto-group-xmos-s2m .historial-clinico-sqP {
+  margin-top: 0.7rem;
   font-size: 3.2rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF {
-  margin: 0rem 2.5rem 2.8rem 2.6rem;
-  width: calc(100% - 5.1rem);
+.historialclinico-BPb .auto-group-r2fw-Br5 {
+  margin: 0rem 0.1rem 2.8rem 0rem;
+  width: 134.4rem;
   height: 37.9rem;
   border-right: solid 0.2rem #000000;
   box-sizing: border-box;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV {
-  width: 134.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw {
+  width: 134.2rem;
   height: 100%;
   position: relative;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .rectangle-11-zhj {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rectangle-11-yfT {
   width: 134rem;
   height: 37.9rem;
   position: absolute;
-  left: 0.1rem;
+  left: 0.2rem;
   top: 0;
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-6-8J9 {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-6-JBw {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-21-FtZ {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-21-RXT {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-13-CYu {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-13-ZNm {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 15.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-14-wWV {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-14-giH {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 20.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-15-Gof {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-15-d7j {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 25.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-16-pKP {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-16-ZGH {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 30.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-17-ZXs {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-17-JUm {
   width: 133.7rem;
   height: 0.2rem;
   position: absolute;
-  left: 0.4rem;
+  left: 0.5rem;
   top: 35.6rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-7-u5w {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-7-qUh {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 103.1rem;
+  left: 103.2rem;
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-24-3C9 {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-24-aSH {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 124.1rem;
+  left: 124.2rem;
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-8-BZF {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-8-vFF {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 86.8rem;
+  left: 86.9rem;
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-9-X7K {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-9-Tky {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 68.6rem;
+  left: 68.7rem;
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-10-TWm {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-10-c85 {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 44.7rem;
+  left: 44.8rem;
   top: 9.5rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-11-zWh {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-11-MLZ {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 29.4rem;
+  left: 29.5rem;
   top: 9.3rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .line-23-wB3 {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .line-23-Vhf {
   width: 0.2rem;
   height: 26.5rem;
   position: absolute;
-  left: 13.75rem;
+  left: 13.85rem;
   top: 9.3031rem;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .introduce-id-paciente--Gj7 {
-  width: 22.6rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .introduce-id-paciente--SN1 {
+  width: 22.4rem;
+  height: 2.8rem;
   position: absolute;
-  left: 1.7rem;
+  left: 1.8rem;
   top: 2.1rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-mvm {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-LiH {
   width: 7.2rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 28.7rem;
+  left: 28.8rem;
   top: 2.1rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-tEh {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-FKT {
   width: 7.2rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 17.8rem;
+  left: 17.2rem;
   top: 16.2rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
-  color: #ffffff;
-  font-family: Tahoma, 'Source Sans Pro';
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-Ai1 {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-wxy {
   width: 7.2rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 17.8rem;
+  left: 17.2rem;
   top: 16.2rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-12-04-2023-s6d {
-  width: 11.3rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-04-2023-rq3 {
+  width: 11rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 16.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-MWu {
+  width: 7.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 21.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-Tpq {
+  width: 7.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 31.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-129038-MfK {
+  width: 7.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 26.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .id-paciente-TyF {
+  width: 11.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 11.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .nombre-NKX {
+  width: 8.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 11.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .servicio-HSV {
+  width: 8.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 52.4rem;
+  top: 11.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .estado-bCH {
+  width: 7.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 11.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .diente-iGu {
+  width: 6.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 91.7rem;
+  top: 11.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .zona-dem {
+  width: 5.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111.5rem;
+  top: 11.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .hora-vNy {
+  width: 5.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 126.7rem;
+  top: 11.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .fecha-cmb {
+  width: 6.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 11.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-30-04-2023-XNm {
+  width: 11rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 21.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-16-05-2023-dgh {
+  width: 11rem;
+  height: 2.8rem;
   position: absolute;
   left: 0.5rem;
-  top: 16.5rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-ALd {
-  width: 7.2rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 17.8rem;
-  top: 21.8rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-4gu {
-  width: 7.2rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 17.8rem;
-  top: 31.7rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-129038-Zdf {
-  width: 7.2rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 17.8rem;
   top: 26.9rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .id-paciente-FmP {
-  width: 11.8rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-1-06-2023-whP {
+  width: 9.8rem;
+  height: 2.8rem;
   position: absolute;
-  left: 14.9rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .nombre-ANZ {
-  width: 8.6rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 32.4rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .servicio-GgV {
-  width: 8.6rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 52rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .estado-NzR {
-  width: 7.2rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 73.5rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .diente-Hbb {
-  width: 7rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 91rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .zona-zW1 {
-  width: 5.3rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 111rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .hora-6ow {
-  width: 5.2rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 126.5rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .fecha-1R7 {
-  width: 6.3rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 3.5rem;
-  top: 11rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-30-04-2023-vHB {
-  width: 11.3rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 0.6rem;
-  top: 21.8rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-16-05-2023-orm {
-  width: 11.3rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 0.4rem;
-  top: 26.9rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-1-06-2023-WmB {
-  width: 10.1rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 1.1rem;
+  left: 1.2rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .daniel-l-pG5 {
-  width: 8.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-GDs {
+  width: 8.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 32.4rem;
-  top: 21.8rem;
+  left: 32.3rem;
+  top: 21.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .daniel-l-w5o {
-  width: 8.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-PJV {
+  width: 8.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 32.4rem;
+  left: 32.3rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-8-00-riZ {
-  width: 4.7rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-8-00-7EV {
+  width: 4.9rem;
+  height: 2.8rem;
   position: absolute;
-  left: 126.6rem;
+  left: 126.7rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-12-00-Zss {
-  width: 5.9rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-00-dCq {
+  width: 6.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 125.8rem;
+  left: 125.9rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-14-00-tQM {
-  width: 5.4rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-14-00-kHT {
+  width: 5.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 125.8rem;
+  left: 125.9rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .item-12-00-oGR {
-  width: 5.4rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .item-12-00-54q {
+  width: 5.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 125.8rem;
+  left: 125.9rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .revisin-general-v69 {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .revisin-general-b3B {
   width: 16.8rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 48rem;
+  left: 48.2rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .rasapado-nPF {
-  width: 10.5rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rasapado-u3s {
+  width: 10rem;
+  height: 2.8rem;
   position: absolute;
-  left: 51.5rem;
-  top: 21.8rem;
+  left: 52.3rem;
+  top: 21.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .alisado-radicular-4rZ {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .alisado-radicular-RH7 {
   width: 17.4rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 48rem;
-  top: 26.9rem;
+  left: 47.8rem;
+  top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .rehabilitacin-oral-97K {
-  width: 19.2rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rehabilitacin-oral-8hK {
+  width: 18.9rem;
+  height: 2.8rem;
   position: absolute;
-  left: 47rem;
+  left: 47.1rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .pendiente-cWh {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .pendiente-dty {
+  width: 9.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 71.9rem;
+  top: 31.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-xAZ {
   width: 10.2rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 73rem;
-  top: 31.8rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .finalizado-XXB {
-  width: 10.4rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 73rem;
+  left: 71.9rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .finalizado-daD {
-  width: 10.4rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-sYR {
+  width: 10.2rem;
+  height: 2.8rem;
   position: absolute;
-  left: 73rem;
+  left: 71.9rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .finalizado-kPw {
-  width: 10.4rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .finalizado-z7F {
+  width: 10.2rem;
+  height: 2.8rem;
   position: absolute;
-  left: 73rem;
+  left: 71.9rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .canino-sDf {
-  width: 7.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-Jtd {
+  width: 7rem;
+  height: 2.8rem;
   position: absolute;
   left: 91.4rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .canino-C13 {
-  width: 7.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-SE9 {
+  width: 7rem;
+  height: 2.8rem;
   position: absolute;
   left: 91.4rem;
-  top: 21.8rem;
+  top: 21.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .canino-7th {
-  width: 7.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-m1X {
+  width: 7rem;
+  height: 2.8rem;
   position: absolute;
   left: 91.4rem;
-  top: 26.8rem;
+  top: 26.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .canino-ds3 {
-  width: 7.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .canino-geH {
+  width: 7rem;
+  height: 2.8rem;
   position: absolute;
   left: 91.4rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .maxilar-superior-ZVo {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-QqB {
   width: 16.5rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 105.5rem;
+  left: 104.9rem;
   top: 31.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .maxilar-superior-gKX {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-Kx9 {
   width: 16.5rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 105.5rem;
+  left: 104.9rem;
   top: 26.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .maxilar-superior-QFX {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-qfb {
   width: 16.5rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 105.5rem;
+  left: 104.9rem;
   top: 21.8rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .maxilar-superior-7fj {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .maxilar-superior-knZ {
   width: 16.5rem;
-  height: 3.1rem;
+  height: 2.8rem;
   position: absolute;
-  left: 105.5rem;
+  left: 104.9rem;
   top: 16.5rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .daniel-l-33b {
-  width: 8.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-ssB {
+  width: 8.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 32.4rem;
+  left: 32.3rem;
   top: 26.9rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .daniel-l-wuf {
-  width: 8.1rem;
-  height: 3.1rem;
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .daniel-l-zwo {
+  width: 8.5rem;
+  height: 2.8rem;
   position: absolute;
-  left: 32.4rem;
+  left: 32.5rem;
   top: 31.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
 }
-.historialclinico-tpV .auto-group-s9iv-NwF .auto-group-cmv7-uAV .rectangle-17-4zH {
+.historialclinico-BPb .auto-group-r2fw-Br5 .auto-group-5d4h-gXw .rectangle-17-XB3 {
   width: 134.1rem;
   height: 4.9rem;
   position: absolute;
@@ -997,14 +996,14 @@ body {
   top: 20.7rem;
   background-color: rgba(1, 11, 31, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-encv-Nk5 {
-  margin: 0rem 2.7rem 0.9rem 2.7rem;
-  width: calc(100% - 5.4rem);
+.historialclinico-BPb .auto-group-zz49-S37 {
+  margin: 0rem 0.3rem 0.9rem 0rem;
+  width: 134rem;
   height: 17rem;
   position: relative;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-encv-Nk5 .rectangle-16-sgq {
+.historialclinico-BPb .auto-group-zz49-S37 .rectangle-16-kJh {
   width: 134rem;
   height: 16.9rem;
   position: absolute;
@@ -1013,7 +1012,7 @@ body {
   background-color: #ffffff;
   border-radius: 2.5rem;
 }
-.historialclinico-tpV .auto-group-encv-Nk5 .line-26-DEu {
+.historialclinico-BPb .auto-group-zz49-S37 .line-26-V1P {
   width: 0.2rem;
   height: 17rem;
   position: absolute;
@@ -1021,75 +1020,73 @@ body {
   top: 0;
   background-color: rgba(0, 0, 0, 0.3000000119);
 }
-.historialclinico-tpV .auto-group-encv-Nk5 .observacion--wRo {
-  width: 14rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 3rem;
-  top: 1rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-encv-Nk5 .tratamineto--FBb {
+.historialclinico-BPb .auto-group-zz49-S37 .observacion--pZT {
   width: 13.8rem;
-  height: 3.1rem;
-  position: absolute;
-  left: 74.4rem;
-  top: 1rem;
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.historialclinico-tpV .auto-group-encv-Nk5 .exceso-de-sarro-y-bacterias-en-el-canino-superior-progreso-de-bajo-riesgo-debido-a-daos-nicamente-superficiales-x61 {
-  width: 49rem;
-  height: 9.1rem;
+  height: 2.8rem;
   position: absolute;
   left: 3rem;
-  text-align: justify;
+  top: 2.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-zz49-S37 .tratamineto--LGu {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 72.8rem;
+  top: 2.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #010b1f;
+  font-family: Tinos, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historialclinico-BPb .auto-group-zz49-S37 .exceso-de-sarro-y-bacterias-en-el-canino-superior-progreso-de-bajo-riesgo-debido-a-daos-nicamente-superficiales-F8y {
+  width: 49.2rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 3rem;
   top: 5.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
 }
-.historialclinico-tpV .auto-group-encv-Nk5 .el-alisado-radicular-suaviza-la-superficie-de-las-races-yayudar-a-prevenir-que-se-siga-acumulando-sarro-dental-y-bacterias-DGq {
-  width: 53.8rem;
-  height: 9.1rem;
+.historialclinico-BPb .auto-group-zz49-S37 .el-alisado-radicular-suaviza-la-superficie-de-las-races-yayudar-a-prevenir-que-se-siga-acumulando-sarro-dental-y-bacterias-hFs {
+  width: 53rem;
+  height: 8.3rem;
   position: absolute;
-  left: 74.4rem;
-  text-align: justify;
-  top: 5rem;
+  left: 72.8rem;
+  top: 5.7rem;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
 }
-.historialclinico-tpV .auto-group-pfbb-rah {
-  margin: 0rem 4.3rem 0rem 107.7rem;
-  width: calc(100% - 112rem);
+.historialclinico-BPb .auto-group-rdph-wvu {
+  margin: 0rem 1.9rem 0rem 107.3rem;
+  width: calc(100% - 109.2rem);
   height: 5.3rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-pfbb-rah .auto-group-qq3p-NJ9 {
+.historialclinico-BPb .auto-group-rdph-wvu .auto-group-kzyf-s3s {
   margin-right: 0.6rem;
   width: 13.4rem;
   height: 100%;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -1098,14 +1095,14 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
-.historialclinico-tpV .auto-group-pfbb-rah .auto-group-qxah-rDK {
+.historialclinico-BPb .auto-group-rdph-wvu .auto-group-txfb-XPK {
   width: 13.4rem;
   height: 100%;
   font-size: 2.4rem;
   font-weight: 400;
-  line-height: 1.2575;
+  line-height: 1.15;
   color: #010b1f;
-  font-family: Tahoma, 'Source Sans Pro';
+  font-family: Tinos, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
   align-items: center;

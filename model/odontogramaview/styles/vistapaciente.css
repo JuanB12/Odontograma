@@ -12,6 +12,9 @@ ul, li {
 input {
 	border: none;
 }
+a {
+  text-decoration: none;
+}
 body {
   width: 144rem;
 }.vistapaciente-akV {

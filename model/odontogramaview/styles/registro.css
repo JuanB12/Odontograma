@@ -12,6 +12,9 @@ ul, li {
 input {
 	border: none;
 }
+a {
+  text-decoration: none;
+}
 body {
   width: 144rem;
 }.registro-Xob {
@@ -60,7 +63,7 @@ body {
   position: absolute;
   left: 43.5rem;
   top: 84rem;
-  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
+  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
   background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
   border-radius: 3rem;
 }
@@ -70,7 +73,7 @@ body {
   position: absolute;
   left: 82.1rem;
   top: 83.7rem;
-  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25));
+  box-shadow: inset 0 -1rem 2rem rgba(0, 0, 0, 0.25);
   background: linear-gradient(88.95deg, #464766 -0.94%, #010b1f 100.92%);
   border-radius: 3rem;
 }

@@ -46,6 +46,11 @@ def index():
     resultado = roles_schema.dump(resultRoles)
     return jsonify(resultado)
 
+@app.route("/principal", methods=["GET"])
+def princiapal():
+   
+    return render_template('odontogramaview/home.html')
+
 # save roles
 @app.route("/saveroles", methods=["POST"])
 def saveRol():

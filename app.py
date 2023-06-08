@@ -1,18 +1,17 @@
 from flask import Flask, request, session, json, jsonify, render_template, redirect
-from sqlalchemy.orm import aliased 
+
 from config.db import bd, ma, app
 
-# ------------------------------------------------------------------------------
 from model.MetodoPago import MetodoPago, MetodoPago_Schema
 from model.Roles import Roles, Roles_Schema
 from model.Servicios import Servicio, Servicio_Schema
 
 # ------------------------------------------------------------------------------
-from model.Facturacion import Facturacion, Facturacion_Schema
-from model.Agenda import Agenda, Agenda_Schema
-from model.Usuario import Usuario, Usuario_Schema
 from model.Dentista import Dentista, Dentista_Schema
+from model.Usuario import Usuario, Usuario_Schema
 from model.Pacientes import Paciente, Paciente_Schema
+from model.Agenda import Agenda, Agenda_Schema
+from model.Facturacion import Facturacion, Facturacion_Schema
 from model.Odontograma import Odontograma, Odontograma_Schema
 from model.HistoriaClinica import Historia_Clinica, HistoriaC_Schema
 # ------------------------------------------------------------------------------
@@ -39,12 +38,6 @@ odontogramas_schema = Odontograma_Schema(many=True)
 historia_schema = HistoriaC_Schema()
 historias_schema = HistoriaC_Schema(many=True)
 
-# --------------------------- Roles ------------------------------------------
-@app.route("/", methods=["GET"])
-def index():
-    return render_template('/odontogramaview/home.html')
-
-
 
 
 @app.route("/", methods=['GET'])
@@ -59,7 +52,7 @@ def reservar():
 
 @app.route("/reservarCita", methods=['GET'])
 def reservarCita():
-    return render_template('home.html')
+    return render_template('home.html') 
 
 @app.route("/ingresar", methods=["GET"])
 def ingresar():
@@ -67,3 +60,4 @@ def ingresar():
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")
+

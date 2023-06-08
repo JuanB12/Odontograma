@@ -52,7 +52,11 @@ def reservar():
 
 @app.route("/reservarCita", methods=['GET'])
 def reservarCita():
-    return render_template('home.html') 
+    return render_template('home.html')
+
+@app.route("/registro", methods=['GET'])
+def registro():
+    return render_template('registro.html')
 
 @app.route("/ingresar", methods=["GET"])
 def ingresar():

@@ -1,23 +1,23 @@
-{% extends "layout.html" %}
-
-{% block body %}
+{% extends "layout.html" %} {% block body %}
 <div class="login-4VT">
-    <div class="rectangle-3-nwF">
-    </div>
-    <div class="login-Jeh">
-    </div>
-    <div class="login-PRF">
-    </div>
-    <img class="lock-closed-gQM" src="./assets/lock-closed-RXB.png" />
-    <div class="rectangle-5-1Sd">
-    </div>
+    <div class="rectangle-3-nwF"></div>
+
+    <div class="login-Jeh"></div>
+
+    <div class="login-PRF"></div>
+
+    <div class="rectangle-5-1Sd"></div>
+
     <p class="usuario-Xfs">Usuario</p>
-    <div class="rectangle-6-cxD">
-    </div>
+    <div class="rectangle-6-cxD"></div>
+
     <p class="contrasea-LNR">Contraseña</p>
-    <a href="registro.html" class="registrarse-qa5">Registrarse</a>
+    <a href="/registro" class="registrarse-qa5">Registrarse</a>
     <a href="vistadoctor.html" class="entrar-jfT">Entrar</a>
     <p class="luxurtooth-SZs">LUXURTOOTH</p>
-    <img class="rectangle-4-9jB" src="./assets/rectangle-4-rWH.png" />
-    <img class="vector-s9P" src="./assets/vector-YDB.png" />
-    {% endblock %}
+    <!--  -->
+    <img class="rectangle-4-9jB" src="{{ url_for('static', filename='/images/rectangle-4-rWH.png') }}" />
+    <img class="vector-s9P" src="{{ url_for('static', filename='/images/vector-YDB.png') }}" />
+    <img class="lock-closed-gQM" src="{{ url_for('static', filename='/images/lock-closed-RXB.png') }}" />
+</div>
+{% endblock %}

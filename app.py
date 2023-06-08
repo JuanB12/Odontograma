@@ -49,7 +49,6 @@ def index():
 def reservar():
     return render_template('reserva.html')
 
-
 @app.route("/reservarCita", methods=['GET'])
 def reservarCita():
     return render_template('home.html')
@@ -61,6 +60,19 @@ def registro():
 @app.route("/ingresar", methods=["GET"])
 def ingresar():
     return render_template('login.html')
+
+@app.route("/agenda", methods=["GET"])
+def agenda():
+    return render_template('agenda.html')
+
+@app.route("/vistadoctor", methods=["GET"])
+def vistadoctor():
+    return render_template('vistadoctor.html')
+
+@app.route("/historial", methods=["GET"])
+def historial():
+    return render_template('historialClinico.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

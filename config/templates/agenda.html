@@ -1,21 +1,22 @@
-{% extends "layout.html" %}
-
-{% block body %}
+{% extends "layout.html" %} {% block body %}
 <div class="agenda-2kd">
     <div class="head-LFX">
         <div class="auto-group-6hqx-pwP">
             <div class="auto-group-kvwb-MgR">
                 <div class="auto-group-kw2u-fx1">
                     <p class="luxurtooth-zjP">LUXURTOOTH</p>
-                    <img class="rectangle-4-tZs" src="./assets/rectangle-4-Umb.png" />
+                    <img class="rectangle-4-tZs"
+                        src="{{ url_for('static', filename='/images/rectangle-4-Umb.png') }}" />
                 </div>
                 <div class="auto-group-cqhs-dGZ">
-                    <img class="icon-search-YuK" src="./assets/icon-search-uj3.png" />
+                    <img class="icon-search-YuK"
+                        src="{{ url_for('static', filename='/images/icon-search-uj3.png') }}" />
                     <p class="buscar-fecha-fj3">Buscar Fecha</p>
                 </div>
             </div>
             <div class="auto-group-yqhb-mGH">
-                <img class="auto-group-eubf-CMb" src="./assets/auto-group-eubf.png" />
+                <img class="auto-group-eubf-CMb"
+                    src="{{ url_for('static', filename='/images/auto-group-eubf.png') }}" />
                 <div class="auto-group-3vs3-jsK">
                     <div class="auto-group-6ozd-dSu">
                         <p class="doctor-sebastian-xk5">Doctor Sebastian</p>
@@ -23,84 +24,61 @@
                         <p class="aos-cZj">
                             22 años
                             <br />
-
                         </p>
                     </div>
-                    <div class="line-1-x7o">
-                    </div>
-                    <img class="bell-gJh" src="./assets/bell-nih.png" />
+                    <div class="line-1-x7o"></div>
+                    <img class="bell-gJh" src="{{ url_for('static', filename='/images/bell-nih.png') }}" />
                     <p class="notificaciones-pA1">Notificaciones</p>
-                    <div class="line-2-k3f">
-                    </div>
-                    <img class="fire-55w" src="./assets/fire-4sF.png" />
+                    <div class="line-2-k3f"></div>
+                    <img class="fire-55w" src="{{ url_for('static', filename='/images/fire-4sF.png') }}" />
                     <p class="advertencias-ba5">Advertencias</p>
                 </div>
             </div>
         </div>
-        <img class="user-Xid" src="./assets/user-qNd.png" />
+        <img class="user-Xid" src="{{ url_for('static', filename='/images/user-qNd.png') }}" />
         <p class="doc-sebas-rF7">Doc. Sebas</p>
-        <img class="polygon-1-mcy" src="./assets/polygon-1-fp9.png" />
+        <img class="polygon-1-mcy" src="{{ url_for('static', filename='/images/polygon-1-fp9.png') }}" />
     </div>
     <div class="auto-group-hf5f-i2R">
-        <a href="agenda.html" class="agenda-1nD">Agenda</a>
-        <div class="line-3-veH">
-        </div>
-        <a href="vistadoctor.html" class="odontograma-rnq">Odontograma</a>
-        <div class="line-4-muo">
-        </div>
-        <a href="historialclinico.html" class="historial-clinico-7yf">Historial Clinico</a>
+        <a href="/agenda" class="agenda-1nD">Agenda</a>
+        <div class="line-3-veH"></div>
+        <a href="/vistadoctor" class="odontograma-rnq">Odontograma</a>
+        <div class="line-4-muo"></div>
+        <a href="/historial" class="historial-clinico-7yf">Historial Clinico</a>
     </div>
     <div class="auto-group-bxnh-RjT">
         <div class="auto-group-5g8m-99f">
-            <p class="diario-USq">Diario </p>
-            <div class="line-12-c3F">
-            </div>
+            <p class="diario-USq">Diario</p>
+            <div class="line-12-c3F"></div>
             <p class="semanal-8XP">Semanal</p>
         </div>
         <div class="auto-group-qdnv-fXK">
-            <div class="line-22-Muw">
-            </div>
-            <div class="line-13-5qw">
-            </div>
-            <div class="line-14-2FP">
-            </div>
-            <div class="line-15-mTs">
-            </div>
-            <div class="line-16-iP7">
-            </div>
-            <div class="line-17-G9j">
-            </div>
-            <div class="line-18-1d7">
-            </div>
-            <div class="line-19-Z8q">
-            </div>
-            <div class="line-20-VYH">
-            </div>
-            <div class="line-7-Rwj">
-            </div>
-            <div class="line-24-yTT">
-            </div>
-            <div class="line-25-WTP">
-            </div>
-            <div class="line-8-FA5">
-            </div>
-            <div class="line-9-ZwT">
-            </div>
-            <div class="line-10-h25">
-            </div>
-            <div class="line-11-q8H">
-            </div>
-            <div class="line-23-yVP">
-            </div>
+            <div class="line-22-Muw"></div>
+            <div class="line-13-5qw"></div>
+            <div class="line-14-2FP"></div>
+            <div class="line-15-mTs"></div>
+            <div class="line-16-iP7"></div>
+            <div class="line-17-G9j"></div>
+            <div class="line-18-1d7"></div>
+            <div class="line-19-Z8q"></div>
+            <div class="line-20-VYH"></div>
+            <div class="line-7-Rwj"></div>
+            <div class="line-24-yTT"></div>
+            <div class="line-25-WTP"></div>
+            <div class="line-8-FA5"></div>
+            <div class="line-9-ZwT"></div>
+            <div class="line-10-h25"></div>
+            <div class="line-11-q8H"></div>
+            <div class="line-23-yVP"></div>
             <p class="daniel-l-7bb">Daniel L</p>
             <p class="juan-b-EAR">Juan B</p>
             <p class="bryan-c-8mb">Bryan C</p>
-            <img class="polygon-2-rhb" src="./assets/polygon-2-pHT.png" />
-            <img class="polygon-3-PxR" src="./assets/polygon-3-x8u.png" />
-            <img class="polygon-4-Lcm" src="./assets/polygon-4.png" />
-            <img class="polygon-5-669" src="./assets/polygon-5.png" />
-            <img class="polygon-6-Ru7" src="./assets/polygon-6.png" />
-            <p class="sara-b-yQq">Sara B</p>
+            <img class="polygon-2-rhb" src="{{ url_for('static', filename='/images/polygon-2-pHT.png') }}" />
+            <img class="polygon-3-PxR" src="{{ url_for('static', filename='/images/polygon-3-x8u.png') }}" />
+            <img class="polygon-4-Lcm" src="{{ url_for('static', filename='/images/polygon-4.png') }}" />
+            <img class="polygon-5-669" src="{{ url_for('static', filename='/images/polygon-5.png') }}" />
+            <img class="polygon-6-Ru7" src="{{ url_for('static', filename='/images/polygon-6.png') }}" />
+            <p class="sara-b-yQq">Juan B</p>
             <p class="william-i-Vty">William I</p>
             <p class="lunes-vUV">Lunes</p>
             <p class="martes-dth">Martes</p>

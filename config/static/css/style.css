@@ -418,7 +418,8 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-P5o.png');
+  border-radius: 3rem;
+  background-image: url('../images/navegacion-P5o.png');
   flex-shrink: 0;
 }
 
@@ -1377,7 +1378,7 @@ a {
   top: 17.1rem;
   background-size: 150.218% 100%;
   background-position: -0.2269rem 0;
-  background-image: url('../assets/rectangle-4.png');
+  background-image: url('../images/rectangle-4.png');
 }
 
 .reserva-zEy .auto-group-du2z-NZb .line-13-NrR {
@@ -1469,7 +1470,7 @@ a {
   top: -29rem;
   background-size: 85.43% 128.873%;
   background-position: 1.2957rem -0rem;
-  background-image: url('../assets/rectangle-3.png');
+  background-image: url('../images/rectangle-3.png');
 }
 
 .reserva-zEy .auto-group-du2z-NZb .rectangle-14-UK7 {
@@ -2160,7 +2161,8 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-Vss.png');
+  border-radius: 3rem;
+  background-image: url('../images/navegacion-P5o.png');
   flex-shrink: 0;
 }
 
@@ -3196,9 +3198,10 @@ a {
   left: 45.9rem;
   top: 60.7rem;
   font-size: 3.8rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.2125;
-  color: rgba(217, 217, 217, 0.6999999881);
+  color: rgba(217, 217, 217, 0.5);
+  background-color: transparent;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -3768,7 +3771,8 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion-MDw.png');
+  border-radius: 3rem;
+  background-image: url('../images/navegacion-P5o.png');
   flex-shrink: 0;
 }
 
@@ -4837,11 +4841,13 @@ a {
   width: calc(100% - 4.4rem);
   height: 6.8rem;
   display: flex;
+  border-radius: 3rem;
   align-items: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/navegacion.png');
+  border-radius: 3rem;
+  background-image: url('../images/navegacion-P5o.png');
   flex-shrink: 0;
 }
 

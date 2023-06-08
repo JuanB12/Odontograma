@@ -13,7 +13,7 @@
             <img class="polygon-1-gsP" src="{{ url_for('static', filename='/images/polygon-1-Lqs.png') }}" />
         </div>
         <div class="auto-group-v9jj-dnd">
-            <img class="auto-group-mdeu-ksF" src="./assets/auto-group-mdeu.png" />
+            <img class="auto-group-mdeu-ksF" src="{{ url_for('static', filename='/images/auto-group-mdeu.png') }}" />
             <div class="auto-group-egsy-uVF">
                 <div class="auto-group-5akf-bss">
                     <p class="juan-camilo-barrios-jUH">Juan Camilo Barrios</p>
@@ -51,12 +51,14 @@
             considerablemente
         </p>
         <div class="rectangle-11-kSZ"></div>
-        <div class="rectangle-12-4TF"></div>
-        <div class="rectangle-13-k5B"></div>
+        <img class="rectangle-12-4TF" src="{{ url_for('static', filename='/images/odontograma.png') }}" />
+        <div class="rectangle-13-k5B">
+            <img src="{{ url_for('static', filename='/images/dienteFrame13.png') }}" />
+        </div>
         <div class="rectangle-6-eRT"></div>
         <p class="ver-detalles-Aub">Ver Detalles</p>
         <div class="rectangle-14-tqb"></div>
-        <a href="reserva.html" class="reservar-cita-pz9">Reservar Cita</a>
+        <a href="/reservar" class="reservar-cita-pz9">Reservar Cita</a>
     </div>
 </div>
 {% endblock %}

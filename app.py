@@ -47,36 +47,23 @@ def index():
 
 
 
-# save roles
-@app.route("/saveroles", methods=["POST"])
-def saveRol():
-    nombre = request.json['Nombre']
-    newRol = Roles(nombre)
-    bd.session.add(newRol)
-    bd.session.commit()
-    return "Guardado con exito"
-
-# delete roles
-@app.route("/eliminar", methods=["POST"])
-def deleteRol():
-    id_r = request.json['id_rol']
-    nombre = Roles.query.get(id_r)
-    bd.session.delete(nombre)
-    bd.session.commit()
-    return jsonify(rol_schema.dump(nombre))
+@app.route("/", methods=['GET'])
+def index():
+    return render_template('home.html')
 
 
-# update roles
-@app.route("/update", methods=["POST"])
-def updateRol():
-    id_r = request.json['id_rol']
-    nombre = request.json['Nombre']
-    rol = Roles.query.get(id_r)
-    # rol = Roles.query.get(nombre)
-    rol.id_rol = id_r
-    rol.Nombre = nombre
-    bd.session.commit()
-    return "Update exitoso"
+@app.route("/reservar", methods=['GET'])
+def reservar():
+    return render_template('reserva.html')
+
+
+@app.route("/reservarCita", methods=['GET'])
+def reservarCita():
+    return render_template('home.html')
+
+@app.route("/ingresar", methods=["GET"])
+def ingresar():
+    return render_template('login.html')
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

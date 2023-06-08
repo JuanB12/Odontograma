@@ -38,11 +38,26 @@ odontogramas_schema = Odontograma_Schema(many=True)
 historia_schema = HistoriaC_Schema()
 historias_schema = HistoriaC_Schema(many=True)
 
+# ------------------------------------------------------------------------------
+@app.route("/agenda", methods=["GET"])
+def agenda():
+    return render_template('agenda.html')
 
+@app.route("/historial", methods=["GET"])
+def historial():
+    return render_template('historialClinico.html')
 
 @app.route("/", methods=['GET'])
 def index():
     return render_template('home.html')
+
+@app.route("/ingresar", methods=["GET"])
+def ingresar():
+    return render_template('login.html')
+
+@app.route("/registro", methods=['GET'])
+def registro():
+    return render_template('registro.html')
 
 @app.route("/reservar", methods=['GET'])
 def reservar():
@@ -52,26 +67,13 @@ def reservar():
 def reservarCita():
     return render_template('home.html')
 
-@app.route("/registro", methods=['GET'])
-def registro():
-    return render_template('registro.html')
-
-@app.route("/ingresar", methods=["GET"])
-def ingresar():
-    return render_template('login.html')
-
-@app.route("/agenda", methods=["GET"])
-def agenda():
-    return render_template('agenda.html')
-
 @app.route("/vistadoctor", methods=["GET"])
 def vistadoctor():
-    return render_template('vistadoctor.html')
+    return render_template('vistaDoctor.html')
 
-@app.route("/historial", methods=["GET"])
-def historial():
-    return render_template('historialClinico.html')
-
+@app.route("/vistapaciente", methods=["GET"])
+def vistapaciente():
+    return render_template('vistaPaciente.html')
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

@@ -44,11 +44,9 @@ historias_schema = HistoriaC_Schema(many=True)
 def index():
     return render_template('home.html')
 
-
 @app.route("/reservar", methods=['GET'])
 def reservar():
     return render_template('reserva.html')
-
 
 @app.route("/reservarCita", methods=['GET'])
 def reservarCita():

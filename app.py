@@ -60,6 +60,19 @@ def registro():
 def ingresar():
     return render_template('login.html')
 
+@app.route("/agenda", methods=["GET"])
+def agenda():
+    return render_template('agenda.html')
+
+@app.route("/vistadoctor", methods=["GET"])
+def vistadoctor():
+    return render_template('vistadoctor.html')
+
+@app.route("/historial", methods=["GET"])
+def historial():
+    return render_template('historialClinico.html')
+
+
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")
 
